@@ -1,8 +1,11 @@
-name: Scrape latest jobs
+
+name: Scrape latest data
 
 on:
+  push:
+  workflow_dispatch:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron:  '6 12 * * *'
 
 jobs:
   scheduled:
@@ -13,9 +16,8 @@ jobs:
       with:
         fetch-depth: 0
     - name: Fetch latest data
-      run: |
-        curl https://relocate-with-us.github.io/db.json |  jq . > list.json
-
+      run: |-
+        curl https://relocate-with-us.github.io/db.json | jq . > jobList.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
@@ -24,3 +26,4 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+
