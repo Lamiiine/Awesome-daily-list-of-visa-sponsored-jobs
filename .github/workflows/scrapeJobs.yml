@@ -13,7 +13,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Fetch latest data
-      run: |-
+      run: |
         curl https://relocate-with-us.github.io/db.json | \
         jq -r '[["Company", "Job Title", "Location", "Relocation", "Visa", "Contract", "Post Date", "Apply Link"]] + \
         ( .[] | [ .company, .position, .location, .reloc, .visa, .contract, .post_date, "[Apply](" + .description + ")" ] ) | \
