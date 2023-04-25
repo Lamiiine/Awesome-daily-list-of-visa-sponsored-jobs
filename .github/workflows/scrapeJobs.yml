@@ -19,10 +19,10 @@ jobs:
         curl https://relocate-with-us.github.io/db.json | jq . > jobList.json
     - name: Parse jobList.json into table
       id: parse-json
-      run: |
-          echo "| Company | Job Title | Location  |  Link |" > jobs_table.md
-          echo "|----------|-----------------|--------------|" >> jobs_table.md
-          jq -r '.[] | "|" + .company +"|" + .position + " | " + .location + " |" + .description + " | "' jobList.json >> jobs_table.md
+      run: |    
+                echo "| Company | Job Title | Location | Link |" > jobs_table.md
+                echo "|---------|-----------|---------|------|" >> jobs_table.md
+                jq -r '.[] | "| " + .company + " | " + .position + " | " + .location + " | " + .description + " |"' jobList.json >> jobs_table.md
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
