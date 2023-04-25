@@ -33,7 +33,7 @@
 | Zalando SE | Software Engineer (Kotlin/Java) | Berlin, Germany 🇩🇪 | https://jobs.zalando.com/en/jobs/4870595 |
 | Wallapop | Search Engineer | Barcelona, Spain 🇪🇸 | https://boards.eu.greenhouse.io/wallapop/jobs/4115333101 |
 | Wallapop | DevOps Engineer | Barcelona, Spain 🇪🇸 | https://boards.eu.greenhouse.io/wallapop/jobs/4156850101 |
-| Jus Mundi | Software Engineer | Node.js/Vue.js | Paris, France 🇫🇷 | https://www.welcometothejungle.com/en/companies/jus-mundi/jobs/software-engineer-node-js-vue-js_paris |
+| Jus Mundi | Software Engineer (Node.js/Vue.js) | Paris, France 🇫🇷 | https://www.welcometothejungle.com/en/companies/jus-mundi/jobs/software-engineer-node-js-vue-js_paris |
 | Scout24 | Senior UX Designer (d/f/m) | Berlin, Germany 🇩🇪 | https://www.immobilienscout24.de/company/careers/jobs/product-management/senior-ux-designer-d-f-m-4999498/ |
 | Mondu | Senior Customer Success Manager (m/f/x) | Berlin, Germany 🇩🇪 | https://boards.eu.greenhouse.io/monduai/jobs/4055651101 |
 | Popcore | Frontend Developer | Berlin, Germany 🇩🇪 | https://boards.eu.greenhouse.io/popcore/jobs/4156984101 |
