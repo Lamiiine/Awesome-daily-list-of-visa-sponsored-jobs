@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '6 12 * * *'
+    - cron: '6 12 * * *'
 
 jobs:
   scheduled:
@@ -19,15 +19,15 @@ jobs:
         curl https://relocate-with-us.github.io/db.json | jq . > jobList.json
     - name: Parse jobList.json into table
       id: parse-json
-      run: |    
-                echo "| Company | Job Title | Location | Link |" > README.md
-                echo "|---------|-----------|---------|------|" >> README.md
-                jq -r '.[] | "| " + .company + " | " + .position + " | " + .location + " | " + .description + " |"' jobList.json > README.md
+      run: |
+        echo "| Company | Job Title | Location | Link |" > README.md
+        echo "| --- | --- | --- | --- |" >> README.md
+        jq -r '.[] | "| " + .company + " | " + .position + " | " + .location + " | " + "[Apply](" + .applyUrl + ")" + " |"' jobList.json >> README.md
     - name: Commit and push if it changed
-      run: |-
+      run: |
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git add -A
+        git add README.md
         timestamp=$(date -u)
         git commit -m "Latest jobs: ${timestamp}" || exit 0
         git push
