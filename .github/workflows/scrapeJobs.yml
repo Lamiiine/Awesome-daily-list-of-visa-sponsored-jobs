@@ -20,7 +20,7 @@ jobs:
     - name: Parse jobList.json into table
       id: parse-json
       run: |    
-                echo "| Company | Job Title | Location | Link | Date" > jobs_table.md
+                echo "| Company | Job Title | Location | Link | Date |" > jobs_table.md
                 echo "|---------|-----------|---------|------|" >> jobs_table.md
                 jq -r --arg d "$(date -u)" '.[] | "| " + .company + " | " + .position + " | " + .location + " | " + .description + " | " + $d + " |"' jobList.json >> jobs_table.md    
     - name: Commit and push if it changed
