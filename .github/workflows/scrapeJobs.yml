@@ -20,9 +20,9 @@ jobs:
     - name: Parse jobList.json into table
       id: parse-json
       run: |    
-                echo "| Company | Job Title | Location | Link |" > jobs_table.md
-                echo "|---------|-----------|---------|------|" >> jobs_table.md
-                jq -r '.[] | "| " + .company + " | " + .position + " | " + .location + " | " + .description + " |"' jobList.json >> jobs_table.md
+        echo "| Company | Job Title | Location | Link |" > README.md
+        echo "|---------|-----------|---------|------|" >> README.md
+        jq -r '.[] | "| " + .company + " | " + .position + " | " + .location + " | " + .description + " |"' jobList.json > README.md
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
