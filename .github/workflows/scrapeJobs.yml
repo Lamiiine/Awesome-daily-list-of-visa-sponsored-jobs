@@ -16,23 +16,18 @@ jobs:
         fetch-depth: 0
     - name: Fetch latest data
       run: |-
-        curl https://relocate-with-us.github.io/db.json | jq '.[] | [.company, .position, .location, .description]' -c > jobList.txt
-    - name: Install tabulate
-      run: |
-        pip install tabulate
-    - name: Generate table
-      run: |
-        echo "Company | Position | Location | Description" > table.md
-        echo "--- | --- | --- | ---" >> table.md
-        cat jobList.txt | python -c "import json,sys; from tabulate import tabulate; print(tabulate(json.load(sys.stdin), headers=['company', 'position', 'location', 'description'], tablefmt='pipe'))" >> table.md
-    - name: Update README
-      run: |
-        sed -i '/<!-- start job list -->/,/<!-- end job list -->/c\<!-- start job list -->\n\n'"$(cat table.md)"'\n\n<!-- end job list -->' README.md
+        curl https://relocate-with-us.github.io/db.json | jq . > jobList.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git add README.md
+        git add -A
         timestamp=$(date -u)
-        git commit -m "Update job list: ${timestamp}" || exit 0
+        git commit -m "Latest jobs: ${timestamp}" || exit 0
         git push
+    - name: Parse jobList.json into table
+      id: parse-json
+      run: |
+          echo "| Job Title | Job Description | Job Location |" > jobs_table.md
+          echo "|----------|-----------------|--------------|" >> jobs_table.md
+          jq -r '.[] | "| " + .title + " | " + .description + " | " + .location + " |"' jobList.json >> jobs_table.md
