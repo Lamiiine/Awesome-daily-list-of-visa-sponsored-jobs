@@ -17,6 +17,12 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl https://relocate-with-us.github.io/db.json | jq . > jobList.json
+    - name: Parse jobList.json into table
+      id: parse-json
+      run: |
+          echo "| Job Title | Job Description | Job Location |" > jobs_table.md
+          echo "|----------|-----------------|--------------|" >> jobs_table.md
+          jq -r '.[] | "| " + .title + " | " + .description + " | " + .location + " |"' jobList.json >> jobs_table.md
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
@@ -25,9 +31,4 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest jobs: ${timestamp}" || exit 0
         git push
-    - name: Parse jobList.json into table
-      id: parse-json
-      run: |
-          echo "| Job Title | Job Description | Job Location |" > jobs_table.md
-          echo "|----------|-----------------|--------------|" >> jobs_table.md
-          jq -r '.[] | "| " + .title + " | " + .description + " | " + .location + " |"' jobList.json >> jobs_table.md
+
