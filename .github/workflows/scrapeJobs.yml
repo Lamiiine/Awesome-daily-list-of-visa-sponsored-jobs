@@ -24,7 +24,7 @@ jobs:
       run: |
         echo "Company | Position | Location | Description" > table.md
         echo "--- | --- | --- | ---" >> table.md
-        cat jobList.txt | python -c "import json,sys; from tabulate import tabulate; print(tabulate(json.load(sys.stdin), headers=['Company', 'Position', 'Location', 'Description'], tablefmt='pipe'))" >> table.md
+        cat jobList.txt | python -c "import json,sys; from tabulate import tabulate; print(tabulate(json.load(sys.stdin), headers=['company', 'position', 'location', 'description'], tablefmt='pipe'))" >> table.md
     - name: Update README
       run: |
         sed -i '/<!-- start job list -->/,/<!-- end job list -->/c\<!-- start job list -->\n\n'"$(cat table.md)"'\n\n<!-- end job list -->' README.md
