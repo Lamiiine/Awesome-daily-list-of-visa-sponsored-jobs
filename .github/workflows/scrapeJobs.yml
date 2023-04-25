@@ -22,7 +22,7 @@ jobs:
       run: |    
                 echo "| Logo | Company | Job Title | Location | Link |" > jobs_table.md
                 echo "|---------|-----------|---------|------|" >> jobs_table.md
-                jq -r '.[] | "| " + .logo + "| " + .company + " | " + .position + " | " + .location + " | " + .description + " |"' jobList.json >> jobs_table.md
+                jq -r '.[] | "| ![](" + .logo + ") | " + .company + " | " + .position + " | " + .location + " | " + .description + " |"' jobList.json >> jobs_table.md
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
