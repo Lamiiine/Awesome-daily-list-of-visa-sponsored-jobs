@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Ryanair | iOS Developer | Dublin, Ireland 🇮🇪 | [Apply]() |
+| Ryanair | Frontend Developer | Dublin, Ireland 🇮🇪 | [Apply]() |
+| Capgemini | LINUX ADMINISTRATOR | Warsaw, Poland 🇵🇱 | [Apply]() |
+| Booking.com | IT Risk & Controls Analyst - FinTech | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Booking.com | IT Risk and Control Officer - FinTech | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Kaufland.de | Product Intelligence Manager (f/m/d) | Cologne, Germany 🇩🇪 | [Apply]() |
 | King | DevOps Engineer | London , UK 🇬🇧 | [Apply]() |
 | King | Data Engineer (Shared Tech) | London , UK 🇬🇧 | [Apply]() |
 | King | Site Reliability Engineer | Stockholm, Sweden 🇸🇪 | [Apply]() |
