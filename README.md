@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| SumUp | Analytics Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Payment Application Engineer, Hardware | Berlin, Germany 🇩🇪 | [Apply]() |
+| Tactile Games | Senior/Lead Level Designer | Copenhagen, Denmark 🇩🇰 | [Apply]() |
+| Nokia | Senior Specification Engineer | Oulou, Finland 🇫🇮 | [Apply]() |
+| Kiwi.com | Senior Product Manager for Ancillaries Mobile | Barcelona, Spain 🇪🇸 | [Apply]() |
+| Destinus | Embedded Software Engineer | Payerne, Switzerland 🇨🇭 | [Apply]() |
+| Destinus | IT Administrator | Madrid, Spain 🇪🇸 | [Apply]() |
+| Destinus | Lead Systems Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
+| Picnic | IAM Software Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Bigpoint GmbH | SAP SPECIALIST (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Ryanair | iOS Developer | Dublin, Ireland 🇮🇪 | [Apply]() |
 | Ryanair | Frontend Developer | Dublin, Ireland 🇮🇪 | [Apply]() |
 | Capgemini | LINUX ADMINISTRATOR | Warsaw, Poland 🇵🇱 | [Apply]() |
@@ -361,10 +371,6 @@
 | Tactile Games | Backend Engineer, TypeScript | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Tactile Games | Data Analyst | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Tactile Games | Senior UI Designer | Copenhagen, Denmark 🇩🇰 | [Apply]() |
-| N26 | Lead Database Engineer (PostgreSQL) | Vienna, Austria 🇦🇹 | [Apply]() |
-| N26 | Lead Data Engineer | Vienna, Austria 🇦🇹 | [Apply]() |
-| Entain | Full Stack Engineer (All genders) | Vienna, Austria 🇦🇹 | [Apply]() |
-|  Studio Gobo | Technical Artist (All levels) | Brighton, UK 🇬🇧 | [Apply]() |
 |  Shipup | Product full-stack developer (Advanced) | Paris, France 🇫🇷 | [Apply]() |
 | Funcom | Marketing Director | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | Klarna | Senior Product Manager - Platform Products | Stockholm, Sweden 🇸🇪 | [Apply]() |
@@ -374,8 +380,6 @@
 | Telespazio | Product Assurance (PA) Engineer | Transinne, Belgium 🇧🇪 | [Apply]() |
 | NXP Semiconductors | Customer & Application Support Engineer (software) | Leuven, Belgium 🇧🇪 | [Apply]() |
 | Billie | Product Manager (ML/DS focus) (w/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Billie | Partnerships Business Development Manager (w/m/d)  | Berlin, Germany 🇩🇪 | [Apply]() |
-| Billie | Analyst Risk Management (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | gridX | Python Software Engineer (M/F/X) | Aachen & München, Germany 🇩🇪 | [Apply]() |
 | Booking. |  Full Stack Developer - Advertising Technology  | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Nexthink | Software Engineer (Full-Stack) | Madrid, Spain 🇪🇸 | [Apply]() |
