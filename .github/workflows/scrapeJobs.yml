@@ -23,7 +23,7 @@ jobs:
         date=$(date -u "+%Y-%m-%d")
         echo "| Date | Company | Job Title | Location | Link |" > README.md
         echo "| --- | --- | --- | --- |" >> README.md
-        jq -r '.[] | "| " + $date + " | " + .company + " | " + .position + " | " + .location + " | " + "[Apply](" + .applyUrl + ")" + " |"' jobList.json >> README.md
+        jq -r --arg date "$date" '.[] | "| " + $date + " | " + .company + " | " + .position + " | " + .location + " | " + "[Apply](" + .applyUrl + ")" + " |"' jobList.json >> README.md
     - name: Commit and push if it changed
       run: |
         git config user.name "Automated"
