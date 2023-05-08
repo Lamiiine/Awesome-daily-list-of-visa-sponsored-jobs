@@ -1,5 +1,16 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Adyen | Marketing Data Analyst | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Database Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Monitoring Operations Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Cinemo | Junior C++ Embedded Software Engineer (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
+| Zalando SE | Backend Engineer (Java) - Zalando Premium Logistics) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Kolibri Games | Unity Games Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Kolibri Games | Game Data Analyst (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Kolibri Games | Data Engineer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Kolibri Games | QA Tester (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| brighter AI | Machine Learning Operations (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Picnic | Warehouse Simulation Software Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Cinemo | Solution Engineer (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | Cinemo | Embedded Software Engineer C++ (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | K-tronik GmbH | Development Engineer (m/f/x) for ASIC/FPGA | Dresden, Germany 🇩🇪 | [Apply]() |
