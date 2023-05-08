@@ -1,5 +1,12 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Diabolocom | Frontend Software Engineer | Paris, France 🇫🇷 | [Apply]() |
+| Diabolocom | Lead QA Automation Engineer | Paris, France 🇫🇷 | [Apply]() |
+| Diabolocom | Java Developer | Paris, France 🇫🇷 | [Apply]() |
+| justtrack | Senior Product Marketing Manager (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Cinemo | Senior C++ Software Engineer - Car Connectivity (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
+| K-tronik GmbH | Software Developer - Aerospace (m/f/x) | Munich, Germany 🇩🇪 | [Apply]() |
+| Tabit GmbH | Senior Java Developer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adyen | Marketing Data Analyst | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Database Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Monitoring Operations Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
