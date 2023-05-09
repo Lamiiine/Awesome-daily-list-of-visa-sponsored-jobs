@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| AKUR8 | Machine Learning Engineer | Paris, France 🇫🇷 | [Apply]() |
+| AKUR8 | Senior Front-end Engineer | Paris, France 🇫🇷 | [Apply]() |
+| Delivion GmbH | Cloud Platform Engineer | Mülheim, Germany 🇩🇪 | [Apply]() |
+| Delivion GmbH | Cloud Native Software Developer | Mülheim, Germany 🇩🇪 | [Apply]() |
+| byrd | Junior Account Manager (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Container xChange | CRM Marketing Manager (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Container xChange | Data Analyst (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Container xChange | Analytics Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Optiver | Senior Software Engineer | SYDNEY, Australia 🇦🇺 | [Apply]() |
+| Optiver | Project Manager – Platform Technology | SYDNEY, Australia 🇦🇺 | [Apply]() |
 | Diabolocom | Frontend Software Engineer | Paris, France 🇫🇷 | [Apply]() |
 | Diabolocom | Lead QA Automation Engineer | Paris, France 🇫🇷 | [Apply]() |
 | Diabolocom | Java Developer | Paris, France 🇫🇷 | [Apply]() |
