@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Picnic | Quality Assurance (QA) Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Picnic | Technical Product Owner - Network | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Alteos | Senior Frontend Engineer, Food Alliance (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Alteos | Insurance Product Manager (m/w/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| BMW Group | C++ Software Engineer for OTA Updates (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| soundcloud | Security Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | AKUR8 | Machine Learning Engineer | Paris, France 🇫🇷 | [Apply]() |
 | AKUR8 | Senior Front-end Engineer | Paris, France 🇫🇷 | [Apply]() |
 | Delivion GmbH | Cloud Platform Engineer | Mülheim, Germany 🇩🇪 | [Apply]() |
