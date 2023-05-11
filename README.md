@@ -1,8 +1,19 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| University of Bath | Systems Developer | Bath, UK 🇬🇧 | [Apply]() |
+| Catawiki | Android Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Catawiki | Senior Software Engineer - Back-End | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Babbel | Team Lead - Growth Data (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Payrails | Senior Systems Engineer (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Payrails | Senior Product Manager (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Payrails | Senior Frontend Engineer (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Talon.One GmbH | QA Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HelloFresh | Atlassian Cloud Admin (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HelloFresh | Senior Staff Engineer, Growth Alliance (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| K-tronik GmbH | Test Engineer (m/f/x) Embedded Software | Forchheim, Germany 🇩🇪 | [Apply]() |
+| K-tronik GmbH | Embedded Software Developer (m/f/x) | Forchheim, Germany 🇩🇪 | [Apply]() |
 | Picnic | Quality Assurance (QA) Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Picnic | Technical Product Owner - Network | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Alteos | Senior Frontend Engineer, Food Alliance (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Alteos | Insurance Product Manager (m/w/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | BMW Group | C++ Software Engineer for OTA Updates (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | soundcloud | Security Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
