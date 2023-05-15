@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| HelloFresh | BI Analyst - Operations Strategy & Analytics (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Micropsi Industries | Senior Python Developer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Micropsi Industries | Performance Marketing Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Energetech | Junior Software Engineer |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
+| Improvin' | UI Designer | Stockholm, Sweden 🇸🇪 | [Apply]() |
+| Improvin' | Business Developer | Stockholm, Sweden 🇸🇪 | [Apply]() |
+| Improvin' | Full-stack Engineer | Stockholm, Sweden 🇸🇪 | [Apply]() |
+| Improvin' | Data Platform Engineer | Stockholm, Sweden 🇸🇪 | [Apply]() |
+| Gymondo | Senior Backend Engineer - Golang (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | University of Bath | Systems Developer | Bath, UK 🇬🇧 | [Apply]() |
 | Catawiki | Android Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Catawiki | Senior Software Engineer - Back-End | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
