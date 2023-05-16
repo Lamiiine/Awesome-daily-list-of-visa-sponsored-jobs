@@ -1,5 +1,13 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Adyen | Group Product Manager, Data Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | DataOps Engineer, Observability Platforms | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Solution Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Implementation Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Trinamics | JR. ADVANCED SIMULATION SOFTWARE SUPPORT ENGINEER | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| soundcloud | Senior Data Scientist- Search and Recommendation | Berlin, Germany 🇩🇪 | [Apply]() |
+| adjoe | Senior Frontend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Sunday GmbH | Game Designer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | HelloFresh | BI Analyst - Operations Strategy & Analytics (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Micropsi Industries | Senior Python Developer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Micropsi Industries | Performance Marketing Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
