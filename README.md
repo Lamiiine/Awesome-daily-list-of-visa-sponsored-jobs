@@ -1,5 +1,12 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Phoenix Labs | UI ARTIST | VANCOUVER, Canada 🇨🇦 | [Apply]() |
+| Phoenix Labs | DATA ANALYST | VANCOUVER, Canada 🇨🇦 | [Apply]() |
+| Phoenix Labs | SENIOR SERVICES ENGINEER | VANCOUVER, Canada 🇨🇦 | [Apply]() |
+| K-tronik GmbH | IoT DevOps Engineer (m/f/x) Innovative Fast Charging System | Forchheim, Germany 🇩🇪 | [Apply]() |
+| Kolibri Games | LiveOPS Frontend Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Kolibri Games | Product Manager (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Synergeticon GmbH | Industrial Game Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Adyen | Group Product Manager, Data Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | DataOps Engineer, Observability Platforms | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Solution Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
