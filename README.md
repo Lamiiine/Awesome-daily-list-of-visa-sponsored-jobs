@@ -1,5 +1,17 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Project A Ventures | HR Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Back Market | Backend Engineer - Browsing | Barcelona, Spain 🇪🇸 | [Apply]() |
+| Back Market | Data Engineering Manager - Customer squad | Paris, France 🇫🇷 | [Apply]() |
+| BlaBlaCar | Product Manager - Identity & Access Management | Paris, France 🇫🇷 | [Apply]() |
+| BlaBlaCar | Python Backend Engineer - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
+| BlaBlaCar | Data Engineer - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
+| Booking.com | Group Product Manager - Tech & Product (Product Management) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Optiver | Data Visualization Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Optiver | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Optiver | Network Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Optiver | Support Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Monzo | Android Engineer | London , UK 🇬🇧 | [Apply]() |
 | Phoenix Labs | UI ARTIST | VANCOUVER, Canada 🇨🇦 | [Apply]() |
 | Phoenix Labs | DATA ANALYST | VANCOUVER, Canada 🇨🇦 | [Apply]() |
 | Phoenix Labs | SENIOR SERVICES ENGINEER | VANCOUVER, Canada 🇨🇦 | [Apply]() |
