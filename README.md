@@ -1,7 +1,7 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
 | Project A Ventures | HR Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Back Market | Backend Engineer - Browsing | Barcelona, Spain 🇪🇸 | [Apply]() |
+| Back Market | Frontend Engineer - Acquisition | Barcelona, Spain 🇪🇸 | [Apply]() |
 | Back Market | Data Engineering Manager - Customer squad | Paris, France 🇫🇷 | [Apply]() |
 | BlaBlaCar | Product Manager - Identity & Access Management | Paris, France 🇫🇷 | [Apply]() |
 | BlaBlaCar | Python Backend Engineer - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
