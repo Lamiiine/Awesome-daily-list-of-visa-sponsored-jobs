@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| GUARDSQUARE | DevOps Engineer | Leuven, Belgium 🇧🇪 | [Apply]() |
+| GUARDSQUARE | Junior Java R&D Software Engineer - Leuven | Leuven, Belgium 🇧🇪 | [Apply]() |
+| Adyen | System Administrator - Office Infrastructure | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Digital Marketing Manager | Berlin, Germany 🇩🇪 | [Apply]() |
+| Adyen | Product Manager, Data Platform | Madrid, Spain 🇪🇸 | [Apply]() |
+| Adyen | Java Software Engineer - Backend | Madrid, Spain 🇪🇸 | [Apply]() |
+| Adyen | Platform Reliability Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
+| Adyen | DataOps Engineer, Observability Platforms | Madrid, Spain 🇪🇸 | [Apply]() |
+| Adyen | Database Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Project A Ventures | HR Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Back Market | Frontend Engineer - Acquisition | Barcelona, Spain 🇪🇸 | [Apply]() |
 | Back Market | Data Engineering Manager - Customer squad | Paris, France 🇫🇷 | [Apply]() |
@@ -20,7 +29,6 @@
 | Kolibri Games | Product Manager (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Synergeticon GmbH | Industrial Game Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Adyen | Group Product Manager, Data Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Adyen | DataOps Engineer, Observability Platforms | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Solution Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Implementation Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Trinamics | JR. ADVANCED SIMULATION SOFTWARE SUPPORT ENGINEER | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
@@ -71,7 +79,6 @@
 | K-tronik GmbH | Software Developer - Aerospace (m/f/x) | Munich, Germany 🇩🇪 | [Apply]() |
 | Tabit GmbH | Senior Java Developer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adyen | Marketing Data Analyst | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Adyen | Database Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Monitoring Operations Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Cinemo | Junior C++ Embedded Software Engineer (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | Zalando SE | Backend Engineer (Java) - Zalando Premium Logistics) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -317,8 +324,6 @@
 | Klarna | Product Manager - Platform Products | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | GUARDSQUARE | Full-Stack Engineer (Go/React) | Leuven, Belgium 🇧🇪 | [Apply]() |
 | GUARDSQUARE | Mobile App Developer with Security Ambitions (iOS/Android) | Leuven, Belgium 🇧🇪 | [Apply]() |
-| GUARDSQUARE | Junior Java R&D Software Engineer - Leuven | Leuven, Belgium 🇧🇪 | [Apply]() |
-| GUARDSQUARE | DevOps Engineer | Leuven, Belgium 🇧🇪 | [Apply]() |
 | GUARDSQUARE | Software QA Engineer | Leuven, Belgium 🇧🇪 | [Apply]() |
 | GULP – experts united | Backend Software Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | justDice | Senior Game Artist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
