@@ -1,5 +1,24 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Guerrilla | Infrastructure Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Guerrilla | TOOLS PROGRAMMER | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Guerrilla | UI PROGRAMMER | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Senior Android Software Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Optiver | Executive Assistant – Technology | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Java Software Engineer - Data | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | C++ Application Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Salesforce Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Technical Support Engineer, Platforms | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| EVBox | IT Product Owner - Supply Chain | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| EVBox | Data Product Owner | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| EVBox | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| University of Bath | Research Assistant | Bath, UK 🇬🇧 | [Apply]() |
+| raisin | Junior Zendesk Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Oetker Digital | (Senior) Consultant Data Protection (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Oetker Digital |  (Senior) Data & Analytics Consultant (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Oetker Digital | System Administrator (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Lightcurve | DevOps Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| Bigpoint GmbH | Associate Project Manager (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | GUARDSQUARE | DevOps Engineer | Leuven, Belgium 🇧🇪 | [Apply]() |
 | GUARDSQUARE | Junior Java R&D Software Engineer - Leuven | Leuven, Belgium 🇧🇪 | [Apply]() |
 | Adyen | System Administrator - Office Infrastructure | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
@@ -194,7 +213,6 @@
 | N26 | Lead Analytics Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | N26 | Product Lead - Risk & Data Foundation | Berlin, Germany 🇩🇪 | [Apply]() |
 | Entain | Infrastructure Engineer | Vienna, Austria 🇦🇹 | [Apply]() |
-| Bigpoint GmbH | Associate Project Manager (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Bigpoint GmbH | SENIOR JAVA DEVELOPER (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Bigpoint GmbH | Associate System Administrator (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Bigpoint GmbH | Associate DevOps Engineer | Hamburg, Germany 🇩🇪 | [Apply]() |
@@ -511,7 +529,6 @@
 | Scalable GmbH | (Senior) Fullstack Engineer - Core tribe (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Circus | Senior Payroll Specialist (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Voodoo | IT & SaaS Administrator | Paris, France 🇫🇷 | [Apply]() |
-| Lightcurve | Ops Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | navvis | Dynamics 365 Solution Developer/ Architect (F/M/D) | München, Germany 🇩🇪 | [Apply]() |
 | BlaBlaCar | Product Manager - Engage | Paris, France 🇫🇷 | [Apply]() |
 | Sendinblue | Customer Experience Representative - English (Hybrid Remote Policy) | Paris, France 🇫🇷 | [Apply]() |
