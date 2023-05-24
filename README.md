@@ -1,5 +1,13 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Twaice | Cloud Engineer for Customer Success (m/w/d) | München, Germany 🇩🇪 | [Apply]() |
+| Catawiki | Group Product Manager - Supply | Randstad, Netherlands 🇳🇱 | [Apply]() |
+| Fashion Cloud | Full Stack Engineer (gn) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Fashion Cloud | Product Designer UX/UI (gn) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Fashion Cloud | Cloud Security Engineer (gn) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Fashion Cloud | Senior Python Developer (gn) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Booking.com | Senior Software Engineer - Data & Machine Learning Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Optiver | Support Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Guerrilla | Infrastructure Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Guerrilla | TOOLS PROGRAMMER | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Guerrilla | UI PROGRAMMER | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
@@ -262,7 +270,6 @@
 | Bolt | Growth Analyst | Tallinn, Estonia 🇪🇪 | [Apply]() |
 | Twaice | Product Marketing Manager (m/f/d) | München, Germany 🇩🇪 | [Apply]() |
 | Twaice | Data Engineer (m/f/d) Energy Solutions | München, Germany 🇩🇪 | [Apply]() |
-| Twaice | Cloud Engineer for Customer Success (m/w/d) | München, Germany 🇩🇪 | [Apply]() |
 | Twaice | Senior Full Stack Software Engineer (m/f/d) | München, Germany 🇩🇪 | [Apply]() |
 | Twaice | Technical Solution Engineer Pre-Sales (m/f/d) | München, Germany 🇩🇪 | [Apply]() |
 | Picnic | Product Owner - Supply Chain | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
