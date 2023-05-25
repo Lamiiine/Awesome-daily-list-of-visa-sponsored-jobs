@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| BlaBlaCar | Learning and Development Specialist | Paris, France 🇫🇷 | [Apply]() |
+| Marktplaats | Back End Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Picnic | Data Scientist | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Zalando SE | Senior Software Quality Assurance | Munich, Germany 🇩🇪 | [Apply]() |
+| Zalando SE | (Senior) Backend Software Engineer - Core Logistics Abilities (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HelloFresh | Senior Product Analyst Reactivation (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Mondu | Customer Operations Specialist (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Huspy | Engineering Manager |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
+| Huspy | Data Engineer |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
+| Huspy | Business Intelligence Analyst |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
 | Twaice | Cloud Engineer for Customer Success (m/w/d) | München, Germany 🇩🇪 | [Apply]() |
 | Catawiki | Group Product Manager - Supply | Randstad, Netherlands 🇳🇱 | [Apply]() |
 | Fashion Cloud | Full Stack Engineer (gn) | Hamburg, Germany 🇩🇪 | [Apply]() |
@@ -39,7 +49,6 @@
 | Project A Ventures | HR Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Back Market | Frontend Engineer - Acquisition | Barcelona, Spain 🇪🇸 | [Apply]() |
 | Back Market | Data Engineering Manager - Customer squad | Paris, France 🇫🇷 | [Apply]() |
-| BlaBlaCar | Product Manager - Identity & Access Management | Paris, France 🇫🇷 | [Apply]() |
 | BlaBlaCar | Python Backend Engineer - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
 | BlaBlaCar | Data Engineer - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
 | Booking.com | Group Product Manager - Tech & Product (Product Management) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
@@ -56,8 +65,6 @@
 | Kolibri Games | Product Manager (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Synergeticon GmbH | Industrial Game Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Adyen | Group Product Manager, Data Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Adyen | Solution Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Adyen | Implementation Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Trinamics | JR. ADVANCED SIMULATION SOFTWARE SUPPORT ENGINEER | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | soundcloud | Senior Data Scientist- Search and Recommendation | Berlin, Germany 🇩🇪 | [Apply]() |
 | adjoe | Senior Frontend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
@@ -82,7 +89,6 @@
 | HelloFresh | Atlassian Cloud Admin (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | HelloFresh | Senior Staff Engineer, Growth Alliance (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | K-tronik GmbH | Test Engineer (m/f/x) Embedded Software | Forchheim, Germany 🇩🇪 | [Apply]() |
-| K-tronik GmbH | Embedded Software Developer (m/f/x) | Forchheim, Germany 🇩🇪 | [Apply]() |
 | Picnic | Quality Assurance (QA) Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Picnic | Technical Product Owner - Network | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Alteos | Insurance Product Manager (m/w/d) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -94,10 +100,7 @@
 | Delivion GmbH | Cloud Native Software Developer | Mülheim, Germany 🇩🇪 | [Apply]() |
 | byrd | Junior Account Manager (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Container xChange | CRM Marketing Manager (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| Container xChange | Data Analyst (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| Container xChange | Analytics Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Optiver | Senior Software Engineer | SYDNEY, Australia 🇦🇺 | [Apply]() |
-| Optiver | Project Manager – Platform Technology | SYDNEY, Australia 🇦🇺 | [Apply]() |
 | Diabolocom | Frontend Software Engineer | Paris, France 🇫🇷 | [Apply]() |
 | Diabolocom | Lead QA Automation Engineer | Paris, France 🇫🇷 | [Apply]() |
 | Diabolocom | Java Developer | Paris, France 🇫🇷 | [Apply]() |
@@ -105,30 +108,19 @@
 | Cinemo | Senior C++ Software Engineer - Car Connectivity (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | K-tronik GmbH | Software Developer - Aerospace (m/f/x) | Munich, Germany 🇩🇪 | [Apply]() |
 | Tabit GmbH | Senior Java Developer | Berlin, Germany 🇩🇪 | [Apply]() |
-| Adyen | Marketing Data Analyst | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Monitoring Operations Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Cinemo | Junior C++ Embedded Software Engineer (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | Zalando SE | Backend Engineer (Java) - Zalando Premium Logistics) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Kolibri Games | Unity Games Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Kolibri Games | Game Data Analyst (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Kolibri Games | Data Engineer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Kolibri Games | QA Tester (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| brighter AI | Machine Learning Operations (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Picnic | Warehouse Simulation Software Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Cinemo | Solution Engineer (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | Cinemo | Embedded Software Engineer C++ (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | K-tronik GmbH | Development Engineer (m/f/x) for ASIC/FPGA | Dresden, Germany 🇩🇪 | [Apply]() |
 | HousingAnywhere | Engineering Manager - Core API | Rotterdam, Netherlands 🇳🇱 | [Apply]() |
-| HousingAnywhere | Junior HR Administrator | Rotterdam, Netherlands 🇳🇱 | [Apply]() |
 | Zalando SE | Junior Software Engineer- Paradox (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
-| brighter AI | Technical Pre-Sales Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| brighter AI | Product Manager (m/f/d) AI | Berlin, Germany 🇩🇪 | [Apply]() |
-| brighter AI | Product Owner (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Neuffer Fenster + Türen GmbH | Backend Developer (m/f) | Stuttgart, Germany 🇩🇪 | [Apply]() |
 | HousingAnywhere | Senior Backend Software Engineer - Payments | Rotterdam, Netherlands 🇳🇱 | [Apply]() |
-| SimScale | Senior Backend Developer (m/f/d) | München, Germany 🇩🇪 | [Apply]() |
-| CLARK | Salesforce Developer (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
-| CLARK | (Senior) Product Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Citymapper | Senior Software Engineer - iOS | London , UK 🇬🇧 | [Apply]() |
 | Citymapper | Software Engineer - Transport Data | London , UK 🇬🇧 | [Apply]() |
 | Citymapper | Software Engineer - iOS | London , UK 🇬🇧 | [Apply]() |
@@ -343,59 +335,30 @@
 | Huspy | Visual Designer |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
 | Huspy | Technical Product Manager |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
 | Huspy | Software Development Engineer - Fullstack |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
-| Huspy | Software Development Engineer - Backend |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
-| N26 | Site Reliability Engineer | Vienna, Austria 🇦🇹 | [Apply]() |
-|  GlobalLogic | Junior Backend Engineer | Bucharest , Romania 🇷🇴 | [Apply]() |
 | Klarna | Product Manager - Platform Products | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | GUARDSQUARE | Full-Stack Engineer (Go/React) | Leuven, Belgium 🇧🇪 | [Apply]() |
 | GUARDSQUARE | Mobile App Developer with Security Ambitions (iOS/Android) | Leuven, Belgium 🇧🇪 | [Apply]() |
 | GUARDSQUARE | Software QA Engineer | Leuven, Belgium 🇧🇪 | [Apply]() |
-| GULP – experts united | Backend Software Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | justDice | Senior Game Artist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Adjust | Platform Security Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adjust | Platform Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adjust | Mid Backend Engineer - Go | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adjust | Infrastructure Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | Product Designer (f/m/d) - Content | Cologne, Germany 🇩🇪 | [Apply]() |
-| Sunday GmbH | UI & Graphic Designer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Sunday GmbH | Head of Product Growth (Mobile Games Live Ops) (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| applike-group | HR Operations Team Lead (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | (Senior) Web Analyst (f/m/d) | Cologne, Germany 🇩🇪 | [Apply]() |
-| adjoe | Customer Success Manager - Demand Account Management (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| justtrack | Growth Hacker (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | One Player Missions | Product Marketing Manager– Games Publisher | Paris, France 🇫🇷 | [Apply]() |
 | One Player Missions | Product Marketing Manager– Games Publisher | Paris, France 🇫🇷 | [Apply]() |
 | TOPIC Embedded Systems | Senior Software Engineer C++/Python/C | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Wooga | Revenue Operations Manager | Berlin, Germany 🇩🇪 | [Apply]() |
-| Adjust | Revenue Operations Manager | Berlin, Germany 🇩🇪 | [Apply]() |
-| GetYourGuide | Data Engineer,Business Intelligence | Berlin, Germany 🇩🇪 | [Apply]() |
-| GetYourGuide | Android Engineer, FinTech Fulfillment | Zurich, Switzerland 🇨🇭 | [Apply]() |
-| adjoe | AdOps Specialist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| adjoe | Project Manager: Cloud Technologies (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| adjoe | Tech Lead: Backend Development (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| adjoe | Senior DevOps/DataOps Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| justtrack | Senior Sales Executive (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| GetYourGuide | Backend Engineer, Marketplace | Berlin, Germany 🇩🇪 | [Apply]() |
-| GetYourGuide | Data Analyst, Product Analytics | Berlin, Germany 🇩🇪 | [Apply]() |
 | Volkswagen Digital Solutions | Cloud Solutions Architect | Lisbon, Portugal 🇵🇹 | [Apply]() |
 | Volkswagen Digital Solutions | Fullstack Developer | Lisbon, Portugal 🇵🇹 | [Apply]() |
-| Volkswagen Digital Solutions | Data Scientist | Lisbon, Portugal 🇵🇹 | [Apply]() |
 | Volkswagen Digital Solutions | Program Manager | Lisbon, Portugal 🇵🇹 | [Apply]() |
-| Volkswagen Digital Solutions | QA Tester | Lisbon, Portugal 🇵🇹 | [Apply]() |
-| Kaufland.de | (Senior) Product Analyst (f/m/d) - Explore & Discover | Cologne, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | Analytics Engineer (f/m/d) - Web Analytics | Cologne, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | Data Engineer (f/m/d) | Cologne, Germany 🇩🇪 | [Apply]() |
-| Kaufland.de | Junior PHP Engineer (f/m/d) | Cologne, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | Search Engineer (Elasticsearch) (f/m/d) | Cologne, Germany 🇩🇪 | [Apply]() |
-| Plumerai | Deep Learning Research Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Plumerai | Deep Learning Research Engineer | London, UK 🇬🇧 | [Apply]() |
-| Plumerai | Software Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Plumerai | Software Engineer | London, UK 🇬🇧 | [Apply]() |
-| justtrack | Graphic Designer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | justtrack | (Senior) Technical Support Engineer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| justtrack | Technical Lead (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | taxfix | Senior Brand Designer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
-| taxfix | Customer Insights Analyst (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | taxfix | Creative Director (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | AI Sweden’s Data Factory | Systems Engineer | Göteborg, Sweden 🇸🇪 | [Apply]() |
 | FRG Technology Consulting | Senior C++ Developer | Prague, Czech Republic 🇨🇿 | [Apply]() |
@@ -464,9 +427,7 @@
 | applike-group | Game Designer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | applike-group | Marketing Artist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | applike-group | Business Intelligence / Data Science Lead (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| Scopely | Technical Manager - STFC | Dublin, Ireland 🇮🇪 | [Apply]() |
 | Centaur Analytics, Inc. | Embedded Systems Engineer | Volos, Thessalia, Greece 🇬🇷 | [Apply]() |
-| Centaur Analytics, Inc. | Manufacturing Engineer | Volos, Thessalia, Greece 🇬🇷 | [Apply]() |
 | Centaur Analytics, Inc. | AgTech Sales Executive | Volos, Thessalia, Greece 🇬🇷 | [Apply]() |
 | Centaur Analytics, Inc. | Full Stack Software Engineer | Athens, Greece 🇬🇷 | [Apply]() |
 | Centaur Analytics, Inc. | Front End Software Engineer | Volos, Thessalia, Greece 🇬🇷 | [Apply]() |
@@ -474,76 +435,40 @@
 | Electric Square | Programmer | Brighton, UK 🇬🇧 | [Apply]() |
 | Techyon | SENIOR C++ SOFTWARE DESIGN ENGINEER | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Booking.com | Engineering Manager - Cloud Security | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| SCHNEIDER GROUP | Azure Developer (w/m/x) | Munich, Germany 🇩🇪 | [Apply]() |
-| MEDWING | Software Engineer (gn) | Berlin, Germany 🇩🇪 | [Apply]() |
 | MEDWING | (Senior) QA Automation Engineer (gn) | Berlin, Germany 🇩🇪 | [Apply]() |
-| MEDWING | Senior PHP Developer (gn) – Marketplace | Berlin, Germany 🇩🇪 | [Apply]() |
 | Wooga | Senior Game Designer (Economy) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Wooga | (Senior) Backend Engineer - Elixir | Berlin, Germany 🇩🇪 | [Apply]() |
-| Bigpoint | Associate Product Data Analyst (m/f/d) - #5719 | Hamburg, Germany 🇩🇪 | [Apply]() |
 | E-Mobility Search | Technical Program Manager | Boston, US 🇺🇸 | [Apply]() |
 | Körber Pharma, Inc | Field Service Engineer | North Carolina, US 🇺🇸 | [Apply]() |
 | Byborg Enterprises | HR Specialist | Luxembourg, Luxembourg 🇱🇺 | [Apply]() |
 | The Workshop | Product Manager - Payments | Málaga, Spain 🇪🇸 | [Apply]() |
-| Back Market | Frontend Staff Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Back Market | Senior Product Manager (Customer Care Tribe) | Bordeaux, France 🇫🇷 | [Apply]() |
-| Back Market | Account Manager | Bordeaux, France 🇫🇷 | [Apply]() |
-| Back Market | Account Manager | Paris, France 🇫🇷 | [Apply]() |
 | Back Market | Frontend Engineer - Acquisition | Barcelona, Spain 🇪🇸 | [Apply]() |
-| Back Market | Backend Engineer - Self Care & Automation | Barcelona, Spain 🇪🇸 | [Apply]() |
-| Back Market | Backend Engineer - Browsing | Barcelona, Spain 🇪🇸 | [Apply]() |
 | GMV | Project Manager for Security Infrastructures | Tres Cantos,Madrid, Spain 🇪🇸 | [Apply]() |
 | GMV | Frontend Developer for Space Projects | Tres Cantos,Madrid, Spain 🇪🇸 | [Apply]() |
 | GMV | Network engineer | Tres Cantos,Madrid, Spain 🇪🇸 | [Apply]() |
 | GMV | Junior software engineer (development and AI) | Tres Cantos,Madrid, Spain 🇪🇸 | [Apply]() |
-| Property Finder | Head of Customer Advocacy |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
 |  Oak Ridge National Laboratory  | Full Stack Software Developer II | TN, USA 🇺🇸 | [Apply]() |
-| Tactile Games | Art Director | Copenhagen, Denmark 🇩🇰 | [Apply]() |
-| Tactile Games | QA Games Tester | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Tactile Games | Senior Unity Game Programmer | Tenerife, Spain 🇪🇸 | [Apply]() |
-| Tactile Games | Chief Marketing Officer (CMO) | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Tactile Games | ASO Manager (Marketing) | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Tactile Games | Solutions Architect | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Tactile Games | Backend Engineer, TypeScript | Copenhagen, Denmark 🇩🇰 | [Apply]() |
-| Tactile Games | Data Analyst | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Tactile Games | Senior UI Designer | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 |  Shipup | Product full-stack developer (Advanced) | Paris, France 🇫🇷 | [Apply]() |
 | Funcom | Marketing Director | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | Klarna | Senior Product Manager - Platform Products | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | Klarna | Product Manager - AdTech Products | Stockholm, Sweden 🇸🇪 | [Apply]() |
-| Kiwi.com | Senior Business Analyst (Resilience) | Barcelona , Spain 🇪🇸 | [Apply]() |
 | Telespazio | IT Cyber Security Engineer | Transinne, Belgium 🇧🇪 | [Apply]() |
 | Telespazio | Product Assurance (PA) Engineer | Transinne, Belgium 🇧🇪 | [Apply]() |
 | NXP Semiconductors | Customer & Application Support Engineer (software) | Leuven, Belgium 🇧🇪 | [Apply]() |
-| Billie | Product Manager (ML/DS focus) (w/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | gridX | Python Software Engineer (M/F/X) | Aachen & München, Germany 🇩🇪 | [Apply]() |
-| Booking. |  Full Stack Developer - Advertising Technology  | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Nexthink | Software Engineer (Full-Stack) | Madrid, Spain 🇪🇸 | [Apply]() |
-| Lilium | Compliance Verification Engineer – Energy & Electrical Systems | München, Germany 🇩🇪 | [Apply]() |
-| finleap connect | (Senior) Sales Manager (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
-| finleap connect | (Senior) Cloud/Infrastructure Engineer (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
-| finleap connect | Engineering Manager Infrastructure (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
-| byrd | Team Lead - Python Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
-| byrd | Junior Android Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Scalable GmbH | Senior Performance Marketing Manager - PPC (m/f/x) | München, Germany 🇩🇪 | [Apply]() |
 | Scalable GmbH | Investment Operations Manager - Wealth (m/f/x) | München, Germany 🇩🇪 | [Apply]() |
-| Scalable GmbH | Senior Manager (m/w/x) Information Security Risk | München, Germany 🇩🇪 | [Apply]() |
 | Scalable GmbH | Information Security Analyst (m/f/x) | München, Germany 🇩🇪 | [Apply]() |
-| Scalable GmbH | IT Support (m/f/x) | München, Germany 🇩🇪 | [Apply]() |
 | Scalable GmbH | Senior Java/Kotlin Engineer - Authentication Team (m/f/x) - onsite or remote | Berlin, Germany 🇩🇪 | [Apply]() |
-| Scalable GmbH | Senior Platform Engineer (m/f/x) - onsite or remote | Berlin, Germany 🇩🇪 | [Apply]() |
 | Scalable GmbH | (Senior) Fullstack Engineer - Core tribe (m/f/x) | München, Germany 🇩🇪 | [Apply]() |
 | Scalable GmbH | (Senior) Fullstack Engineer - Core tribe (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Circus | Senior Payroll Specialist (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Voodoo | IT & SaaS Administrator | Paris, France 🇫🇷 | [Apply]() |
-| navvis | Dynamics 365 Solution Developer/ Architect (F/M/D) | München, Germany 🇩🇪 | [Apply]() |
-| BlaBlaCar | Product Manager - Engage | Paris, France 🇫🇷 | [Apply]() |
-| Sendinblue | Customer Experience Representative - English (Hybrid Remote Policy) | Paris, France 🇫🇷 | [Apply]() |
-| TomTom | Senior Software Engineer (C++) | Amesterdam, Netherlands 🇳🇱 | [Apply]() |
-| MBition | Expert HR Consultant (all genders) – 2 years limited contract | Berlin, Germany 🇩🇪 | [Apply]() |
 | MBition | Cloud Infrastructure Engineer for Mercedes-Benz SoftwareFactory (all gender) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Aignostics | Senior Backend Software Engineer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Nexxiot | Frontend Software Engineer | Zurich, Switzerland 🇨🇭 | [Apply]() |
 | GUARDSQUARE | Junior Compiler Engineer C++/LLVM | Leuven, Belgium 🇧🇪 | [Apply]() |
-| BIT Capital GmbH | Fullstack Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
-| roadsurfer | DevOps Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
