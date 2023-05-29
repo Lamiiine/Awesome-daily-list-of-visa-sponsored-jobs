@@ -1,5 +1,16 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Adyen | C++ Development Tooling Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Zalando SE | Senior Fullstack Engineer (Java/Kotlin) - Core Logistics Abilities (all genders) | Munich, Germany 🇩🇪 | [Apply]() |
+| Container xChange | Frontend Engineer - Angular (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| K-tronik GmbH | Development Engineer (m/f/x) for ASIC/FPGA | Dresden, Germany 🇩🇪 | [Apply]() |
+| Chimera Entertainment | UI Artist (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
+| HomeToGo | Risk and Fraud Analyst - Small Partner Solutions (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HomeToGo | Technical Account Manager / API Expert (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HomeToGo | Senior Product Designer - Small Partner Solutions (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Vermietet.de (von ImmoScout24) | Senior Backend Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Picnic | Angular Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Linux System Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | BlaBlaCar | Learning and Development Specialist | Paris, France 🇫🇷 | [Apply]() |
 | Marktplaats | Back End Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Picnic | Data Scientist | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
@@ -116,7 +127,6 @@
 | Picnic | Warehouse Simulation Software Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Cinemo | Solution Engineer (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | Cinemo | Embedded Software Engineer C++ (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
-| K-tronik GmbH | Development Engineer (m/f/x) for ASIC/FPGA | Dresden, Germany 🇩🇪 | [Apply]() |
 | HousingAnywhere | Engineering Manager - Core API | Rotterdam, Netherlands 🇳🇱 | [Apply]() |
 | Zalando SE | Junior Software Engineer- Paradox (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Neuffer Fenster + Türen GmbH | Backend Developer (m/f) | Stuttgart, Germany 🇩🇪 | [Apply]() |
