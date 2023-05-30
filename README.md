@@ -1,5 +1,17 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| enmacc | Fullstack Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| enmacc | QA Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| enmacc | Marketing Manager | Berlin, Germany 🇩🇪 | [Apply]() |
+| enmacc | Senior QA Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| enmacc | Cloud Engineer - AWS (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Kaufland.de | Product Manager (f/m/d) - Supply Chain Technology | Cologne, Germany 🇩🇪 | [Apply]() |
+| byrd | Customer Care Consultant (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| justtrack | IOS Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| ticketbro | Senior React Native Developer (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
+| ticketbro | Backend & Cloud Developer - AWS, Node.js, Serverless, TypeScript (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
+| ticketbro | Full Stack Engineer - React Native, React.js, AWS, Node.js, TypeScript (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
+| adjoe | Senior Go Backend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Adyen | C++ Development Tooling Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Zalando SE | Senior Fullstack Engineer (Java/Kotlin) - Core Logistics Abilities (all genders) | Munich, Germany 🇩🇪 | [Apply]() |
 | Container xChange | Frontend Engineer - Angular (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
@@ -247,7 +259,6 @@
 | Kaufland.de | Senior Software Engineer (f/m/d) | Cologne, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | Software Engineer (f/m/d) | Cologne, Germany 🇩🇪 | [Apply]() |
 | Sunday GmbH | Marketing Artist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| adjoe | Senior Go Backend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | adjoe |  Senior Data Engineer – Flink, Java (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | adjoe | Senior Backend Developer – Flink, Java (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Mondu | Platform Engineering Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
