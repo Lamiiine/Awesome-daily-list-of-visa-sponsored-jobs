@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Monzo | Web Engineer | London , UK 🇬🇧 | [Apply]() |
+| Coolblue | PHP Developer | Utrecht, Netherlands 🇳🇱 | [Apply]() |
+| Coolblue | Front-End Developer | Utrecht, Netherlands 🇳🇱 | [Apply]() |
+| Coolblue | Team Lead C# | Utrecht, Netherlands 🇳🇱 | [Apply]() |
+| Coolblue | Team Lead Web Development Coolblue Energy | Utrecht, Netherlands 🇳🇱 | [Apply]() |
+| Event Inc | (Senior) Product Owner / Product Manager | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Statkraft | C++ Software Developer | Oslo, Norway 🇳🇴 | [Apply]() |
+| Statkraft | Senior Frontend Developer | Oslo, Norway 🇳🇴 | [Apply]() |
+| Statkraft | Senior DevOps Engineer | Oslo, Norway 🇳🇴 | [Apply]() |
+| Statkraft | Python Lead Developer | Berlin, Germany 🇩🇪 | [Apply]() |
 | enmacc | Fullstack Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | enmacc | QA Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | enmacc | Marketing Manager | Berlin, Germany 🇩🇪 | [Apply]() |
