@@ -1,5 +1,16 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Sunday GmbH | UI Designer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Sunday GmbH | Technical Game Artist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Cuculus GmbH | Product Manager (m/f/d) | Leipzig, Germany 🇩🇪 | [Apply]() |
+| Cuculus GmbH | Software Test Engineer (m/f/d) | Leipzig, Germany 🇩🇪 | [Apply]() |
+| GUARDSQUARE | Junior C++ R&D Software Engineer (Code Analysis) | München, Germany 🇩🇪 | [Apply]() |
+| Container xChange | Backend Engineer - Java (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| justtrack | DevOps Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Coolblue | Front-End React Developer | Rotterdam, Netherlands 🇳🇱 | [Apply]() |
+| Coolblue | AWS Cloud Engineer Coolblue Energy | Utrecht, Netherlands 🇳🇱 | [Apply]() |
+| Coolblue | Marketing Tracking Specialist | Rotterdam, Netherlands 🇳🇱 | [Apply]() |
+| Coolblue | Front-End Developer Coolblue Energy | Utrecht, Netherlands 🇳🇱 | [Apply]() |
 | Monzo | Web Engineer | London , UK 🇬🇧 | [Apply]() |
 | Coolblue | PHP Developer | Utrecht, Netherlands 🇳🇱 | [Apply]() |
 | Coolblue | Front-End Developer | Utrecht, Netherlands 🇳🇱 | [Apply]() |
@@ -412,7 +423,6 @@
 | Sunday GmbH | Business Intelligence / Data Science Lead (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | justtrack | (Senior) Technical Support Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | justtrack | Technical Writer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| justtrack | DevOps Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | FRIDAY | Senior Software Engineer - Data Team (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | FRIDAY | Senior Software Engineer (Frontend Focus) (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | justDice | Motion Designer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
