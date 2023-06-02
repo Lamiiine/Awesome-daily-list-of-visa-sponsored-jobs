@@ -1,5 +1,16 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| trivago | Junior Salesforce Administrator | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| trivago | Data Analyst – Product Intelligence | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| enmacc | Senior Frontend Engineer (m/f/d) | Munich, Germany 🇩🇪 | [Apply]() |
+| Coolblue | Junior Front-End Developer | Rotterdam, Netherlands 🇳🇱 | [Apply]() |
+| adjoe | Account Manager - Demand Account Management (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| trivago | Consumer Insights Specialist | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| Qualcomm | Full Stack Engineer (m/f/d) Augmented and Virtual Reality - Amsterdam | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| ITSync | Full Stack Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Sendcloud | Senior DevOps Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
+| Sendcloud | Senior Backend Engineer (Python) | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
+| trivago | Product Manager – Auction | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | Sunday GmbH | UI Designer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Sunday GmbH | Technical Game Artist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Cuculus GmbH | Product Manager (m/f/d) | Leipzig, Germany 🇩🇪 | [Apply]() |
@@ -455,7 +466,6 @@
 | Taxfix | Security Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | adjoe | Senior Android Mobile Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | adjoe | Sales Operations Specialist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| adjoe | Account Manager - Demand Account Management (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | adjoe | Project Manager: Anti-Fraud Solutions (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | European Recruitment | Senior Site Reliability Engineer | Cork, Ireland 🇮🇪 | [Apply]() |
 | Ryanair | Cloud Software Developer (Java/Go) | Dublin, Ireland 🇮🇪 | [Apply]() |
