@@ -1,9 +1,18 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Rheinmetall | Cloud Solution Architect (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Rheinmetall | Junior Systems Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Sytac | Senior Java/Kotlin Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Backend Software Engineer - Feature Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| PhotoRoom | Content Marketing Manager | Paris, France 🇫🇷 | [Apply]() |
+| PhotoRoom | Senior Backend Engineer (Django) | Paris, France 🇫🇷 | [Apply]() |
+| PhotoRoom | Product Manager (Creative Platform) | Paris, France 🇫🇷 | [Apply]() |
+| Rheinmetall | Backend Developer Webapplications (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| PARADOX CAT GmbH | (Senior) Android Software Developer (w/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
+| Picnic | Senior Java Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | trivago | Junior Salesforce Administrator | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | trivago | Data Analyst – Product Intelligence | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | enmacc | Senior Frontend Engineer (m/f/d) | Munich, Germany 🇩🇪 | [Apply]() |
-| Coolblue | Junior Front-End Developer | Rotterdam, Netherlands 🇳🇱 | [Apply]() |
 | adjoe | Account Manager - Demand Account Management (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | trivago | Consumer Insights Specialist | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | Qualcomm | Full Stack Engineer (m/f/d) Augmented and Virtual Reality - Amsterdam | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
