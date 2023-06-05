@@ -1,5 +1,12 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Platin Gaming LTD | Graphic Designer | Gzira, Malta 🇲🇹 | [Apply]() |
+| Adyen | Product Manager, Data Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Platin Gaming LTD | Full-Stack Developer | Gzira, Malta 🇲🇹 | [Apply]() |
+| Profitap | Technical Support Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
+| Profitap | QA Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
+| Shape Games | Kotlin Backend Developer | Copenhagen, Denmark 🇩🇰 | [Apply]() |
+| Shape Games | Technical Product Owner | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Rheinmetall | Cloud Solution Architect (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Rheinmetall | Junior Systems Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Sytac | Senior Java/Kotlin Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
