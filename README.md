@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| byrd | Junior Account Manager (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| byrd | Finance Associate (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| byrd | Customer Care Consultant (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| raisin | Customer Service Agent (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| raisin | (Senior) Data Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HAWK:AI | Python Full-Stack Developer (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
+| raisin | (Senior) DevOps Engineer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HAWK:AI | Java Full-stack Developer (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
+| HAWK:AI | Senior Java Full-Stack Developer (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
 | Platin Gaming LTD | Graphic Designer | Gzira, Malta 🇲🇹 | [Apply]() |
 | Adyen | Product Manager, Data Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Platin Gaming LTD | Full-Stack Developer | Gzira, Malta 🇲🇹 | [Apply]() |
@@ -54,7 +63,6 @@
 | enmacc | Senior QA Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | enmacc | Cloud Engineer - AWS (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | Product Manager (f/m/d) - Supply Chain Technology | Cologne, Germany 🇩🇪 | [Apply]() |
-| byrd | Customer Care Consultant (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | justtrack | IOS Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | ticketbro | Senior React Native Developer (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
 | ticketbro | Backend & Cloud Developer - AWS, Node.js, Serverless, TypeScript (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
@@ -102,7 +110,6 @@
 | EVBox | Data Product Owner | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | EVBox | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | University of Bath | Research Assistant | Bath, UK 🇬🇧 | [Apply]() |
-| raisin | Junior Zendesk Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Oetker Digital | (Senior) Consultant Data Protection (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Oetker Digital |  (Senior) Data & Analytics Consultant (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Oetker Digital | System Administrator (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -169,7 +176,6 @@
 | AKUR8 | Senior Front-end Engineer | Paris, France 🇫🇷 | [Apply]() |
 | Delivion GmbH | Cloud Platform Engineer | Mülheim, Germany 🇩🇪 | [Apply]() |
 | Delivion GmbH | Cloud Native Software Developer | Mülheim, Germany 🇩🇪 | [Apply]() |
-| byrd | Junior Account Manager (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Container xChange | CRM Marketing Manager (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Optiver | Senior Software Engineer | SYDNEY, Australia 🇦🇺 | [Apply]() |
 | Diabolocom | Frontend Software Engineer | Paris, France 🇫🇷 | [Apply]() |
@@ -290,7 +296,6 @@
 | Forto | Senior Fullstack Engineer (f/m/d) – Pricing Team | Berlin, Germany 🇩🇪 | [Apply]() |
 | Forto | Engineering Manager (f/m/d) – Account Master Data Team | Berlin, Germany 🇩🇪 | [Apply]() |
 | Forto | Senior Backend Engineer (f/m/d) – Account Master Data | Berlin, Germany 🇩🇪 | [Apply]() |
-| raisin | (Senior) Data Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | raisin | IT Governance and Compliance Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | raisin | Data Analyst (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Picnic | Supply Chain Analytics Lead (m/w/d) | Düsseldorf, Germany 🇩🇪 | [Apply]() |
@@ -393,7 +398,6 @@
 | Sharpist GmbH  | Enterprise Account Executive (f/m/x) Berlin | Berlin, Germany 🇩🇪 | [Apply]() |
 | Radley James | Data Center Engineer | Frankfurt, Germany 🇩🇪 | [Apply]() |
 | HAWK:AI | Senior Product Owner AML/CFT Solution (m/w/d) | Munich, Germany 🇩🇪 | [Apply]() |
-| HAWK:AI | Java Full-stack Developer (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | Senior Frontend Engineer (f/m/d) | Cologne, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | Senior Full-Stack Engineer (f/m/d) | Cologne, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | Software Architect Backend (f/m/d) | Cologne, Germany 🇩🇪 | [Apply]() |
