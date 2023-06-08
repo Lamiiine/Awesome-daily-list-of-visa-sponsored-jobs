@@ -1,6 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
-| lemon.markets | Backend Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Zalando SE | Backend Engineer (Scala) - Partner Tech (all genders) | Munich, Germany 🇩🇪 | [Apply]() |
+| SumUp | Payment Application Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | iOS Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Frontend Engineer - Onboarding | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Backend Engineer - Java/Kotlin | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Full Stack Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Android Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Product Designer, Hardware | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | (Senior) Backend Engineer - Java | Berlin, Germany 🇩🇪 | [Apply]() |
+| Secfix | Senior Back-End Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adjust | Senior Sales Manager - EMEA | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adjust | Integrations Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Booking.com | Site Reliability Engineer - Application Data Services | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
@@ -8,7 +17,6 @@
 | Doctolib | Senior Software Engineer - NTC (x/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Doctolib | Software Engineer - React, Ruby (x/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Doctolib | Software Engineer - React, Ruby (x/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
-| lemon.markets | Senior Backend Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | byrd | Junior Account Manager (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | byrd | Finance Associate (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | byrd | Customer Care Consultant (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
