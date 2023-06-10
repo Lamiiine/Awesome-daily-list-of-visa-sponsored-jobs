@@ -1,5 +1,12 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Optiver | Technical Recruiter | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Nexperia | IAM Software Engineer | Nijmegen, Netherlands 🇳🇱 | [Apply]() |
+| Optiver | Software Engineer – Python | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Optiver | FPGA Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Picnic | IAM Software Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Deal Pricing Analyst | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| HelloFresh | Senior Data Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Zalando SE | Backend Engineer (Scala) - Partner Tech (all genders) | Munich, Germany 🇩🇪 | [Apply]() |
 | SumUp | Payment Application Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | SumUp | iOS Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -233,7 +240,6 @@
 | Destinus | Embedded Software Engineer | Payerne, Switzerland 🇨🇭 | [Apply]() |
 | Destinus | IT Administrator | Madrid, Spain 🇪🇸 | [Apply]() |
 | Destinus | Lead Systems Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
-| Picnic | IAM Software Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Bigpoint GmbH | SAP SPECIALIST (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Ryanair | iOS Developer | Dublin, Ireland 🇮🇪 | [Apply]() |
 | Ryanair | Frontend Developer | Dublin, Ireland 🇮🇪 | [Apply]() |
