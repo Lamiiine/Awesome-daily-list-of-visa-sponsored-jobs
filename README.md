@@ -1,5 +1,16 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| About you | Junior GCP DevOps Engineer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| About you | (Junior) Business Analyst (m/w/d) - SCAYLE | Hamburg, Germany 🇩🇪 | [Apply]() |
+| About you | (Junior) Platform Engineer – Cloud Platforms | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Leapsome | Full Stack Software Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Leapsome | Senior Product Manager (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Leapsome | Analytics Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Instapro | Data Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| Catawiki | Data Scientist - Machine Learning | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Leapsome | Product Marketing Manager (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Leapsome | Senior Full Stack Software Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Leapsome | Salesforce Administrator | Berlin, Germany 🇩🇪 | [Apply]() |
 | Instapro | Salesforce Developer (Enterprise Applications) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Instapro | Senior Site Reliability Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Orbem | Junior MRI Application Specialist | München, Germany 🇩🇪 | [Apply]() |
@@ -270,8 +281,6 @@
 | Billie | Senior Web Designer (w/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Billie | Data Scientist (w/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Alteos | Senior Software Engineer (m/w/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Catawiki | Junior Frontend Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Catawiki | Data Scientist - Machine Learning | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Catawiki | Senior Android Developer II | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Catawiki | Senior Data Analyst - Commercial Insights | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Catawiki | Senior Full Stack Developer II | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
