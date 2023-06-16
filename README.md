@@ -1,5 +1,16 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Tactile Games | Backend Engineer, TypeScript | Copenhagen, Denmark 🇩🇰 | [Apply]() |
+| Blinkist | Junior/Mid-Level Web Engineer (Full-Stack) | Berlin, Germany 🇩🇪 | [Apply]() |
+| dé VakantieDiscounter | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Blinkist | Mid-level Android Developer | Berlin, Germany 🇩🇪 | [Apply]() |
+| Blinkist | Senior Web Engineer (Full-Stack) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Adyen | Network DevOps Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Doctolib | Workday Solution Architect (x/f/m) | Paris, France 🇫🇷 | [Apply]() |
+| Insify | Senior Backend/Full-Stack Typescript Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Scout24 | Lead Sales Digitization Manager (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Delivery Hero | Performance Marketing Analytics Manager (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Delivery Hero | (Senior) Product Analyst - Logistics | Berlin, Germany 🇩🇪 | [Apply]() |
 | About you | Junior GCP DevOps Engineer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | About you | (Junior) Business Analyst (m/w/d) - SCAYLE | Hamburg, Germany 🇩🇪 | [Apply]() |
 | About you | (Junior) Platform Engineer – Cloud Platforms | Hamburg, Germany 🇩🇪 | [Apply]() |
@@ -49,7 +60,6 @@
 | raisin | Customer Service Agent (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | raisin | (Senior) Data Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | HAWK:AI | Python Full-Stack Developer (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
-| raisin | (Senior) DevOps Engineer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | HAWK:AI | Java Full-stack Developer (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
 | HAWK:AI | Senior Java Full-Stack Developer (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
 | Platin Gaming LTD | Graphic Designer | Gzira, Malta 🇲🇹 | [Apply]() |
@@ -63,13 +73,11 @@
 | Rheinmetall | Junior Systems Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Sytac | Senior Java/Kotlin Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Backend Software Engineer - Feature Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| PhotoRoom | Content Marketing Manager | Paris, France 🇫🇷 | [Apply]() |
 | PhotoRoom | Senior Backend Engineer (Django) | Paris, France 🇫🇷 | [Apply]() |
 | PhotoRoom | Product Manager (Creative Platform) | Paris, France 🇫🇷 | [Apply]() |
 | Rheinmetall | Backend Developer Webapplications (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | PARADOX CAT GmbH | (Senior) Android Software Developer (w/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
 | Picnic | Senior Java Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| trivago | Junior Salesforce Administrator | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | trivago | Data Analyst – Product Intelligence | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | enmacc | Senior Frontend Engineer (m/f/d) | Munich, Germany 🇩🇪 | [Apply]() |
 | adjoe | Account Manager - Demand Account Management (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
@@ -117,19 +125,14 @@
 | K-tronik GmbH | Development Engineer (m/f/x) for ASIC/FPGA | Dresden, Germany 🇩🇪 | [Apply]() |
 | Chimera Entertainment | UI Artist (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
 | HomeToGo | Risk and Fraud Analyst - Small Partner Solutions (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| HomeToGo | Technical Account Manager / API Expert (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| HomeToGo | Senior Product Designer - Small Partner Solutions (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Vermietet.de (von ImmoScout24) | Senior Backend Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Picnic | Angular Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Linux System Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | BlaBlaCar | Learning and Development Specialist | Paris, France 🇫🇷 | [Apply]() |
 | Marktplaats | Back End Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Picnic | Data Scientist | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Zalando SE | Senior Software Quality Assurance | Munich, Germany 🇩🇪 | [Apply]() |
 | Zalando SE | (Senior) Backend Software Engineer - Core Logistics Abilities (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
 | HelloFresh | Senior Product Analyst Reactivation (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Mondu | Customer Operations Specialist (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Huspy | Engineering Manager |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
 | Huspy | Data Engineer |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
 | Huspy | Business Intelligence Analyst |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
 | Twaice | Cloud Engineer for Customer Success (m/w/d) | München, Germany 🇩🇪 | [Apply]() |
@@ -152,7 +155,6 @@
 | EVBox | IT Product Owner - Supply Chain | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | EVBox | Data Product Owner | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | EVBox | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| University of Bath | Research Assistant | Bath, UK 🇬🇧 | [Apply]() |
 | Oetker Digital | (Senior) Consultant Data Protection (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Oetker Digital |  (Senior) Data & Analytics Consultant (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Oetker Digital | System Administrator (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -167,16 +169,13 @@
 | Adyen | Platform Reliability Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
 | Adyen | DataOps Engineer, Observability Platforms | Madrid, Spain 🇪🇸 | [Apply]() |
 | Adyen | Database Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Project A Ventures | HR Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Back Market | Frontend Engineer - Acquisition | Barcelona, Spain 🇪🇸 | [Apply]() |
 | Back Market | Data Engineering Manager - Customer squad | Paris, France 🇫🇷 | [Apply]() |
 | BlaBlaCar | Python Backend Engineer - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
 | BlaBlaCar | Data Engineer - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
 | Booking.com | Group Product Manager - Tech & Product (Product Management) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Optiver | Data Visualization Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Optiver | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Optiver | Network Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Optiver | Support Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Monzo | Android Engineer | London , UK 🇬🇧 | [Apply]() |
 | Phoenix Labs | UI ARTIST | VANCOUVER, Canada 🇨🇦 | [Apply]() |
 | Phoenix Labs | DATA ANALYST | VANCOUVER, Canada 🇨🇦 | [Apply]() |
@@ -199,7 +198,6 @@
 | Improvin' | Full-stack Engineer | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | Improvin' | Data Platform Engineer | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | Gymondo | Senior Backend Engineer - Golang (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
-| University of Bath | Systems Developer | Bath, UK 🇬🇧 | [Apply]() |
 | Catawiki | Android Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Catawiki | Senior Software Engineer - Back-End | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Babbel | Team Lead - Growth Data (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -478,8 +476,6 @@
 | LandSolutions Inc | Software Engineer | Calgary, Canada 🇨🇦 | [Apply]() |
 | Kantox | Fraud & Payments Analyst | Barcelona, Spain 🇪🇸 | [Apply]() |
 | Kantox | Junior Business Intelligence Analyst (Power BI) | Barcelona, Spain 🇪🇸 | [Apply]() |
-| University of Bath | Security Architect | Bath, UK 🇬🇧 | [Apply]() |
-| University of Bath | Marketing Coordinator (fixed-term role) | Bath, UK 🇬🇧 | [Apply]() |
 | Back Market | Senior Frontend Engineer // Design System | Berlin, Germany 🇩🇪 | [Apply]() |
 | Kaufland.de | Junior Data Scientist (f/m/d) - Information Retrieval and Recommender Systems | Berlin, Germany 🇩🇪 | [Apply]() |
 | finleap connect | IT Administrator (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -563,9 +559,7 @@
 | Tactile Games | Senior Unity Game Programmer | Tenerife, Spain 🇪🇸 | [Apply]() |
 | Tactile Games | ASO Manager (Marketing) | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Tactile Games | Solutions Architect | Copenhagen, Denmark 🇩🇰 | [Apply]() |
-| Tactile Games | Backend Engineer, TypeScript | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Tactile Games | Senior UI Designer | Copenhagen, Denmark 🇩🇰 | [Apply]() |
-|  Shipup | Product full-stack developer (Advanced) | Paris, France 🇫🇷 | [Apply]() |
 | Funcom | Marketing Director | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | Klarna | Senior Product Manager - Platform Products | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | Klarna | Product Manager - AdTech Products | Stockholm, Sweden 🇸🇪 | [Apply]() |
