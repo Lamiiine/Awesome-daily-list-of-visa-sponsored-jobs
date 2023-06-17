@@ -555,7 +555,7 @@
 | GMV | Frontend Developer for Space Projects | Tres Cantos,Madrid, Spain 🇪🇸 | [Apply]() |
 | GMV | Network engineer | Tres Cantos,Madrid, Spain 🇪🇸 | [Apply]() |
 | GMV | Junior software engineer (development and AI) | Tres Cantos,Madrid, Spain 🇪🇸 | [Apply]() |
-|  Oak Ridge National Laboratory  | Full Stack Software Developer II | TN, USA 🇺🇸 | [Apply]() |
+|  Oak Ridge National Laboratory  | Full Stack Software Developer II | Tennessee, USA 🇺🇸 | [Apply]() |
 | Tactile Games | Senior Unity Game Programmer | Tenerife, Spain 🇪🇸 | [Apply]() |
 | Tactile Games | ASO Manager (Marketing) | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Tactile Games | Solutions Architect | Copenhagen, Denmark 🇩🇰 | [Apply]() |
