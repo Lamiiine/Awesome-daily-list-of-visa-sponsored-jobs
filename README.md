@@ -1,5 +1,13 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Zalando SE | Fullstack Software Engineer (Java/Kotlin/JavaScript/TypeScript) | Munich, Germany 🇩🇪 | [Apply]() |
+| Zalando SE | Junior Applied Scientist - Warehouse Fulfillment Quality Algorithms | Munich, Germany 🇩🇪 | [Apply]() |
+| trivago | Product Manager – Marketplace | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| Picnic | React Native Engineer (Experienced) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Zalando SE | SAP Frontend Developer | Munich, Germany 🇩🇪 | [Apply]() |
+| unity | Senior Backend Engineer | Munich, Germany 🇩🇪 | [Apply]() |
+| Zalando SE | Salesforce Engineer - Tech System Engineering | Munich, Germany 🇩🇪 | [Apply]() |
+| Zalando SE | (Senior) Backend Software Engineer | Munich, Germany 🇩🇪 | [Apply]() |
 | Tactile Games | Backend Engineer, TypeScript | Copenhagen, Denmark 🇩🇰 | [Apply]() |
 | Blinkist | Junior/Mid-Level Web Engineer (Full-Stack) | Berlin, Germany 🇩🇪 | [Apply]() |
 | dé VakantieDiscounter | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
