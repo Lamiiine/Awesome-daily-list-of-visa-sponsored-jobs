@@ -1,5 +1,13 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Nexxiot | Site Reliability Engineer (SRE) | Zurich, Switzerland 🇨🇭 | [Apply]() |
+| Nexxiot | Product Owner | Zurich, Switzerland 🇨🇭 | [Apply]() |
+| Nexxiot | Backend Software Engineer | Zurich, Switzerland 🇨🇭 | [Apply]() |
+| Nexxiot | Hardware Engineer | Zurich, Switzerland 🇨🇭 | [Apply]() |
+| Nexxiot | Frontend Software Engineer | Zurich, Switzerland 🇨🇭 | [Apply]() |
+| Truecaller | Software Engineer - Android | Stockholm, Sweden 🇸🇪 | [Apply]() |
+| Truecaller | Software Engineer - Backend | Stockholm, Sweden 🇸🇪 | [Apply]() |
+| Truecaller | Senior Software Engineer - Android | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | Zalando SE | Fullstack Software Engineer (Java/Kotlin/JavaScript/TypeScript) | Munich, Germany 🇩🇪 | [Apply]() |
 | Zalando SE | Junior Applied Scientist - Warehouse Fulfillment Quality Algorithms | Munich, Germany 🇩🇪 | [Apply]() |
 | trivago | Product Manager – Marketplace | Düsseldorf, Germany 🇩🇪 | [Apply]() |
