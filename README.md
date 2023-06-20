@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| SumUp | iOS Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| Adyen | Technical Support POS | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Allianz Technology | Frontend/ Fullstack Developer | Barcelona, Spain 🇪🇸 | [Apply]() |
+| Miratech | Python/ETL Developer | Barcelona, Spain 🇪🇸 | [Apply]() |
+| Fever | Senior Full Stack Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
+| Fever | Senior Frontend Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
+| Fever | Senior Backend Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
+| Fever | Tech Lead | Madrid, Spain 🇪🇸 | [Apply]() |
+| Datos | Senior Backend Developer | Valencia, Spain 🇪🇸 | [Apply]() |
 | Nexxiot | Site Reliability Engineer (SRE) | Zurich, Switzerland 🇨🇭 | [Apply]() |
 | Nexxiot | Product Owner | Zurich, Switzerland 🇨🇭 | [Apply]() |
 | Nexxiot | Backend Software Engineer | Zurich, Switzerland 🇨🇭 | [Apply]() |
@@ -55,7 +64,6 @@
 | HelloFresh | Senior Data Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Zalando SE | Backend Engineer (Scala) - Partner Tech (all genders) | Munich, Germany 🇩🇪 | [Apply]() |
 | SumUp | Payment Application Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
-| SumUp | iOS Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | SumUp | Frontend Engineer - Onboarding | Berlin, Germany 🇩🇪 | [Apply]() |
 | SumUp | Backend Engineer - Java/Kotlin | Berlin, Germany 🇩🇪 | [Apply]() |
 | SumUp | Full Stack Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
