@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| trivago | Backend Software Engineer – Connectivity | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| Adyen | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| ImmoScout24 | Data Scientist (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| trivago | Site Reliability Engineer | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| Booking.com | Product Manager, FinTech - SAP Systems | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Monitoring Operations Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Booking.com | Senior Engineering Manager | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Zalando SE | Principal Software Engineer - Fulfillment Core | Munich, Germany 🇩🇪 | [Apply]() |
+| Adyen | Enterprise Sales Manager | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | SumUp | iOS Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adyen | Technical Support POS | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Allianz Technology | Frontend/ Fullstack Developer | Barcelona, Spain 🇪🇸 | [Apply]() |
