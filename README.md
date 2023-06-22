@@ -1,5 +1,20 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| raisin | Data Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| raisin | (Senior) Full Stack Software Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| raisin | (Senior) Software Engineer (Frontend) | Berlin, Germany 🇩🇪 | [Apply]() |
+| trivago | Systems Engineer | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| gridX | Go/Linux Systems Engineer (M/W/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
+| gridX | Frontend Developer (M/W/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
+| gridX | (Senior) Solution Engineer (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
+| gridX | Senior Software Engineer (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
+| gridX | Backend Developer (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
+| idealo internet GmbH | Technical Product Owner | Berlin, Germany 🇩🇪 | [Apply]() |
+| idealo internet GmbH | (Senior) Fullstack Engineer - Homepage | Berlin, Germany 🇩🇪 | [Apply]() |
+| idealo internet GmbH | (Senior) Backend Developer | Berlin, Germany 🇩🇪 | [Apply]() |
+| idealo internet GmbH | PR & Communications Manager | Berlin, Germany 🇩🇪 | [Apply]() |
+| idealo internet GmbH | Brand & Communications Manager France | Berlin, Germany 🇩🇪 | [Apply]() |
+| idealo internet GmbH | (Senior) Performance Marketing Manager - Paid Search | Berlin, Germany 🇩🇪 | [Apply]() |
 | trivago | Backend Software Engineer – Connectivity | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | Adyen | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | ImmoScout24 | Data Scientist (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -336,15 +351,9 @@
 | Popcore | Unity Developer (M/F/X) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Popcore | Analytics Engineer - M/F/X | Berlin, Germany 🇩🇪 | [Apply]() |
 | justDice |  Tech Lead – Unity Game Development (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| gridX | Cyber Security Engineer (M/W/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
 | CELUS | Python Web Developer (M/F/D) | München, Germany 🇩🇪 | [Apply]() |
-| gridX | Frontend Developer (M/W/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
 | SimScale | Growth Product Manager (m/f/d) | München, Germany 🇩🇪 | [Apply]() |
 | SimScale | SRE/Cloud Engineer (m/f/d) | München, Germany 🇩🇪 | [Apply]() |
-| gridX | Go/Linux Systems Engineer (M/W/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
-| gridX | Senior Software Engineer (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
-| gridX | (Senior) Solution Engineer (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
-| gridX | Backend Developer (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
 | N26 | Chatbot Analyst | Barcelona, Spain 🇪🇸 | [Apply]() |
 | Volkswagen Digital Solutions | DevOps Engineer | Lisbon, Portugal 🇵🇹 | [Apply]() |
 | Volkswagen Digital Solutions | Data Integration Architect | Lisbon, Portugal 🇵🇹 | [Apply]() |
@@ -599,7 +608,6 @@
 | Telespazio | IT Cyber Security Engineer | Transinne, Belgium 🇧🇪 | [Apply]() |
 | Telespazio | Product Assurance (PA) Engineer | Transinne, Belgium 🇧🇪 | [Apply]() |
 | NXP Semiconductors | Customer & Application Support Engineer (software) | Leuven, Belgium 🇧🇪 | [Apply]() |
-| gridX | Python Software Engineer (M/F/X) | Aachen & München, Germany 🇩🇪 | [Apply]() |
 | Scalable GmbH | Investment Operations Manager - Wealth (m/f/x) | München, Germany 🇩🇪 | [Apply]() |
 | Scalable GmbH | Information Security Analyst (m/f/x) | München, Germany 🇩🇪 | [Apply]() |
 | Scalable GmbH | Senior Java/Kotlin Engineer - Authentication Team (m/f/x) - onsite or remote | Berlin, Germany 🇩🇪 | [Apply]() |
