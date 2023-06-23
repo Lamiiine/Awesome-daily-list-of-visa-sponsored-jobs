@@ -1,5 +1,8 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Cinemo | Talent Acquisition Specialist (f/m/d) one year limited contract | Karlsruhe, Germany 🇩🇪 | [Apply]() |
+| Cinemo | Sr. Software Engineer Android AOSP | Karlsruhe, Germany 🇩🇪 | [Apply]() |
+| Cinemo | Program/Project Coordinator | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | raisin | Data Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | raisin | (Senior) Full Stack Software Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | raisin | (Senior) Software Engineer (Frontend) | Berlin, Germany 🇩🇪 | [Apply]() |
