@@ -1,5 +1,13 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Client Server | Back End Developer HLS Scala - Media Streaming | Berlin, Germany 🇩🇪 | [Apply]() |
+| Selvita | Java Developer | Kraków, Poland 🇵🇱 | [Apply]() |
+| Selvita | Python Developer | Kraków, Poland 🇵🇱 | [Apply]() |
+| Picnic | Data Scientist | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Doctolib | Salesforce Technical Architect | Paris, France 🇫🇷 | [Apply]() |
+| Adyen | Software Engineer - Platform Observability | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | System Administrator | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Vacos | Java / Kotlin Developer | Stuttgart, Germany 🇩🇪 | [Apply]() |
 | Cinemo | Talent Acquisition Specialist (f/m/d) one year limited contract | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | Cinemo | Sr. Software Engineer Android AOSP | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | Cinemo | Program/Project Coordinator | Karlsruhe, Germany 🇩🇪 | [Apply]() |
