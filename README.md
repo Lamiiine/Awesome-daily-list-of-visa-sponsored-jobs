@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| SupplyOn | Full Stack Software Developer | Munich, Germany 🇩🇪 | [Apply]() |
+| SumUp | Senior Fullstack Software Engineer / Online Payments | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Frontend Engineer - Onboarding | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Backend Engineer - Java/Kotlin | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Full Stack Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Android Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Client Server | Back End Developer HLS Scala - Media Streaming | Berlin, Germany 🇩🇪 | [Apply]() |
 | Selvita | Java Developer | Kraków, Poland 🇵🇱 | [Apply]() |
 | Selvita | Python Developer | Kraków, Poland 🇵🇱 | [Apply]() |
@@ -99,10 +105,6 @@
 | HelloFresh | Senior Data Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Zalando SE | Backend Engineer (Scala) - Partner Tech (all genders) | Munich, Germany 🇩🇪 | [Apply]() |
 | SumUp | Payment Application Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
-| SumUp | Frontend Engineer - Onboarding | Berlin, Germany 🇩🇪 | [Apply]() |
-| SumUp | Backend Engineer - Java/Kotlin | Berlin, Germany 🇩🇪 | [Apply]() |
-| SumUp | Full Stack Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
-| SumUp | Android Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | SumUp | Product Designer, Hardware | Berlin, Germany 🇩🇪 | [Apply]() |
 | SumUp | (Senior) Backend Engineer - Java | Berlin, Germany 🇩🇪 | [Apply]() |
 | Secfix | Senior Back-End Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
