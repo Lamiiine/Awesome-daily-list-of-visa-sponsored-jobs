@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Gigs | Senior Backend Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Gigs | Senior Frontend Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Statista | (Senior) Java Developer (m/f/d) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Carv | Senior Full Stack Engineer (Flutter & Firebase) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Statista | Full Stack Developer Web/PHP (m/f/d) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Statista | Junior Business Development Representative Benelux (m/f/d) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| PAIR Finance | DevOps Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| Gigs | Senior API Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Gigs | Engineering Manager (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Gigs | Senior Product Designer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | SupplyOn | Full Stack Software Developer | Munich, Germany 🇩🇪 | [Apply]() |
 | SumUp | Senior Fullstack Software Engineer / Online Payments | Berlin, Germany 🇩🇪 | [Apply]() |
 | SumUp | Frontend Engineer - Onboarding | Berlin, Germany 🇩🇪 | [Apply]() |
