@@ -1,12 +1,24 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Diabolocom | Java Developer | Paris, France 🇫🇷 | [Apply]() |
+| HomeToGo | Backend Developer - PHP (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Doctolib | Senior Software Engineer - C++, Golang, TypeScript (x/f/m) | Paris, France 🇫🇷 | [Apply]() |
+| Adjust | Senior Database Engineer - PostgreSQL | Berlin, Germany 🇩🇪 | [Apply]() |
+| Zalando SE | Support - Collaboration Services | Berlin, Germany 🇩🇪 | [Apply]() |
+| HomeToGo | Senior Android Developer - Smoobu (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HomeToGo | Senior iOS Developer - Smoobu (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| GetYourGuide | Senior Software Engineer, Backend | Berlin, Germany 🇩🇪 | [Apply]() |
+| GetYourGuide | Senior Data Scientist - Data Products (Supply) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Instapro | Senior UX Designer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| BeamNG GmbH | Senior Python Engineer (onsite/remote) | Bremen, Germany 🇩🇪 | [Apply]() |
+| BeamNG GmbH | Senior Technical Artist (remote/onsite) | Bremen, Germany 🇩🇪 | [Apply]() |
+| BeamNG GmbH | VFX / Unreal engine Programmer (onsite/remote) | Bremen, Germany 🇩🇪 | [Apply]() |
 | Gigs | Senior Backend Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Gigs | Senior Frontend Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Statista | (Senior) Java Developer (m/f/d) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Carv | Senior Full Stack Engineer (Flutter & Firebase) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Statista | Full Stack Developer Web/PHP (m/f/d) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Statista | Junior Business Development Representative Benelux (m/f/d) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| PAIR Finance | DevOps Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Gigs | Senior API Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Gigs | Engineering Manager (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Gigs | Senior Product Designer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -292,7 +304,6 @@
 | Optiver | Senior Software Engineer | SYDNEY, Australia 🇦🇺 | [Apply]() |
 | Diabolocom | Frontend Software Engineer | Paris, France 🇫🇷 | [Apply]() |
 | Diabolocom | Lead QA Automation Engineer | Paris, France 🇫🇷 | [Apply]() |
-| Diabolocom | Java Developer | Paris, France 🇫🇷 | [Apply]() |
 | justtrack | Senior Product Marketing Manager (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Cinemo | Senior C++ Software Engineer - Car Connectivity (f/m/d) | Karlsruhe, Germany 🇩🇪 | [Apply]() |
 | K-tronik GmbH | Software Developer - Aerospace (m/f/x) | Munich, Germany 🇩🇪 | [Apply]() |
