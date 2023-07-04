@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| N26 | Business Operations Manager - Insurance | Barcelona, Spain 🇪🇸 | [Apply]() |
+| Kwalee | Product Marketing Manager - PC / Console | Leamington Spa , UK 🇬🇧 | [Apply]() |
+| Kwalee | Product Owner - Game Discovery Platform | Leamington Spa , UK 🇬🇧 | [Apply]() |
+| Kwalee | Machine Learning Engineer | Leamington Spa , UK 🇬🇧 | [Apply]() |
+| Kwalee | DevOps Engineer | Leamington Spa , UK 🇬🇧 | [Apply]() |
+| Adyen | CI/CD Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Kwalee | Lead QA - Mobile Games | Leamington Spa , UK 🇬🇧 | [Apply]() |
+| Kwalee | Machine Learning Engineer | Leamington Spa , UK 🇬🇧 | [Apply]() |
+| Kwalee | Data Science Core Developer | Leamington Spa , UK 🇬🇧 | [Apply]() |
+| Kwalee | Senior Software Engineer - Backend | Leamington Spa , UK 🇬🇧 | [Apply]() |
 | Diabolocom | Java Developer | Paris, France 🇫🇷 | [Apply]() |
 | HomeToGo | Backend Developer - PHP (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Doctolib | Senior Software Engineer - C++, Golang, TypeScript (x/f/m) | Paris, France 🇫🇷 | [Apply]() |
@@ -240,13 +250,9 @@
 | EVBox | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Oetker Digital | (Senior) Consultant Data Protection (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Oetker Digital |  (Senior) Data & Analytics Consultant (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Oetker Digital | System Administrator (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Lightcurve | DevOps Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
-| Bigpoint GmbH | Associate Project Manager (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | GUARDSQUARE | DevOps Engineer | Leuven, Belgium 🇧🇪 | [Apply]() |
 | GUARDSQUARE | Junior Java R&D Software Engineer - Leuven | Leuven, Belgium 🇧🇪 | [Apply]() |
 | Adyen | System Administrator - Office Infrastructure | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Adyen | Digital Marketing Manager | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adyen | Product Manager, Data Platform | Madrid, Spain 🇪🇸 | [Apply]() |
 | Adyen | Java Software Engineer - Backend | Madrid, Spain 🇪🇸 | [Apply]() |
 | Adyen | Platform Reliability Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
@@ -256,7 +262,6 @@
 | Back Market | Data Engineering Manager - Customer squad | Paris, France 🇫🇷 | [Apply]() |
 | BlaBlaCar | Python Backend Engineer - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
 | BlaBlaCar | Data Engineer - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
-| Booking.com | Group Product Manager - Tech & Product (Product Management) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Optiver | Data Visualization Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Optiver | Network Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Monzo | Android Engineer | London , UK 🇬🇧 | [Apply]() |
