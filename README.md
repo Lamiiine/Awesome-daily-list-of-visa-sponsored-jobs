@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| HolidayPirates Group | Junior Global CRM Manager (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HolidayPirates Group | (Junior) Content Marketing Manager Italy (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Instapro | Senior SEO Specialist (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Instapro | Senior UX Designer (Design Systems) m/f/d | Berlin, Germany 🇩🇪 | [Apply]() |
+| Procter & Gamble | Integrated Media Manager (m/f/d) | Schwalbach Am Taunus, Germany 🇩🇪 | [Apply]() |
+| Procter & Gamble | Programmatic Media Specialist (m/f/d) | Schwalbach Am Taunus, Germany 🇩🇪 | [Apply]() |
+| trivago | Product Manager – Marketplace | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| Wageningen University & Research | High Performance Computing Engineer | Wageningen, Netherlands 🇳🇱 | [Apply]() |
+| Wageningen University & Research | Research Software Engineer | Wageningen, Netherlands 🇳🇱 | [Apply]() |
 | N26 | Business Operations Manager - Insurance | Barcelona, Spain 🇪🇸 | [Apply]() |
 | Kwalee | Product Marketing Manager - PC / Console | Leamington Spa , UK 🇬🇧 | [Apply]() |
 | Kwalee | Product Owner - Game Discovery Platform | Leamington Spa , UK 🇬🇧 | [Apply]() |
@@ -92,7 +101,6 @@
 | Truecaller | Senior Software Engineer - Android | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | Zalando SE | Fullstack Software Engineer (Java/Kotlin/JavaScript/TypeScript) | Munich, Germany 🇩🇪 | [Apply]() |
 | Zalando SE | Junior Applied Scientist - Warehouse Fulfillment Quality Algorithms | Munich, Germany 🇩🇪 | [Apply]() |
-| trivago | Product Manager – Marketplace | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | Picnic | React Native Engineer (Experienced) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Zalando SE | SAP Frontend Developer | Munich, Germany 🇩🇪 | [Apply]() |
 | unity | Senior Backend Engineer | Munich, Germany 🇩🇪 | [Apply]() |
