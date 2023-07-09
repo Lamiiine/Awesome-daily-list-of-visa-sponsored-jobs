@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| trivago | Data Scientist – Insights Connectivity | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| Unikie | Embedded SW Engineer in Abu Dhabi | Abu Dhabi, United Arab Emirates 🇦🇪 | [Apply]() |
+| ImmoScout24 | (Senior) Network Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| ImmoScout24 | Product Manager (d/f/m) Media & Loft | Berlin, Germany 🇩🇪 | [Apply]() |
+| Booking.com | Senior Data Engineer - Data & Machine Learning Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Adyen | Project Operation Manager | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | HolidayPirates Group | Junior Global CRM Manager (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | HolidayPirates Group | (Junior) Content Marketing Manager Italy (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Instapro | Senior SEO Specialist (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
