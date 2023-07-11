@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| MODE Recruitment | Frontend Developer | Munich, Germany 🇩🇪 | [Apply]() |
+| arculus – a Jungheinrich company | Software Engineer - DevOps (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
+| arculus – a Jungheinrich company | IT Specialist (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
+| arculus – a Jungheinrich company | System Engineer IT (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
+| Picnic | iOS Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Picnic | Angular Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Picnic | Pricing & Promotions - Data Analyst (m/w/d) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Picnic | Visual Designer H/F | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| BlaBlaCar | Confirmed Python Backend Engineer - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
+| BlaBlaCar | Senior Brand Designer | Paris, France 🇫🇷 | [Apply]() |
 | trivago | Data Scientist – Insights Connectivity | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | Unikie | Embedded SW Engineer in Abu Dhabi | Abu Dhabi, United Arab Emirates 🇦🇪 | [Apply]() |
 | ImmoScout24 | (Senior) Network Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -233,7 +243,6 @@
 | Chimera Entertainment | UI Artist (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
 | HomeToGo | Risk and Fraud Analyst - Small Partner Solutions (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Vermietet.de (von ImmoScout24) | Senior Backend Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Picnic | Angular Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Linux System Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | BlaBlaCar | Learning and Development Specialist | Paris, France 🇫🇷 | [Apply]() |
 | Marktplaats | Back End Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
