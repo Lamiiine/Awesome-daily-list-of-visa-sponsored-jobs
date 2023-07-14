@@ -1,5 +1,16 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| arculus – a Jungheinrich company | Embedded Software Engineer (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
+| Scout24 | Software Engineer (backend focus) (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Scout24 | Software Engineer (Fullstack) (f/d/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Scout24 | Security Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| The Quality Group GmbH (TQG) | Java / DevOps Engineer | Stuttgart, Germany 🇩🇪 | [Apply]() |
+| Picnic | Data Analyst - Growth Operations | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| Picnic | Junior Analyst - Consultant | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| ImmoScout24 | Product Manager Mobile Apps (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| raisin | Software Engineer (Backend) – Deposits Brokerage (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| GemPool Recruitment | Android Engineer | Dublin, Ireland 🇮🇪 | [Apply]() |
+| Delivery Hero | Senior Frontend Developer - React, Typescript (Vendor Growth team) | Berlin, Germany 🇩🇪 | [Apply]() |
 | MODE Recruitment | Frontend Developer | Munich, Germany 🇩🇪 | [Apply]() |
 | arculus – a Jungheinrich company | Software Engineer - DevOps (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
 | arculus – a Jungheinrich company | IT Specialist (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
