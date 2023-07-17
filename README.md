@@ -1,5 +1,9 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| adjoe | Senior Android Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Insify | Senior Frontend Engineer - React / Typescript | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Insify | Backend Developer (Node.js) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Insify | Senior Backend/Full-Stack Typescript Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | arculus – a Jungheinrich company | Embedded Software Engineer (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
 | Scout24 | Software Engineer (backend focus) (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Scout24 | Software Engineer (Fullstack) (f/d/m) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -140,7 +144,6 @@
 | Blinkist | Senior Web Engineer (Full-Stack) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adyen | Network DevOps Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Doctolib | Workday Solution Architect (x/f/m) | Paris, France 🇫🇷 | [Apply]() |
-| Insify | Senior Backend/Full-Stack Typescript Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Scout24 | Lead Sales Digitization Manager (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Delivery Hero | Performance Marketing Analytics Manager (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Delivery Hero | (Senior) Product Analyst - Logistics | Berlin, Germany 🇩🇪 | [Apply]() |
