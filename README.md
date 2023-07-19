@@ -1,5 +1,13 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Scout24 | Junior Backend Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| DataScienceJobs.es | Data Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
+| Micropsi Industries | Performance Marketing Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| raisin | (Senior) Software Engineer (Frontend) (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| MEDWING | Senior Full Stack Engineer (gn) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HelloFresh | Product Analyst - Food (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HelloFresh | Principal Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| Picnic | Senior Python Engineer | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | adjoe | Senior Android Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Insify | Senior Frontend Engineer - React / Typescript | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Insify | Backend Developer (Node.js) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
@@ -316,7 +324,6 @@
 | Sunday GmbH | Game Designer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | HelloFresh | BI Analyst - Operations Strategy & Analytics (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Micropsi Industries | Senior Python Developer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Micropsi Industries | Performance Marketing Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Energetech | Junior Software Engineer |  Dubai, United Arab Emirates 🇦🇪 | [Apply]() |
 | Improvin' | UI Designer | Stockholm, Sweden 🇸🇪 | [Apply]() |
 | Improvin' | Business Developer | Stockholm, Sweden 🇸🇪 | [Apply]() |
