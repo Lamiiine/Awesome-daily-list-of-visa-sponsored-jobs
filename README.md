@@ -1,5 +1,12 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Merantix Momentum | AI Full Stack Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| adjoe | DevOps Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Hashtag You | Junior CRM Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| ImmoScout24 | Product Manager (d/f/m) Media & Loft | Berlin, Germany 🇩🇪 | [Apply]() |
+| Sunday GmbH | Unity Gameplay Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Civey | (Junior) Research Analyst (d/m/w) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Scout24 | Business Intelligence Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Scout24 | Junior Backend Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | DataScienceJobs.es | Data Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
 | Micropsi Industries | Performance Marketing Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -36,7 +43,6 @@
 | trivago | Data Scientist – Insights Connectivity | Düsseldorf, Germany 🇩🇪 | [Apply]() |
 | Unikie | Embedded SW Engineer in Abu Dhabi | Abu Dhabi, United Arab Emirates 🇦🇪 | [Apply]() |
 | ImmoScout24 | (Senior) Network Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
-| ImmoScout24 | Product Manager (d/f/m) Media & Loft | Berlin, Germany 🇩🇪 | [Apply]() |
 | Booking.com | Senior Data Engineer - Data & Machine Learning Platform | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Adyen | Project Operation Manager | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | HolidayPirates Group | Junior Global CRM Manager (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -293,8 +299,6 @@
 | EVBox | IT Product Owner - Supply Chain | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | EVBox | Data Product Owner | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | EVBox | Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
-| Oetker Digital | (Senior) Consultant Data Protection (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Oetker Digital |  (Senior) Data & Analytics Consultant (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | GUARDSQUARE | DevOps Engineer | Leuven, Belgium 🇧🇪 | [Apply]() |
 | GUARDSQUARE | Junior Java R&D Software Engineer - Leuven | Leuven, Belgium 🇧🇪 | [Apply]() |
 | Adyen | System Administrator - Office Infrastructure | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
@@ -655,7 +659,6 @@
 | applike-group | Technical Writer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | applike-group | Analytics Engineer (all levels) (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | applike-group | Frontend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
-| applike-group | Unity Gameplay Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | applike-group | Game Designer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | applike-group | Marketing Artist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | applike-group | Business Intelligence / Data Science Lead (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
