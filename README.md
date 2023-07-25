@@ -1,5 +1,9 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Statista | Junior Analyst Technology Markets (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Delivery Hero | Performance Marketing Analytics Manager (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
+| justDice | Backend QA Tester | Hamburg, Germany 🇩🇪 | [Apply]() |
+| University of Bath | Data & Reporting Analyst (fixed-term role) | Bath , UK 🇬🇧 | [Apply]() |
 | Merantix Momentum | AI Full Stack Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | adjoe | DevOps Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Hashtag You | Junior CRM Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -159,7 +163,6 @@
 | Adyen | Network DevOps Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Doctolib | Workday Solution Architect (x/f/m) | Paris, France 🇫🇷 | [Apply]() |
 | Scout24 | Lead Sales Digitization Manager (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Delivery Hero | Performance Marketing Analytics Manager (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Delivery Hero | (Senior) Product Analyst - Logistics | Berlin, Germany 🇩🇪 | [Apply]() |
 | About you | Junior GCP DevOps Engineer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | About you | (Junior) Business Analyst (m/w/d) - SCAYLE | Hamburg, Germany 🇩🇪 | [Apply]() |
