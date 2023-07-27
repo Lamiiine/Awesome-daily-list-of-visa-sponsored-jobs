@@ -1,5 +1,10 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Statista | (Senior) Data Analyst - askStatista (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| About you | Analytics Engineer (m/f/d) - SCAYLE | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Payrails | Marketing Specialist (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Wageningen University & Research | Data Scientist for Developing an Animal Digital Twin | Wageningen, Netherlands 🇳🇱 | [Apply]() |
+| Wageningen University & Research | PhD Candidate in Nutrition and measuring Biological Ageing | Wageningen, Netherlands 🇳🇱 | [Apply]() |
 | Statista | Junior Analyst Technology Markets (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Delivery Hero | Performance Marketing Analytics Manager (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
 | justDice | Backend QA Tester | Hamburg, Germany 🇩🇪 | [Apply]() |
