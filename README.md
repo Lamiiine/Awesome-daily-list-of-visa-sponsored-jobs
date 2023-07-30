@@ -1,5 +1,10 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Brunel | Junior Java Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
+| Brunel | Junior .NET Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
+| HelloFresh | Senior Data Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| arculus – a Jungheinrich company | Rust Developer (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
+| BlaBlaCar | Product Manager - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
 | Statista | (Senior) Data Analyst - askStatista (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | About you | Analytics Engineer (m/f/d) - SCAYLE | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Payrails | Marketing Specialist (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
