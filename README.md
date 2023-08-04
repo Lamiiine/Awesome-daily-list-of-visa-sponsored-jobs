@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| HomeToGo | Senior Analytical Engineer - Marketing (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Booking.com | Manager UX Writing & Content Design, FinTech | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| STAFIDE | Azure Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| idealo internet GmbH | Senior Backend Engineer (Kotlin) – Mobile Application Development (m|f|x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| trivago | Quality Assurance Engineer | Düsseldorf, Germany 🇩🇪 | [Apply]() |
+| SumUp | Backend Engineer (Kotlin) - Reporting & Insights | Berlin, Germany 🇩🇪 | [Apply]() |
 | Brunel | Junior Java Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
 | Brunel | Junior .NET Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
 | HelloFresh | Senior Data Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
