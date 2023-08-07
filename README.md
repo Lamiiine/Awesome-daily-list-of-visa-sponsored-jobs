@@ -1,5 +1,12 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| STAFIDE | Node.js Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| University of Bath | Marketing and Communications Lead (CH10866) | Bath , UK 🇬🇧 | [Apply]() |
+| justDice | Backend QA Tester | Hamburg, Germany 🇩🇪 | [Apply]() |
+| MOIA | Senior Data Engineer - Pooling Analytics (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| adjoe | Senior DevOps Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| adjoe | Senior Android Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| justDice | Lead Business Intelligence Analyst (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | HomeToGo | Senior Analytical Engineer - Marketing (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Booking.com | Manager UX Writing & Content Design, FinTech | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | STAFIDE | Azure Data Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
@@ -18,7 +25,6 @@
 | Wageningen University & Research | PhD Candidate in Nutrition and measuring Biological Ageing | Wageningen, Netherlands 🇳🇱 | [Apply]() |
 | Statista | Junior Analyst Technology Markets (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Delivery Hero | Performance Marketing Analytics Manager (all genders) | Berlin, Germany 🇩🇪 | [Apply]() |
-| justDice | Backend QA Tester | Hamburg, Germany 🇩🇪 | [Apply]() |
 | University of Bath | Data & Reporting Analyst (fixed-term role) | Bath , UK 🇬🇧 | [Apply]() |
 | Merantix Momentum | AI Full Stack Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | adjoe | DevOps Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
@@ -35,7 +41,6 @@
 | HelloFresh | Product Analyst - Food (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | HelloFresh | Principal Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
 | Picnic | Senior Python Engineer | Düsseldorf, Germany 🇩🇪 | [Apply]() |
-| adjoe | Senior Android Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Insify | Senior Frontend Engineer - React / Typescript | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Insify | Backend Developer (Node.js) | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | Insify | Senior Backend/Full-Stack Typescript Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
