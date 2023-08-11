@@ -1,5 +1,10 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Scout24 | Junior Backend Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| MEDWING | Senior Full Stack Engineer - React & Elixir or Ruby (gn) | Berlin, Germany 🇩🇪 | [Apply]() |
+| SumUp | Senior Frontend Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
+| taxfix | Product Marketing Specialist (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HelloFresh | Senior Marketing Automation Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | STAFIDE | Node.js Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | University of Bath | Marketing and Communications Lead (CH10866) | Bath , UK 🇬🇧 | [Apply]() |
 | justDice | Backend QA Tester | Hamburg, Germany 🇩🇪 | [Apply]() |
@@ -33,7 +38,6 @@
 | Sunday GmbH | Unity Gameplay Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | Civey | (Junior) Research Analyst (d/m/w) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Scout24 | Business Intelligence Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Scout24 | Junior Backend Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | DataScienceJobs.es | Data Engineer | Madrid, Spain 🇪🇸 | [Apply]() |
 | Micropsi Industries | Performance Marketing Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | raisin | (Senior) Software Engineer (Frontend) (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
