@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| adjoe | UI/UX Designer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| adjoe | Go Backend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| adjoe | Supply Growth Manager (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| STAFIDE | .Net & Azure Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| idealo internet GmbH | Product Owner - B2C (m|w|x) | Berlin, Germany 🇩🇪 | [Apply]() |
+| idealo internet GmbH | (Senior) Fullstack Engineer - Homepage | Berlin, Germany 🇩🇪 | [Apply]() |
+| Vermietet.de (von ImmoScout24) | Senior Backend Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Dunia | Senior Backend Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| justDice | Business Development Manager (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| Kitchen Stories - Anyone can cook! | (Senior) SEO Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Scout24 | Junior Backend Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply]() |
 | MEDWING | Senior Full Stack Engineer - React & Elixir or Ruby (gn) | Berlin, Germany 🇩🇪 | [Apply]() |
 | SumUp | Senior Frontend Engineer | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -142,7 +152,6 @@
 | gridX | Senior Software Engineer (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
 | gridX | Backend Developer (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
 | idealo internet GmbH | Technical Product Owner | Berlin, Germany 🇩🇪 | [Apply]() |
-| idealo internet GmbH | (Senior) Fullstack Engineer - Homepage | Berlin, Germany 🇩🇪 | [Apply]() |
 | idealo internet GmbH | (Senior) Backend Developer | Berlin, Germany 🇩🇪 | [Apply]() |
 | idealo internet GmbH | PR & Communications Manager | Berlin, Germany 🇩🇪 | [Apply]() |
 | idealo internet GmbH | Brand & Communications Manager France | Berlin, Germany 🇩🇪 | [Apply]() |
@@ -298,7 +307,6 @@
 | K-tronik GmbH | Development Engineer (m/f/x) for ASIC/FPGA | Dresden, Germany 🇩🇪 | [Apply]() |
 | Chimera Entertainment | UI Artist (f/m/d) | Munich, Germany 🇩🇪 | [Apply]() |
 | HomeToGo | Risk and Fraud Analyst - Small Partner Solutions (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
-| Vermietet.de (von ImmoScout24) | Senior Backend Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Adyen | Linux System Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | BlaBlaCar | Learning and Development Specialist | Paris, France 🇫🇷 | [Apply]() |
 | Marktplaats | Back End Developer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
