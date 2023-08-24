@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| gridX | Marketing Analyst (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
+| Merantix Momentum | Machine Learning Project Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Sequra | Senior Backend Developer | Barcelona, Spain 🇪🇸 | [Apply]() |
+| STAFIDE | Business Analyst | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| STAFIDE | DevOps Analyst | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| Instapro | Senior UX Designer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| Instapro | Lead UX Researcher | Berlin, Germany 🇩🇪 | [Apply]() |
+| Instapro | SEO Manager | Berlin, Germany 🇩🇪 | [Apply]() |
+| Instapro | Lead Frontend Developer (Innovation team) | Berlin, Germany 🇩🇪 | [Apply]() |
 | adjoe | UI/UX Designer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | adjoe | Go Backend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | adjoe | Supply Growth Manager (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
