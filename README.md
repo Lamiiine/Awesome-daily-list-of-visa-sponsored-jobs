@@ -1,5 +1,13 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| finleap connect | (Junior) Software Engineer - Open Banking Data (all genders) | Kraków, Poland 🇵🇱 | [Apply]() |
+| Storyteq | Platform Software Architect | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
+| arculus – a Jungheinrich company | Scrum Master (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
+| arculus – a Jungheinrich company | Control Engineer for Electric Motors (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
+| arculus – a Jungheinrich company | Rust Developer (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
+| BlaBlaCar | Finance Manager - Consolidation & Projects | Paris, France 🇫🇷 | [Apply]() |
+| Moonfare | Senior PR Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
+| HelloFresh | Senior Paid Social Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply]() |
 | gridX | Marketing Analyst (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply]() |
 | Merantix Momentum | Machine Learning Project Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply]() |
 | Sequra | Senior Backend Developer | Barcelona, Spain 🇪🇸 | [Apply]() |
@@ -40,7 +48,6 @@
 | Brunel | Junior Java Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
 | Brunel | Junior .NET Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
 | HelloFresh | Senior Data Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply]() |
-| arculus – a Jungheinrich company | Rust Developer (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
 | BlaBlaCar | Product Manager - BlaBlaCar Daily | Paris, France 🇫🇷 | [Apply]() |
 | Statista | (Senior) Data Analyst - askStatista (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | About you | Analytics Engineer (m/f/d) - SCAYLE | Hamburg, Germany 🇩🇪 | [Apply]() |
