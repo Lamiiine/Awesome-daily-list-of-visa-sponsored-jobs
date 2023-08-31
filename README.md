@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| adjoe | Frontend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
+| HelloFresh | Senior Product Owner - Payments Alliance | Berlin, Germany 🇩🇪 | [Apply]() |
 | finleap connect | (Junior) Software Engineer - Open Banking Data (all genders) | Kraków, Poland 🇵🇱 | [Apply]() |
 | Storyteq | Platform Software Architect | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | arculus – a Jungheinrich company | Scrum Master (d/f/m) | Munich, Germany 🇩🇪 | [Apply]() |
