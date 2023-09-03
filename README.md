@@ -1,5 +1,8 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| IC Resources | ASIC / FPGA Hardware Support & Applications Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
+| Apollo Solutions | Full Stack Developer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
+| Picnic | Android Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
 | adjoe | Frontend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply]() |
 | HelloFresh | Senior Product Owner - Payments Alliance | Berlin, Germany 🇩🇪 | [Apply]() |
 | finleap connect | (Junior) Software Engineer - Open Banking Data (all genders) | Kraków, Poland 🇵🇱 | [Apply]() |
