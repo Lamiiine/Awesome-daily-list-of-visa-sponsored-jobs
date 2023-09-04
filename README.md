@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Monzo | Senior Machine Learning Engineer | London , UK 🇬🇧 | [Apply]() |
+| Monzo | Senior Data Scientist, Operations | London , UK 🇬🇧 | [Apply]() |
+| Monzo | Senior Data Scientist, Financial Crime | London , UK 🇬🇧 | [Apply]() |
+| Monzo | Senior Data Scientist | London , UK 🇬🇧 | [Apply]() |
+| Monzo | Senior Analytics Engineer | London , UK 🇬🇧 | [Apply]() |
+| Monzo | Analytics Engineering Lead, Fincrime | London , UK 🇬🇧 | [Apply]() |
 | IC Resources | ASIC / FPGA Hardware Support & Applications Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
 | Apollo Solutions | Full Stack Developer | Eindhoven, Netherlands 🇳🇱 | [Apply]() |
 | Picnic | Android Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply]() |
