@@ -1,5 +1,9 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| HelloFresh | Project Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/5336936) |
+| HelloFresh | Backend Engineer (m/f/x) | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/5326383) |
+| taxfix | Staff Engineer - Product Security | Berlin, Germany 🇩🇪 | [Apply](https://taxfix.de/en/careers/open-position/6904753002/) |
+| BlaBlaCar | Confirmed Data Analyst - Data Capabilities | Paris, France 🇫🇷 | [Apply](https://jobs.lever.co/blablacar/5440f463-090d-43e0-b99b-efb62b954ec2/apply) |
 | Monzo | Senior Machine Learning Engineer | London , UK 🇬🇧 | [Apply](https://boards.greenhouse.io/monzo/jobs/4551380) |
 | Monzo | Senior Data Scientist, Operations | London , UK 🇬🇧 | [Apply](https://boards.greenhouse.io/monzo/jobs/5108845) |
 | Monzo | Senior Data Scientist, Financial Crime | London , UK 🇬🇧 | [Apply](https://boards.greenhouse.io/monzo/jobs/3334222) |
