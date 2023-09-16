@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Bigpoint GmbH | Junior Game Developer (m/f/d) - #5738 | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1244438?language=en&display=en) |
+| gridX | Agile Coach (M/F/D) / Scrum Master (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply](https://gridx.jobs.personio.de/job/1235296?language=en&display=de) |
+| Kaufland.de | Backend Engineer (all genders) - Developer Experience | Cologne, Germany 🇩🇪 | [Apply](https://join.com/companies/kaufland-e-commerce/9214319-backend-engineer-all-genders-developer-experience) |
+| BlaBlaCar | Back-end Engineer - Java | Paris, France 🇫🇷 | [Apply](https://jobs.lever.co/blablacar/24f24fce-e60e-444e-b904-d984a89c2615/apply) |
+| Delivery Hero | (Senior) Software Engineer (Golang) - Customer Data Platform (All genders) | Berlin, Germany 🇩🇪 | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0043444EXTERNALENGLOBAL/-Senior-Software-Engineer-Golang-Customer-Data-Platform-All-genders) |
+| Delivery Hero | Senior Backend Software Engineer (Python) - Consumer Data Products (All genders) | Berlin, Germany 🇩🇪 | [Apply](https://careers.deliveryhero.com/global/en/job/DEHEGLOBALJR0043455EXTERNALENGLOBAL/Senior-Backend-Software-Engineer-Python-Consumer-Data-Products-All-genders) |
+| STAFIDE | Senior SAP ABAP Developer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://stafide.zohorecruit.com/jobs/Careers/596028000005491406/Senior-SAP-ABAP-Developer) |
+| Hashtag You | Data & Analytics Senior Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply](https://hashtagyou.jobs.personio.com/job/1251296?language=en&display=en) |
+| HelloFresh | Senior Infrastructure Engineer (f/m/x) | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/HELLGLOBAL4739114EXTERNALENGLOBAL/Senior-Infrastructure-Engineer-f-m-x) |
+| HelloFresh | Senior Backend Engineer, Inventory Management (m/f/x) | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/HELLGLOBAL5336219EXTERNALENGLOBAL/Senior-Backend-Engineer-Inventory-Management-m-f-x) |
 | HelloFresh | Project Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/5336936) |
 | HelloFresh | Backend Engineer (m/f/x) | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/5326383) |
 | taxfix | Staff Engineer - Product Security | Berlin, Germany 🇩🇪 | [Apply](https://taxfix.de/en/careers/open-position/6904753002/) |
