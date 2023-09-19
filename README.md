@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| 21.co | Fullstack Engineer, Trading | Zurich, Switzerland 🇨🇭 | [Apply](https://boards.greenhouse.io/21co/jobs/4927609004) |
+| 21.co | QA Engineer | Zurich, Switzerland 🇨🇭 | [Apply](https://boards.greenhouse.io/21co/jobs/4935596004) |
 | Bigpoint GmbH | Junior Game Developer (m/f/d) - #5738 | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1244438?language=en&display=en) |
 | gridX | Agile Coach (M/F/D) / Scrum Master (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply](https://gridx.jobs.personio.de/job/1235296?language=en&display=de) |
 | Kaufland.de | Backend Engineer (all genders) - Developer Experience | Cologne, Germany 🇩🇪 | [Apply](https://join.com/companies/kaufland-e-commerce/9214319-backend-engineer-all-genders-developer-experience) |
