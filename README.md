@@ -1,5 +1,8 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| PEOPLED | Frontend Engineer (Angular/React) | Breda, Netherlands 🇳🇱 | [Apply](https://www.careers-page.com/getpeopled/job/L66R4YVW) |
+| Picnic | Senior React Native Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/2222813/technology--amp--engineering/amsterdam-north-holland-netherlands/react-native-engineer--experienced-) |
+| Oetker Digital | Full Stack Frontend Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://join.com/companies/oetkerdigital/9220333-full-stack-frontend-engineer-m-f-d) |
 | 21.co | Fullstack Engineer, Trading | Zurich, Switzerland 🇨🇭 | [Apply](https://boards.greenhouse.io/21co/jobs/4927609004) |
 | 21.co | QA Engineer | Zurich, Switzerland 🇨🇭 | [Apply](https://boards.greenhouse.io/21co/jobs/4935596004) |
 | Bigpoint GmbH | Junior Game Developer (m/f/d) - #5738 | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1244438?language=en&display=en) |
