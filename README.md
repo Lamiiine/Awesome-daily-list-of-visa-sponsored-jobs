@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Kiwi.com | Python Engineer - Booking Fulfilment | Brno, Czech Republic 🇨🇿 | [Apply](https://jobs.eu.lever.co/kiwi/a170610c-bde3-43b4-83c0-23f1c13eac86) |
+| SumUp | Fullstack Engineer | Berlin, Germany 🇩🇪 | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/fullstack-engineer/6711501002) |
+| HelloFresh | Senior Project Manager, Continuous Improvement | Copenhagen, Denmark 🇩🇰 | [Apply](https://careers.hellofresh.com/global/en/job/5381750) |
+| BlaBlaCar | Android Engineer - Booking squad | Paris, France 🇫🇷 | [Apply](https://jobs.lever.co/blablacar/cb6c80ee-2ed5-460e-87f2-f2b3b01ea4b3/) |
+| Wallapop | QA Engineer (manual) | Barcelona, Spain 🇪🇸 | [Apply](https://boards.eu.greenhouse.io/wallapop/jobs/4219414101) |
+| GlobalLogic | Java Developer IRC197582 | Kraków, Poland 🇵🇱 | [Apply](https://www.globallogic.com/careers/java-developer-irc197582) |
 | PEOPLED | Frontend Engineer (Angular/React) | Breda, Netherlands 🇳🇱 | [Apply](https://www.careers-page.com/getpeopled/job/L66R4YVW) |
 | Picnic | Senior React Native Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/2222813/technology--amp--engineering/amsterdam-north-holland-netherlands/react-native-engineer--experienced-) |
 | Oetker Digital | Full Stack Frontend Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://join.com/companies/oetkerdigital/9220333-full-stack-frontend-engineer-m-f-d) |
