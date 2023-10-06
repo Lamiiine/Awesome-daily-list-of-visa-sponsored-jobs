@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| adjoe | Data Scientist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://join.com/companies/adjoe/9349990-data-scientist-f-m-d) |
+| adjoe | Business Analyst (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://join.com/companies/adjoe/9405069-business-analyst-f-m-d) |
+| Container xChange | Backend Engineer - Java (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://www.arbeitnow.com/jobs/companies/container-xchange/backend-engineer-java-hamburg-69746) |
+| Container xChange | Fullstack Engineer - Java/Angular (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://www.arbeitnow.com/jobs/companies/container-xchange/fullstack-engineer-java-angular-hamburg-223507) |
+| Keen Software House | Game Security Programmer | Prague, Czech Republic 🇨🇿 | [Apply](https://www.keenswh.com/job/game-security-programmer/) |
+| Keen Software House | Senior 3D Game Artist | Prague, Czech Republic 🇨🇿 | [Apply](https://www.keenswh.com/job/senior-3d-game-artist/) |
+| Keen Software House | Tools Programmer | Prague, Czech Republic 🇨🇿 | [Apply](https://www.keenswh.com/job/senior-ui-tools-programmer/) |
+| Keen Software House | Lead Gameplay Programmer | Prague, Czech Republic 🇨🇿 | [Apply](https://www.keenswh.com/job/lead-gameplay-programmer/) |
+| Picnic | Tech Lead (Java) | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/5163343/technology--amp--engineering/amsterdam-north-holland-netherlands/tech-lead--java-) |
+| Picnic | Senior Site Reliability Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/4466490/technology--amp--engineering/amsterdam-north-holland-netherlands/senior-site-reliability-engineer) |
 | Kiwi.com | Python Engineer - Booking Fulfilment | Brno, Czech Republic 🇨🇿 | [Apply](https://jobs.eu.lever.co/kiwi/a170610c-bde3-43b4-83c0-23f1c13eac86) |
 | SumUp | Fullstack Engineer | Berlin, Germany 🇩🇪 | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/fullstack-engineer/6711501002) |
 | HelloFresh | Senior Project Manager, Continuous Improvement | Copenhagen, Denmark 🇩🇰 | [Apply](https://careers.hellofresh.com/global/en/job/5381750) |
