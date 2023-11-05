@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Scout24 | Software Engineer (Fullstack) (f/d/m) | Berlin, Germany 🇩🇪 | [Apply](https://www.scout24.com/en/career/jobs/engineering/software-engineer-fullstack-f-d-m-5062003) |
+| Scout24 | (Senior) Marketing Analyst (d/f/m) | Berlin, Germany 🇩🇪 | [Apply](https://www.scout24.com/en/career/jobs/detail/senior-marketing-analyst-d-f-m-5474134) |
+| taxfix | Senior DevOps Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply](https://taxfix.de/en/careers/open-position/6968665002/) |
+| taxfix | Senior Software Engineer (Golang) (d/f/m) | Berlin, Germany 🇩🇪 | [Apply](https://taxfix.de/en/careers/open-position/6998855002/) |
+| konux | Senior Backend Engineer (m/f/x) | Munich, Germany 🇩🇪 | [Apply](https://boards.greenhouse.io/konux/jobs/5616172003) |
+| Alteos | Senior QA Engineer  | Berlin, Germany 🇩🇪 | [Apply](https://www.arbeitnow.com/jobs/companies/alteos-gmbh/senior-qa-engineer-berlin-406987) |
 | Zurich Instruments AG | Senior Hardware Design Engineer | Zurich, Switzerland 🇨🇭 | [Apply](https://www.zhinst.com/others/en/jobs/senior-hardware-design-engineer-80-100) |
 | Container xChange | Senior Frontend Engineer - Angular (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://www.arbeitnow.com/jobs/companies/container-xchange/senior-frontend-engineer-angular-hamburg-391448) |
 | gridX | Senior Backend Engineer (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply](https://www.arbeitnow.com/jobs/companies/gridx/senior-backend-engineer-aachen-462822) |
@@ -39,7 +45,6 @@
 | HelloFresh | Senior Backend Engineer, Inventory Management (m/f/x) | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/HELLGLOBAL5336219EXTERNALENGLOBAL/Senior-Backend-Engineer-Inventory-Management-m-f-x) |
 | HelloFresh | Project Manager (m/f/x) | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/5336936) |
 | HelloFresh | Backend Engineer (m/f/x) | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/5326383) |
-| taxfix | Staff Engineer - Product Security | Berlin, Germany 🇩🇪 | [Apply](https://taxfix.de/en/careers/open-position/6904753002/) |
 | BlaBlaCar | Confirmed Data Analyst - Data Capabilities | Paris, France 🇫🇷 | [Apply](https://jobs.lever.co/blablacar/5440f463-090d-43e0-b99b-efb62b954ec2/apply) |
 | Monzo | Senior Machine Learning Engineer | London , UK 🇬🇧 | [Apply](https://boards.greenhouse.io/monzo/jobs/4551380) |
 | Monzo | Senior Data Scientist, Operations | London , UK 🇬🇧 | [Apply](https://boards.greenhouse.io/monzo/jobs/5108845) |
