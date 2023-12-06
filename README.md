@@ -1,5 +1,16 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Kaufland.de | (Junior) PHP Engineer (all genders) | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/junior-php-engineer-all-genders/) |
+| Kaufland.de | (Junior) Information Security Specialist (all genders) | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/junior-information-security-specialist-all-genders/) |
+| gridX | Data & Analytics Manager (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply](https://gridx.jobs.personio.de/job/1330327?language=en&display=en) |
+| gridX | Go Developer (M/F/D) Renewable Energies | Aachen & München, Germany 🇩🇪 | [Apply](https://gridx.jobs.personio.de/job/1280453?language=en&display=en) |
+| gridX | Embedded Linux Software Engineer (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply](https://gridx.jobs.personio.de/job/1345623?language=en&display=en) |
+| Kaufland.de | (Senior) NodeJS Engineer (all genders) Checkout & Cart | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/senior-nodejs-engineer-all-genders-checkout-cart/) |
+| Kaufland.de | Lead Platform Engineer (all genders) - Persist | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/lead-platform-engineer-all-genders-persist/) |
+| Kaufland.de | (Senior) Full-Stack Engineer (A/B Testing) (all genders) - Team Frontend Foundation | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/senior-full-stack-engineer-a-b-testing-all-genders-team-frontend-foundation/) |
+| Kaufland.de | Platform Engineer (all genders) - Persist | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/platform-engineer-all-genders-persist/) |
+| Kaufland.de | Senior Full-Stack Engineer | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/senior-full-stack-engineer-all-genders/) |
+| Kaufland.de | Senior Frontend Engineer | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/senior-frontend-engineer-all-genders/) |
 | Scout24 | Software Engineer (Fullstack) (f/d/m) | Berlin, Germany 🇩🇪 | [Apply](https://www.scout24.com/en/career/jobs/engineering/software-engineer-fullstack-f-d-m-5062003) |
 | Scout24 | (Senior) Marketing Analyst (d/f/m) | Berlin, Germany 🇩🇪 | [Apply](https://www.scout24.com/en/career/jobs/detail/senior-marketing-analyst-d-f-m-5474134) |
 | taxfix | Senior DevOps Engineer (d/f/m) | Berlin, Germany 🇩🇪 | [Apply](https://taxfix.de/en/careers/open-position/6968665002/) |
