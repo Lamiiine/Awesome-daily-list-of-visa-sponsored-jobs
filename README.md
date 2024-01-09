@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| enmacc | Fullstack Engineer (m/f/d) | Munich, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/enmacc/jobs/4010041101) |
+| enmacc | Junior Business Development Manager (m/f/d) | Munich, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/enmacc/jobs/4243518101) |
+| enmacc | QA Engineer (m/f/d) | Munich, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/enmacc/jobs/4062624101) |
+| Loudly | Backend Developer - PHP Symfony (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://join.com/companies/loudly/10161452-backend-developer-php-symfony-m-f-d) |
+| enmacc | Backend Tech Lead (m/f/d)  | Munich, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/enmacc/jobs/4237298101) |
+| enmacc | Senior Cloud Engineer - AWS (m/f/d) | Munich, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/enmacc/jobs/4146872101) |
 | Kaufland.de | (Junior) PHP Engineer (all genders) | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/junior-php-engineer-all-genders/) |
 | Kaufland.de | (Junior) Information Security Specialist (all genders) | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/junior-information-security-specialist-all-genders/) |
 | gridX | Data & Analytics Manager (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply](https://gridx.jobs.personio.de/job/1330327?language=en&display=en) |
