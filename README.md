@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Booking.com | Graduate Software Engineering Programme - September 2024 | Amsterdam, Netherlands 🇳🇱 | [Apply](https://jobs.booking.com/careers/job/562949959673196-junior-software-engineer-ii-september-2024-amsterdam-netherlands?domain=booking.com) |
+| Picnic | Machine Learning Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/5591319/technology--amp--engineering/amsterdam-north-holland-netherlands/medior-machine-learning-engineer) |
 | enmacc | Fullstack Engineer (m/f/d) | Munich, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/enmacc/jobs/4010041101) |
 | enmacc | Junior Business Development Manager (m/f/d) | Munich, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/enmacc/jobs/4243518101) |
 | enmacc | QA Engineer (m/f/d) | Munich, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/enmacc/jobs/4062624101) |
