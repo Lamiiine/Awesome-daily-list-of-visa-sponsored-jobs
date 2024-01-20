@@ -1,5 +1,12 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Oxa | Software Engineer - Simulation & Real2Sim Tooling | Oxford , UK 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/05C6C1F3FC/) |
+| Oxa | Software Engineer - Sensor Technology | Oxford , UK 🇬🇧 | [Apply](https://www.linkedin.com/jobs/view/3805255205) |
+| Oxa | Senior Software Engineer (Perception MLOps) | Toronto , Canada 🇨🇦 | [Apply](https://www.linkedin.com/jobs/view/3807764227) |
+| Oxa | Senior Software Engineer (Decision Making) | Oxford, UK 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/97864D539F/) |
+| Oxa | Senior C++ Software Engineer (Software Capital) | Oxford, UK 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/F019E4C1E4/) |
+| Oxa | Senior Software Engineer (Semantic Fusion - ML Optimisation) | Oxford, UK 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/C8D037F664/) |
+| Oxa | Senior Software Engineer (Trajectory Planning) | Oxford, UK 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/7246E60252/) |
 | Booking.com | Graduate Software Engineering Programme - September 2024 | Amsterdam, Netherlands 🇳🇱 | [Apply](https://jobs.booking.com/careers/job/562949959673196-junior-software-engineer-ii-september-2024-amsterdam-netherlands?domain=booking.com) |
 | Picnic | Machine Learning Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/5591319/technology--amp--engineering/amsterdam-north-holland-netherlands/medior-machine-learning-engineer) |
 | enmacc | Fullstack Engineer (m/f/d) | Munich, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/enmacc/jobs/4010041101) |
