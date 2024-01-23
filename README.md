@@ -1,5 +1,10 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Freeletics | (Senior) CRM Manager (all genders) | Munich, Germany 🇩🇪 | [Apply](https://www.freeletics.com/en/corporate/jobs/5fc9c8c5-6522-4a30-af0d-8591ca3a6106/) |
+| Freeletics | Software Engineer (all genders) | Munich, Germany 🇩🇪 | [Apply](https://www.freeletics.com/en/corporate/jobs/65457d61-4382-4ffb-99a0-d2a8e97c59b8/) |
+| Freeletics | Software Developer - Ruby on Rails (all genders) | Munich, Germany 🇩🇪 | [Apply](https://www.freeletics.com/en/corporate/jobs/ce1fcbcb-ff72-4506-99b9-de552816c366/) |
+| Vivid Money GmbH | Backend Developer (Golang) | Limassol, Cyprus 🇨🇾 | [Apply](https://vivid.zohorecruit.eu/jobs/Careers/63863000000391329/Backend-Developer-Golang) |
+| HAWK:AI | DevOps Engineer (m/f/d) | Munich, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/hawkai/jobs/4246888101) |
 | Oxa | Software Engineer - Simulation & Real2Sim Tooling | Oxford , UK 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/05C6C1F3FC/) |
 | Oxa | Software Engineer - Sensor Technology | Oxford , UK 🇬🇧 | [Apply](https://www.linkedin.com/jobs/view/3805255205) |
 | Oxa | Senior Software Engineer (Perception MLOps) | Toronto , Canada 🇨🇦 | [Apply](https://www.linkedin.com/jobs/view/3807764227) |
