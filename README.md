@@ -1,5 +1,6 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Picnic | Machine Learning Engineer - Time Series Forecasting | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/5621779/technology--amp--engineering/amsterdam-north-holland-netherlands/machine-learning-engineer---time-series-forecasting) |
 | Freeletics | (Senior) CRM Manager (all genders) | Munich, Germany 🇩🇪 | [Apply](https://www.freeletics.com/en/corporate/jobs/5fc9c8c5-6522-4a30-af0d-8591ca3a6106/) |
 | Freeletics | Software Engineer (all genders) | Munich, Germany 🇩🇪 | [Apply](https://www.freeletics.com/en/corporate/jobs/65457d61-4382-4ffb-99a0-d2a8e97c59b8/) |
 | Freeletics | Software Developer - Ruby on Rails (all genders) | Munich, Germany 🇩🇪 | [Apply](https://www.freeletics.com/en/corporate/jobs/ce1fcbcb-ff72-4506-99b9-de552816c366/) |
