@@ -1,5 +1,9 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| justtrack | QA Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
+| gridX | Site Reliability Engineer - Cloud Infrastructure (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply](https://gridx.jobs.personio.de/job/1161608?language=en&display=en) |
+| Sunday GmbH | Game Producer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://join.com/companies/sunday/10437993-game-producer-f-m-d) |
+| Sunday GmbH | Product Manager (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://join.com/companies/sunday/10461320-product-manager-f-m-d) |
 | Picnic | Machine Learning Engineer - Time Series Forecasting | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/5621779/technology--amp--engineering/amsterdam-north-holland-netherlands/machine-learning-engineer---time-series-forecasting) |
 | Freeletics | (Senior) CRM Manager (all genders) | Munich, Germany 🇩🇪 | [Apply](https://www.freeletics.com/en/corporate/jobs/5fc9c8c5-6522-4a30-af0d-8591ca3a6106/) |
 | Freeletics | Software Engineer (all genders) | Munich, Germany 🇩🇪 | [Apply](https://www.freeletics.com/en/corporate/jobs/65457d61-4382-4ffb-99a0-d2a8e97c59b8/) |
