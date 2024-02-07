@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Picnic | Salesforce Developer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/1343437/technology--amp--engineering/amsterdam-north-holland-netherlands/salesforce-developer) |
+| Picnic | React Native Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/5405451/technology--amp--engineering/amsterdam-north-holland-netherlands/react-native-engineer) |
+| Picnic | React Developer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/3642917/technology--amp--engineering/amsterdam-north-holland-netherlands/react-developer) |
+| Picnic | Network Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/2297239/technology--amp--engineering/amsterdam-north-holland-netherlands/network-engineer) |
+| Picnic | Machine Learning Engineer - Search & Ranking | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/5579227/technology--amp--engineering/amsterdam-north-holland-netherlands/machine-learning-engineer---search--amp--ranking) |
+| Picnic | Java Developer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/986403/technology--amp--engineering/amsterdam-north-holland-netherlands/java-developer) |
+| Picnic | Android Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/3642756/technology--amp--engineering/amsterdam-north-holland-netherlands/android-engineer) |
+| Picnic | iOS Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/3642838/technology--amp--engineering/amsterdam-north-holland-netherlands/ios-engineer) |
+| Picnic | Senior Python Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/4565089/technology--amp--engineering/amsterdam-north-holland-netherlands/senior-python-engineer) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 | gridX | Site Reliability Engineer - Cloud Infrastructure (M/F/D) | Aachen & München, Germany 🇩🇪 | [Apply](https://gridx.jobs.personio.de/job/1161608?language=en&display=en) |
 | Sunday GmbH | Game Producer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://join.com/companies/sunday/10437993-game-producer-f-m-d) |
