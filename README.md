@@ -1,5 +1,18 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Bigpoint GmbH | Associate PHP Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1356656?language=en&display=en) |
+| Bigpoint GmbH | Junior Unity Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1345752?language=en&display=en) |
+| applike-group | Senior Frontend Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply](https://alteos.jobs.personio.de/job/1408798?language=en&display=en) |
+| applike-group | QA Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.lever.co/applike/f46b07a1-4a9d-4f09-a076-56c74c3de460) |
+| applike-group | Senior Product Manager (Product Owner) (m/w/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.lever.co/applike/be4b2a59-cc6a-4bac-8182-1b8728dda53a) |
+| K-tronik GmbH | Software Test Engineer (m/f/x) | Ingolstadt, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6536/software-test-engineer-m-f-x) |
+| Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
+| Bigpoint GmbH | Senior Full Stack Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1244370?language=en&display=en) |
+| Bigpoint GmbH | Senior Game Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1358226?language=en&display=en) |
+| MBition | (Senior/Expert) Android Systems Engineer (all genders) | Berlin, Germany 🇩🇪 | [Apply](https://mbition.io/career/senior-expert-android-systems-engineer-all-genders/) |
+| MBition | Embedded Linux Engineer with Yocto expertise (all genders) | Berlin, Germany 🇩🇪 | [Apply](https://mbition.io/career/embedded-linux-engineer-with-yocto-expertise-all-genders/) |
+| MBition | Lead Embedded Linux Software Engineer HMI-E (all genders) | Berlin, Germany 🇩🇪 | [Apply](https://mbition.io/career/lead-embedded-linux-software-engineer-hmi-e-all-genders/) |
+| MBition | Senior Software Engineer – System Analysis Reactive (all genders) | Berlin, Germany 🇩🇪 | [Apply](https://mbition.io/career/senior-software-engineer-system-analysis-reactive-all-genders/) |
 | Picnic | Salesforce Developer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/1343437/technology--amp--engineering/amsterdam-north-holland-netherlands/salesforce-developer) |
 | Picnic | React Native Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/5405451/technology--amp--engineering/amsterdam-north-holland-netherlands/react-native-engineer) |
 | Picnic | React Developer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://picnic.app/careers/jobs/3642917/technology--amp--engineering/amsterdam-north-holland-netherlands/react-developer) |
