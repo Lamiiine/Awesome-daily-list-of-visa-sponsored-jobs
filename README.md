@@ -2,7 +2,7 @@
 | --- | --- | --- | --- |
 | Bigpoint GmbH | Associate PHP Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1356656?language=en&display=en) |
 | Bigpoint GmbH | Junior Unity Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1345752?language=en&display=en) |
-| applike-group | Senior Frontend Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply](https://alteos.jobs.personio.de/job/1408798?language=en&display=en) |
+| applike-group | Senior Frontend Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply](https://jobs.lever.co/applike/be4b2a59-cc6a-4bac-8182-1b8728dda53a) |
 | applike-group | QA Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.lever.co/applike/f46b07a1-4a9d-4f09-a076-56c74c3de460) |
 | applike-group | Senior Product Manager (Product Owner) (m/w/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.lever.co/applike/be4b2a59-cc6a-4bac-8182-1b8728dda53a) |
 | K-tronik GmbH | Software Test Engineer (m/f/x) | Ingolstadt, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6536/software-test-engineer-m-f-x) |
