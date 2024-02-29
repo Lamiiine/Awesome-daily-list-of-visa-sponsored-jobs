@@ -1,5 +1,15 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Enzo | Mobile App Engineer | Heidelberg, Germany 🇩🇪 | [Apply](https://join.com/companies/heyenzo/10631844-mobile-app-engineer-intern-fte?widgetv2=true&pid=d73d1a20e99ab4ced633) |
+| JUCR | Staff Electrical Engineer | Berlin, Germany 🇩🇪 | [Apply](https://jucr-gmbh.jobs.personio.de/job/882032?language=en&display=en) |
+| JUCR | Senior Front end Engineer | Berlin, Germany 🇩🇪 | [Apply](https://jucr-gmbh.jobs.personio.de/job/1365981?language=en&display=en) |
+| JUCR | Senior Embedded Engineer | Berlin, Germany 🇩🇪 | [Apply](https://jucr-gmbh.jobs.personio.de/job/1372594?language=en&display=en) |
+| adjoe | Business Intelligence Analyst (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=44642da4-2428-4f5d-9fe7-462f5bd572ba) |
+| adjoe | Senior Android Mobile Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=b54fe079-b5f9-41a7-b01d-5d78d3ee6644) |
+| adjoe | Senior Frontend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=be4b2a59-cc6a-4bac-8182-1b8728dda53a) |
+| adjoe | QA Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=f46b07a1-4a9d-4f09-a076-56c74c3de460) |
+| adjoe | Senior Go Backend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=39dc22c0-b3d3-4095-bd20-e858fce8ec49) |
+| adjoe | Senior Data Scientist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=19c85586-f71d-4ede-aff4-bd4097628a00) |
 | Bigpoint GmbH | Associate PHP Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1356656?language=en&display=en) |
 | Bigpoint GmbH | Junior Unity Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1345752?language=en&display=en) |
 | applike-group | Senior Frontend Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply](https://jobs.lever.co/applike/be4b2a59-cc6a-4bac-8182-1b8728dda53a) |
