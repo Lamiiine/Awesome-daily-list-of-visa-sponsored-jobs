@@ -1,5 +1,18 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Monzo | Senior Analytics Engineer | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/3314326) |
+| Monzo | Data Science Manager | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5758065) |
+| raisin | Data Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1483265?language=en&display=en) |
+| raisin | SOC Analyst (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1357512?language=en&display=en) |
+| raisin | Backend Software Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/905677?language=en&display=en) |
+| Factor Eleven | Senior Cloud Engineer | Bucharest, Romania 🇷🇴 | [Apply](https://apply.workable.com/factor-eleven/j/FA160D14E5/) |
+| qwist | Senior Sales Manager | Frankfurt, Germany 🇩🇪 | [Apply](https://qwist.jobs.personio.com/job/1452832?language=en%3Flanguage%3D&display=en) |
+| Factor Eleven | Senior Cloud Engineer | Frankfurt, Germany 🇩🇪 | [Apply](https://apply.workable.com/factor-eleven/j/13B5290CF0/) |
+| Factor Eleven | Senior Backend Engineer - Node.JS | Zagreb, Croatia 🇭🇷 | [Apply](https://apply.workable.com/factor-eleven/j/F1D53550F9/) |
+| raisin | Engineering Lead – Growth (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1429879?language=en&display=en) |
+| raisin | Senior Backend Software Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1223287?language=en&display=en) |
+| raisin | (Senior) Software Engineer (Frontend) (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/740495?language=en&display=en) |
+| raisin | Security Operations Center (SOC) Lead (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1357534?language=en&display=en) |
 | Enzo | Mobile App Engineer | Heidelberg, Germany 🇩🇪 | [Apply](https://join.com/companies/heyenzo/10631844-mobile-app-engineer-intern-fte?widgetv2=true&pid=d73d1a20e99ab4ced633) |
 | JUCR | Staff Electrical Engineer | Berlin, Germany 🇩🇪 | [Apply](https://jucr-gmbh.jobs.personio.de/job/882032?language=en&display=en) |
 | JUCR | Senior Front end Engineer | Berlin, Germany 🇩🇪 | [Apply](https://jucr-gmbh.jobs.personio.de/job/1365981?language=en&display=en) |
@@ -191,7 +204,6 @@
 | Scout24 | Business Intelligence Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply](https://www.scout24.com/en/career/jobs/engineering/business-intelligence-developer-f-m-d-5202134) |
 | DataScienceJobs.es | Data Engineer | Madrid, Spain 🇪🇸 | [Apply](https://www.linkedin.com/jobs/view/3666559665) |
 | Micropsi Industries | Performance Marketing Manager (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://join.com/companies/micropsi-industries/8629168-performance-marketing-manager-m-f-d) |
-| raisin | (Senior) Software Engineer (Frontend) (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://join.com/companies/raisin/8646344-senior-software-engineer-frontend-m-f-d) |
 | MEDWING | Senior Full Stack Engineer (gn) | Berlin, Germany 🇩🇪 | [Apply](https://www.linkedin.com/jobs/view/3667898546) |
 | HelloFresh | Product Analyst - Food (m/f/x) | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/5187341) |
 | HelloFresh | Principal Engineer | Berlin, Germany 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/job/5151724) |
