@@ -1,5 +1,21 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Robust Intelligence | Software Engineer in Test (SDET) | San Francisco Bay Area, USA 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/1f0239c7-d891-47d5-9a0b-2e34eba259c5) |
+| Robust Intelligence | Senior Software Engineer, Cloud | San Francisco Bay Area, USA 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/073ea6ee-6c26-425f-aa3e-35ccfcdac655) |
+| Robust Intelligence | Senior Machine Learning Engineer, AI Security | San Francisco Bay Area, USA 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/cd0fcaa4-a98c-4b3a-8141-6135c00b2e41) |
+| Robust Intelligence | Software Engineering Director | San Francisco Bay Area, USA 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/5de2b666-98f7-4a09-9086-785dbf386912) |
+| Fishlabs GmbH | Junior QA Tester (Games) (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.eu.lever.co/dsfishlabs/cefd2841-1995-4c18-8213-19f69fd0f233) |
+| Fishlabs GmbH | QA Tester (Games) (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.eu.lever.co/dsfishlabs/736bc4de-e91e-4559-9da9-7107d094d697) |
+| Fishlabs GmbH | Build Engineer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.eu.lever.co/dsfishlabs/b642228b-d82c-4d35-bd96-6de7c6583b89) |
+| Fishlabs GmbH | Senior QA Tester (Games) (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.eu.lever.co/dsfishlabs/d2a96b95-bc3a-43b6-94cc-855b4a93a732) |
+| Fishlabs GmbH | (Regular/Senior) UI/UX Designer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.eu.lever.co/dsfishlabs/dfb7d5f1-3006-46ba-b58f-fd493e9e73c8) |
+| K-tronik GmbH | Test Engineer Mobile Radio Tester | Dresden, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6579/test-engineer-mobile-radio-tester-m-f-x) |
+| K-tronik GmbH | Hardware Developer (m/f/x) Aerospace | Dresden, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6581/hardware-developer-m-f-x-aerospace) |
+| K-tronik GmbH | Test Engineer (m/f/x) Battery Systems | Dresden, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6582/test-engineer-m-f-x-battery-systems) |
+| Crytek | QA Tester | Frankfurt, Germany 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-onsite-/qa-customer-support/qa-tester) |
+| Crytek | QA Automation Engineer - Online | Frankfurt, Germany 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-onsite-/qa-customer-support/qa-automation-engineer---online) |
+| Crytek | C++ Buildpipeline Programmer | Frankfurt, Germany 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-onsite-/programming-engineering/c-buildpipeline-programmer) |
+| Crytek | Marketing Lead | Frankfurt, Germany 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/marketing-pr-biz-dev/marketing-lead) |
 | Monzo | Senior Analytics Engineer | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/3314326) |
 | Monzo | Data Science Manager | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5758065) |
 | raisin | Data Engineer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1483265?language=en&display=en) |
@@ -28,7 +44,6 @@
 | applike-group | Senior Frontend Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply](https://jobs.lever.co/applike/be4b2a59-cc6a-4bac-8182-1b8728dda53a) |
 | applike-group | QA Engineer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.lever.co/applike/f46b07a1-4a9d-4f09-a076-56c74c3de460) |
 | applike-group | Senior Product Manager (Product Owner) (m/w/d) | Hamburg, Germany 🇩🇪 | [Apply](https://jobs.lever.co/applike/be4b2a59-cc6a-4bac-8182-1b8728dda53a) |
-| K-tronik GmbH | Software Test Engineer (m/f/x) | Ingolstadt, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6536/software-test-engineer-m-f-x) |
 | Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | Bigpoint GmbH | Senior Full Stack Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1244370?language=en&display=en) |
 | Bigpoint GmbH | Senior Game Developer (m/f/d) | Hamburg, Germany 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1358226?language=en&display=en) |
@@ -457,7 +472,6 @@
 | Adyen | C++ Development Tooling Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://boards.greenhouse.io/adyen/jobs/5072589) |
 | Zalando SE | Senior Fullstack Engineer (Java/Kotlin) - Core Logistics Abilities (all genders) | Munich, Germany 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/4897428) |
 | Container xChange | Frontend Engineer - Angular (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://join.com/companies/container-xchange/8158539-frontend-engineer-angular-f-m-d) |
-| K-tronik GmbH | Development Engineer (m/f/x) for ASIC/FPGA | Dresden, Germany 🇩🇪 | [Apply](https://join.com/companies/k-tronik/7920276-development-engineer-m-f-x-for-asic-fpga) |
 | Chimera Entertainment | UI Artist (f/m/d) | Munich, Germany 🇩🇪 | [Apply](https://join.com/companies/chimera-entertainment/8160621-ui-artist-f-m-d) |
 | HomeToGo | Risk and Fraud Analyst - Small Partner Solutions (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/hometogo/jobs/4169559101) |
 | Adyen | Linux System Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://boards.greenhouse.io/adyen/jobs/3751149) |
@@ -872,7 +886,6 @@
 | GMV | Frontend Developer for Space Projects | Tres Cantos,Madrid, Spain 🇪🇸 | [Apply](https://gmv.csod.com/ux/ats/careersite/4/home/requisition/2079?c=gmv&lang=en-US) |
 | GMV | Network engineer | Tres Cantos,Madrid, Spain 🇪🇸 | [Apply](https://gmv.csod.com/ux/ats/careersite/4/home/requisition/1686?c=gmv&lang=en-US) |
 | GMV | Junior software engineer (development and AI) | Tres Cantos,Madrid, Spain 🇪🇸 | [Apply](https://gmv.csod.com/ux/ats/careersite/4/home/requisition/1793?c=gmv&lang=en-US) |
-|  Oak Ridge National Laboratory  | Full Stack Software Developer II | Tennessee, USA 🇺🇸 | [Apply](https://jobs.ornl.gov/job/Oak-Ridge-Full-Stack-Software-Developer-II-TN-37830/881363400/) |
 | Tactile Games | Senior Unity Game Programmer | Tenerife, Spain 🇪🇸 | [Apply](https://jobs.lever.co/tactilegames/b4d94092-5f6e-48d3-a5ca-f93b7c729018) |
 | Tactile Games | ASO Manager (Marketing) | Copenhagen, Denmark 🇩🇰 | [Apply](https://jobs.lever.co/tactilegames/1342f04e-2336-4c90-ad12-71e1870fa915) |
 | Tactile Games | Solutions Architect | Copenhagen, Denmark 🇩🇰 | [Apply](https://jobs.lever.co/tactilegames/a6d11bc3-6712-4149-a5a5-ab0c838be836) |
