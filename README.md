@@ -1,6 +1,5 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
-| Robust Intelligence | Software Engineer in Test (SDET) | San Francisco Bay Area, USA 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/1f0239c7-d891-47d5-9a0b-2e34eba259c5) |
 | Robust Intelligence | Senior Software Engineer, Cloud | San Francisco Bay Area, USA 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/073ea6ee-6c26-425f-aa3e-35ccfcdac655) |
 | Robust Intelligence | Senior Machine Learning Engineer, AI Security | San Francisco Bay Area, USA 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/cd0fcaa4-a98c-4b3a-8141-6135c00b2e41) |
 | Robust Intelligence | Software Engineering Director | San Francisco Bay Area, USA 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/5de2b666-98f7-4a09-9086-785dbf386912) |
