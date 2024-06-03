@@ -1,5 +1,11 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Sendcloud | Lead Engineer (people manager) | Eindhoven, Netherlands 🇳🇱 | [Apply](https://jobs.sendcloud.com/jobs/6617544002?gh_jid=6617544002) |
+| Sendcloud | Senior API Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply](https://jobs.sendcloud.com/jobs/7469374002?gh_jid=7469374002) |
+| Multiverse Computing | Machine Learning Engineer | SAN SEBASTIAN, Spain 🇪🇸 | [Apply](https://multiversecomputing.teamtailor.com/jobs/4469972-machine-learning-engineer?utm_campaign=jobs-widget&utm_source=multiversecomputing.teamtailor.com&utm_content=jobs&utm_medium=web) |
+| Multiverse Computing | Data Scientist | SAN SEBASTIAN, Spain 🇪🇸 | [Apply](https://multiversecomputing.teamtailor.com/jobs/4499908-data-scientist?utm_campaign=jobs-widget&utm_source=multiversecomputing.teamtailor.com&utm_content=jobs&utm_medium=web) |
+| Catawiki | Senior UX Designer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://catawiki.careers/vacancies/senior-ux-designer-1069172-5376253) |
+| Catawiki | Backend Software Engineer | Lisbon, Portugal 🇵🇹 | [Apply](https://catawiki.careers/vacancies/backend-software-engineer-2807554-5758060) |
 | adjoe | QA Engineer (Anti-Fraud Team) f/m/d | Hamburg, Germany 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=955cab4d-0422-4762-9073-0cf888c9210d) |
 | adjoe | Business Intelligence Analyst (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=44642da4-2428-4f5d-9fe7-462f5bd572ba) |
 | adjoe | Senior Frontend Developer (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=be4b2a59-cc6a-4bac-8182-1b8728dda53a) |
