@@ -1,5 +1,7 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| QuantCo | Data Scientist (Causal Inference/Machine Learning) | Berlin, Germany 🇩🇪 | [Apply](https://jobs.lever.co/quantco-/7cf84f8c-eb21-4af5-97e2-6331b350a40b) |
+| Crewmeister | Product Owner (w/m/d) | Munich, Germany 🇩🇪 | [Apply](https://join.com/companies/crewmeister/11476141-product-owner-w-m-d) |
 | Sendcloud | Lead Engineer (people manager) | Eindhoven, Netherlands 🇳🇱 | [Apply](https://jobs.sendcloud.com/jobs/6617544002?gh_jid=6617544002) |
 | Sendcloud | Senior API Engineer | Eindhoven, Netherlands 🇳🇱 | [Apply](https://jobs.sendcloud.com/jobs/7469374002?gh_jid=7469374002) |
 | Multiverse Computing | Machine Learning Engineer | SAN SEBASTIAN, Spain 🇪🇸 | [Apply](https://multiversecomputing.teamtailor.com/jobs/4469972-machine-learning-engineer?utm_campaign=jobs-widget&utm_source=multiversecomputing.teamtailor.com&utm_content=jobs&utm_medium=web) |
