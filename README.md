@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Monzo | Social Media Content Creator | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6049724) |
+| Monzo | Lead Credit Analyst, Fin Health | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6053327) |
+| Monzo | Director of Engineering, Security | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6049538) |
+| Monzo | Senior Decision Scientist | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6053295) |
+| Monzo | Senior Social Media Manager | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6049526) |
+| Monzo | Staff Backend Engineer - Business Banking | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5960279) |
+| Monzo | Staff Backend Engineer - Financial Crime | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5912206) |
+| Monzo | Senior iOS Engineer | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/3838039) |
+| Monzo | Growth Marketing Executive, Paid Social | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6053782) |
 | QuantCo | Data Scientist (Causal Inference/Machine Learning) | Berlin, Germany 🇩🇪 | [Apply](https://jobs.lever.co/quantco-/7cf84f8c-eb21-4af5-97e2-6331b350a40b) |
 | Crewmeister | Product Owner (w/m/d) | Munich, Germany 🇩🇪 | [Apply](https://join.com/companies/crewmeister/11476141-product-owner-w-m-d) |
 | Sendcloud | Lead Engineer (people manager) | Eindhoven, Netherlands 🇳🇱 | [Apply](https://jobs.sendcloud.com/jobs/6617544002?gh_jid=6617544002) |
