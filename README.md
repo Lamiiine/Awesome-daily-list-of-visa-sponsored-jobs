@@ -1,5 +1,17 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Kaufland.de | (Junior) PHP Engineer (all genders) | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/junior-php-engineer-all-genders/) |
+| Kaufland.de | Security Engineer (all genders) | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/security-engineer-all-genders/) |
+| Kaufland.de | Software Engineer (all genders) - Site Reliability Engineering | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/software-engineer-all-genders-site-reliability-engineering/) |
+| Kaufland.de | Senior Frontend Engineer (all genders) | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/senior-frontend-engineer-all-genders/) |
+| Kaufland.de | Senior Platform Engineer (all genders) - Persist | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/senior-platform-engineer-all-genders-persist/) |
+| Monzo | Android Engineer | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/2578107) |
+| Monzo | Backend Engineer | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5272421) |
+| Kolibri Games | (Senior) Game Designer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply](https://www.kolibrigames.com/career/position/8ab35ce3-a5f5-4be5-84ab-7adf89e2dc39/) |
+| Sunday GmbH | Marketing Artist (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://sunday.gg/career/?j_id=f58ddda3-9533-4e92-8609-3ca9e700c438) |
+| Sunday GmbH | Media & Communication Manager (f/m/d) | Hamburg, Germany 🇩🇪 | [Apply](https://sunday.gg/career/?j_id=e9dec4c4-577c-4910-b789-95af7b4222e9) |
+| Monzo | Senior Backend Engineer | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5304204) |
+| Monzo | Senior Android Engineer | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/3832598) |
 | Monzo | Lead Credit Analyst, Fin Health | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6053327) |
 | Monzo | Staff Backend Engineer - Business Banking | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5960279) |
 | Monzo | Senior Decision Scientist | London , UK 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6053295) |
@@ -296,7 +308,6 @@
 | Optiver | Data Visualization Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/6511462002) |
 | Adyen | Database Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://boards.greenhouse.io/adyen/jobs/3727491) |
 | Optiver | Network Engineer | Amsterdam, Netherlands 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/5841740002) |
-| Kolibri Games | LiveOPS Frontend Developer (f/m/d) | Berlin, Germany 🇩🇪 | [Apply](https://www.kolibrigames.com/career/position/dcc17abd-9d1d-4482-ba2e-067cdfd00c3c/) |
 | Kolibri Games | Product Manager (f/m/d) | Berlin, Germany 🇩🇪 | [Apply](https://www.kolibrigames.com/career/position/edda4c55-ed06-400d-bbbe-a375ded752d7/) |
 | Monzo | Android Engineer | London , UK 🇬🇧 | [Apply](https://boards.greenhouse.io/monzo/jobs/2578107) |
 | Improvin' | Business Developer | Stockholm, Sweden 🇸🇪 | [Apply](https://careers.improvin.com/jobs/2808213-business-developer) |
