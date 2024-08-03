@@ -1,5 +1,14 @@
 | Company | Job Title | Location | Link |
 | --- | --- | --- | --- |
+| Project A Ventures | Product Designer (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://join.com/companies/project-a/11985715-product-designer-m-f-d) |
+| Project A Ventures | (Senior) Data Analyst - Project A (m/f/d) | Berlin, Germany 🇩🇪 | [Apply](https://join.com/companies/project-a/12001696-senior-data-analyst-project-a-m-f-d) |
+| K-tronik GmbH | Project Manager (m/f/x) Aerospace | Kiel, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6600/project-manager-m-f-x-aerospace) |
+| K-tronik GmbH | Cloud Developer (m/f/x) - Backend | Kiel, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6607/cloud-developer-m-f-x-backend) |
+| K-tronik GmbH | C/C++ Software Developer (m/f/x) | Kiel, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6605/c-c-software-developer-m-f-x-for-linux-in-the-area-of-connectivity) |
+| K-tronik GmbH | Software Developer Navigation (m/f/x) | Kiel, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6603/software-developer-navigation-m-f-x) |
+| K-tronik GmbH | Project Manager (m/f/x) Aerospace | Kiel, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6600/project-manager-m-f-x-aerospace) |
+| K-tronik GmbH | Test Engineer - Propulsion (f/m/d)  | Kiel, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6642/test-engineer-propulsion-f-m-d) |
+| K-tronik GmbH | Test Automation Engineer (m/f/d)  | Kiel, Germany 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6660/test-automation-engineer-m-f-d-naval-it-systems) |
 | Kaufland.de | (Junior) PHP Engineer (all genders) | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/junior-php-engineer-all-genders/) |
 | Kaufland.de | Security Engineer (all genders) | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/security-engineer-all-genders/) |
 | Kaufland.de | Software Engineer (all genders) - Site Reliability Engineering | Köln, Germany 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/software-engineer-all-genders-site-reliability-engineering/) |
