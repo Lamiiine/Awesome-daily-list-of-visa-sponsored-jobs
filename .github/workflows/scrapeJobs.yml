@@ -20,9 +20,40 @@ jobs:
     - name: Parse jobList.json into table
       id: parse-json
       run: |
-        echo "| Company | Job Title | Location | Link |" > README.md
-        echo "| --- | --- | --- | --- |" >> README.md
-        jq -r '.[] | "| " + .company + " | " + .position + " | " + .location + " | " + "[Apply](" + .description + ")" + " |"' jobList.json >> README.md
+        cat << EOF > README.md
+        # Daily List of Visa-Sponsored Job Opportunities
+
+        Welcome to our repository of daily-updated, visa-sponsored job opportunities! This list is automatically refreshed every day to bring you the latest openings across various companies and locations.
+
+        🌟 **Check out our main site**: [Relocate With Us](https://relocate-with-us.github.io)
+
+        💬 **Join our Telegram channel**: [Relocate With Us Telegram](https://t.me/visa_sponsored_jobs)
+
+        We encourage the community to engage, share, and support each other in the job search process. If you find this resource helpful, please star the repository and spread the word!
+
+    
+
+        EOF
+
+        echo "| Company | Job Title | Location | Date | Flag | Link |" >> README.md
+        echo "| --- | --- | --- | --- | --- | --- |" >> README.md
+        jq -r '.[] | 
+          "| " + .company + 
+          " | " + .position + 
+          " | " + (.location | split(" ")[:-1] | join(" ")) + 
+          " | " + .post_date + 
+          " | " + (.location | split(" ")[-1]) + 
+          " | " + "[Apply](" + .description + ")" + 
+          " |"' jobList.json >> README.md
+
+        cat << EOF >> README.md
+
+        ---
+
+        Last updated: $(date -u)
+
+        *Note: This list is automatically updated daily. Check back often for new opportunities!*
+        EOF
     - name: Commit and push if it changed
       run: |
         git config user.name "Automated"
