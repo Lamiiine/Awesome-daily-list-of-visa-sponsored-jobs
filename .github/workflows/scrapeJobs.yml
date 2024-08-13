@@ -35,7 +35,7 @@ jobs:
 
         EOF
 
-        echo "| Company | Job Title | Location | Date | Flag | Link |" >> README.md
+        echo "| Company | Job Title | Location | Added | Flag | Link |" >> README.md
         echo "| --- | --- | --- | --- | --- | --- |" >> README.md
         jq -r '.[] | 
           "| " + .company + 
