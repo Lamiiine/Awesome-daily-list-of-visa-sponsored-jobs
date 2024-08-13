@@ -10,7 +10,7 @@ We encourage the community to engage, share, and support each other in the job s
 
 
 
-| Company | Job Title | Location | Date | Flag | Link |
+| Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
 | applyai | Automate your job search with AI |  |  |  | [Apply](https://www.aiapply.co?via=lamine) |
 | Picnic Technologies | Junior Java Developer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/Jrnacorr/technology_engineering/junior-java-developer/amsterdam/north/holland/netherlands) |
@@ -512,6 +512,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Tue Aug 13 12:39:49 UTC 2024
+Last updated: Tue Aug 13 12:43:55 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
