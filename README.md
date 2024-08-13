@@ -13,6 +13,13 @@ We encourage the community to engage, share, and support each other in the job s
 | Company | Job Title | Location | Date | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
 | applyai | Automate your job search with AI |  |  |  | [Apply](https://www.aiapply.co?via=lamine) |
+| Picnic Technologies | Junior Java Developer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/Jrnacorr/technology_engineering/junior-java-developer/amsterdam/north/holland/netherlands) |
+| Picnic Technologies | Network Engineer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JAJSIGXV/technology_engineering/network-engineer/amsterdam/north/holland/netherlands) |
+| Picnic Technologies | Java Developer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JY064KFR/technology_engineering/java-developer/amsterdam/north/holland/netherlands) |
+| Picnic Technologies | Machine Learning Engineer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JTKEGV2W/technology_engineering/machine-learning-engineer/amsterdam/north/holland/netherlands) |
+| Picnic Technologies | Senior Machine Learning Engineer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JTAF4DWR/technology_engineering/senior-machine-learning-engineer/amsterdam/north/holland/netherlands) |
+| Picnic Technologies | Senior Java Developer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JYMPNN6M/technology_engineering/senior-java-developer/amsterdam/north/holland/netherlands) |
+| Picnic Technologies | Senior DevOps Engineer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/J79HBUUG/technology_engineering/senior-devops-engineer/amsterdam/north/holland/netherlands) |
 | Statista | Quality Assurance Engineer (m/f/d) | Hamburg, Germany | August 11, 2024 | 🇩🇪 | [Apply](https://statista.jobs.personio.de/job/1668855?language=de&display=en) |
 | Statista | Fullstack Software Engineer – OpenSearch (m/f/d) | Hamburg, Germany | August 11, 2024 | 🇩🇪 | [Apply](https://statista.jobs.personio.de/job/1669262?language=de&display=en) |
 | Statista | Business Development Manager - Global Hospital Ratings | Hamburg, Germany | August 11, 2024 | 🇩🇪 | [Apply](https://statista.jobs.personio.de/job/1583142?language=de&display=en) |
@@ -505,6 +512,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Mon Aug 12 12:41:01 UTC 2024
+Last updated: Tue Aug 13 12:39:49 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
