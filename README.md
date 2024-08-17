@@ -13,6 +13,14 @@ We encourage the community to engage, share, and support each other in the job s
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
 | applyai | Automate your job search with AI |  |  |  | [Apply](https://www.aiapply.co?via=lamine) |
+| raisin | (Junior) Product Manager (m/f/d) | Berlin, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://join.com/companies/raisin/12071771-junior-product-manager-m-f-d) |
+| enmacc | Senior Cloud Engineer - AWS (m/f/d) | Munich, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/enmacc/jobs/4146872101) |
+| enmacc | Staff Frontend Engineer (m/f/d) | Munich, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/enmacc/jobs/4236974101) |
+| enmacc | Growth Marketing Manager (m/f/d) | Munich, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/enmacc/jobs/4292977101) |
+| enmacc | Content Marketing Manager (m/f/d) | Munich, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/enmacc/jobs/4363831101) |
+| enmacc | Product Marketing Manager (m/f/d) | Munich, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/enmacc/jobs/4332828101) |
+| justDice | Senior BI Analyst (f/m/d) | Hamburg, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://justdice.io/jobs/?j_id=05ceb489-50c0-4b0b-b700-3d4394303321) |
+| justDice | Tech Lead – Devops and Backend Services (f/m/d) | Hamburg, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://justdice.io/jobs/?j_id=341d7353-3e3a-4e85-8911-43bcbfa6ac42) |
 | Picnic Technologies | Junior Java Developer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/Jrnacorr/technology_engineering/junior-java-developer/amsterdam/north/holland/netherlands) |
 | Picnic Technologies | Network Engineer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JAJSIGXV/technology_engineering/network-engineer/amsterdam/north/holland/netherlands) |
 | Picnic Technologies | Java Developer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JY064KFR/technology_engineering/java-developer/amsterdam/north/holland/netherlands) |
@@ -89,7 +97,6 @@ We encourage the community to engage, share, and support each other in the job s
 | K-tronik GmbH | Hardware Developer (m/f/x) Aerospace | Dresden, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6581/hardware-developer-m-f-x-aerospace) |
 | Crytek | C++ Buildpipeline Programmer | Frankfurt, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-onsite-/programming-engineering/c-buildpipeline-programmer) |
 | Monzo | Data Science Manager | London , UK | March 28, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5758065) |
-| raisin | Backend Software Engineer (m/f/d) | Berlin, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/905677?language=en&display=en) |
 | Factor Eleven | Senior Backend Engineer - Node.JS | Zagreb, Croatia | March 28, 2024 | 🇭🇷 | [Apply](https://apply.workable.com/factor-eleven/j/F1D53550F9/) |
 | raisin | Data Engineer (m/f/d) | Berlin, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1483265?language=en&display=en) |
 | Factor Eleven | Senior Cloud Engineer | Frankfurt, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://apply.workable.com/factor-eleven/j/13B5290CF0/) |
@@ -210,7 +217,7 @@ We encourage the community to engage, share, and support each other in the job s
 | HomeToGo | Backend Developer - PHP (m/f/d) | Berlin, Germany | June 30, 2023 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3643204154&f_C=9359057&geoId=92000000&originToLandingJobPostings=3643204154%2C3586583177%2C3618987282%2C3638818410%2C3623801629%2C3617638237%2C3617688360%2C3638819146%2C3617637297) |
 | Gigs | Senior Backend Engineer (f/m/x) | Berlin, Germany | June 26, 2023 | 🇩🇪 | [Apply](https://apply.workable.com/gigs/j/763BB4884D/) |
 | Gigs | Senior Frontend Engineer (f/m/x) | Berlin, Germany | June 26, 2023 | 🇩🇪 | [Apply](https://apply.workable.com/gigs/j/259E3FB49A/) |
-| BeamNG GmbH | Senior Python Engineer (onsite/remote) | Bremen, Germany | June 30, 2023 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3598038481&f_C=17921033&geoId=92000000&originToLandingJobPostings=3634486315%2C3605890851%2C3598038481%2C3631738527%2C3561421836%2C3631737396%2C3631735207) |
+| Doctolib | Senior Python Engineer (onsite/remote) | Bremen, Germany | June 30, 2023 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3598038481&f_C=17921033&geoId=92000000&originToLandingJobPostings=3634486315%2C3605890851%2C3598038481%2C3631738527%2C3561421836%2C3631737396%2C3631735207) |
 | BeamNG GmbH | VFX / Unreal engine Programmer (onsite/remote) | Bremen, Germany | June 30, 2023 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3561421836&f_C=17921033&geoId=92000000&originToLandingJobPostings=3634486315%2C3605890851%2C3598038481%2C3631738527%2C3561421836%2C3631737396%2C3631735207) |
 | BeamNG GmbH | Senior Technical Artist (remote/onsite) | Bremen, Germany | June 30, 2023 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3631735207&f_C=17921033&geoId=92000000&originToLandingJobPostings=3634486315%2C3605890851%2C3598038481%2C3631738527%2C3561421836%2C3631737396%2C3631735207) |
 | Gigs | Senior API Engineer (f/m/x) | Berlin, Germany | June 26, 2023 | 🇩🇪 | [Apply](https://apply.workable.com/gigs/j/5DD2709937/) |
@@ -248,7 +255,6 @@ We encourage the community to engage, share, and support each other in the job s
 | Adyen | Enterprise Sales Manager | Amsterdam, Netherlands | June 20, 2023 | 🇳🇱 | [Apply](https://boards.greenhouse.io/adyen/jobs/3728525) |
 | Nexxiot | Frontend Software Engineer | Zurich, Switzerland | June 18, 2023 | 🇨🇭 | [Apply](https://boards.eu.greenhouse.io/nexxiot/jobs/4091552101) |
 | Nexxiot | Hardware Engineer | Zurich, Switzerland | June 18, 2023 | 🇨🇭 | [Apply](https://boards.eu.greenhouse.io/nexxiot/jobs/4085934101) |
-| Blinkist | Junior/Mid-Level Web Engineer (Full-Stack) | Berlin, Germany | June 15, 2023 | 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/blinkist/jobs/4184365101) |
 | Doctolib | Workday Solution Architect (x/f/m) | Paris, France | June 15, 2023 | 🇫🇷 | [Apply](https://careers.doctolib.com/job/?gh_jid=5643238003) |
 | Blinkist | Senior Web Engineer (Full-Stack) | Berlin, Germany | June 15, 2023 | 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/blinkist/jobs/4106954101) |
 | Blinkist | Mid-level Android Developer | Berlin, Germany | June 15, 2023 | 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/blinkist/jobs/4155354101) |
@@ -468,7 +474,6 @@ We encourage the community to engage, share, and support each other in the job s
 | Volkswagen Digital Solutions | Fullstack Developer | Lisbon, Portugal | March 28, 2023 | 🇵🇹 | [Apply](https://www.vwds.pt/job/mid-level-fullstack-developer-2/) |
 | Volkswagen Digital Solutions | Cloud Solutions Architect | Lisbon, Portugal | March 28, 2023 | 🇵🇹 | [Apply](https://www.vwds.pt/job/mid-senior-cloud-solutions-architect/) |
 | justDice | UX/UI Designer (f/m/d) | Hamburg, Germany | March 24, 2023 | 🇩🇪 | [Apply](https://justdice.io/jobs/?j_id=6f8d8822-1f6a-482f-82a8-e57adf2aff2e) |
-| justDice | Motion Designer (f/m/d) | Hamburg, Germany | March 24, 2023 | 🇩🇪 | [Apply](https://justdice.io/jobs/?j_id=5d6e4f7e-fd55-47e1-9c1b-cff624e4ee55) |
 | justDice | Analytics Engineer (all levels) (f/m/d) | Hamburg, Germany | March 24, 2023 | 🇩🇪 | [Apply](https://justdice.io/jobs/?j_id=3f445c9e-3249-498e-b3e6-ded2fc0ba73b) |
 | Scalable GmbH | (Senior) Technical Product Manager (m/f/x) - Platform Scalability Team | München, Germany | March 24, 2023 | 🇩🇪 | [Apply](https://jobs.smartrecruiters.com/ScalableGmbH/743999886506063--senior-technical-product-manager-m-f-x-platform-scalability-team) |
 | Scalable GmbH | (Junior) ETF Trader (m/f/x) | München, Germany | March 24, 2023 | 🇩🇪 | [Apply](https://jobs.smartrecruiters.com/ScalableGmbH/743999889775637--junior-etf-trader-m-f-x-) |
@@ -512,6 +517,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Fri Aug 16 12:38:37 UTC 2024
+Last updated: Sat Aug 17 12:35:23 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
