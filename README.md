@@ -13,6 +13,15 @@ We encourage the community to engage, share, and support each other in the job s
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
 | applyai | Automate your job search with AI |  |  |  | [Apply](https://www.aiapply.co?via=lamine) |
+| Profitap | QA Engineer | Eindhoven, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://join.com/companies/profitap/12126273-qa-engineer) |
+| Profitap | Front-End Software Engineer | Eindhoven, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://join.com/companies/profitap/12179586-front-end-software-engineer) |
+| Optiver | HR Data Analyst | Amsterdam, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7448680002/) |
+| Optiver | Production Engineer | Amsterdam, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/6088302002/) |
+| Optiver | Site Reliability Engineer | Amsterdam, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/5845750002/) |
+| Optiver | Senior Software Engineer | Amsterdam, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7518286002/) |
+| Optiver | Tech Lead – Data Systems | Amsterdam, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7465056002/) |
+| Coolblue | Web Backend Developer | Utrecht, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://www.careersatcoolblue.com/vacancies/back-end-web-developer/) |
+| HousingAnywhere | Product Design Lead | Rotterdam, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://boards.greenhouse.io/housinganywhere/jobs/6091303003) |
 | raisin | (Junior) Product Manager (m/f/d) | Berlin, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://join.com/companies/raisin/12071771-junior-product-manager-m-f-d) |
 | enmacc | Senior Cloud Engineer - AWS (m/f/d) | Munich, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/enmacc/jobs/4146872101) |
 | enmacc | Staff Frontend Engineer (m/f/d) | Munich, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/enmacc/jobs/4236974101) |
@@ -269,7 +278,6 @@ We encourage the community to engage, share, and support each other in the job s
 | Leapsome | Salesforce Administrator | Berlin, Germany | June 14, 2023 | 🇩🇪 | [Apply](https://www.leapsome.com/careers?ashby_jid=ee5f98e5-e51c-4aa1-b3cb-dbc2cffbeab3) |
 | Adyen | Network DevOps Engineer | Amsterdam, Netherlands | June 15, 2023 | 🇳🇱 | [Apply](https://boards.greenhouse.io/adyen/jobs/4821859) |
 | Nexperia | IAM Software Engineer | Nijmegen, Netherlands | June 9, 2023 | 🇳🇱 | [Apply](https://nexperia.wd3.myworkdayjobs.com/careers/job/Delft/Junior-Analog-IC-Designer_R-20008805-1) |
-| Optiver | Technical Recruiter | Amsterdam, Netherlands | June 9, 2023 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/5845783002/) |
 | Optiver | FPGA Engineer | Amsterdam, Netherlands | June 9, 2023 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/5845759002/) |
 | Optiver | Software Engineer – Python | Amsterdam, Netherlands | June 9, 2023 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/6793838002/) |
 | Secfix | Senior Back-End Engineer | Berlin, Germany | June 7, 2023 | 🇩🇪 | [Apply](https://jobs.ashbyhq.com/secfix/bb6aca50-be4c-4845-b1ca-800270b89be0) |
@@ -287,7 +295,6 @@ We encourage the community to engage, share, and support each other in the job s
 | HAWK:AI | Senior Java Full-Stack Developer (f/m/d) | Munich, Germany | June 5, 2023 | 🇩🇪 | [Apply](https://boards.eu.greenhouse.io/hawkai/jobs/4042354101) |
 | byrd | Customer Care Consultant (f/m/x) | Berlin, Germany | June 5, 2023 | 🇩🇪 | [Apply](https://getbyrd.com/en/jobs/?gh_jid=4080811101) |
 | byrd | Junior Account Manager (f/m/x) | Berlin, Germany | June 5, 2023 | 🇩🇪 | [Apply](https://getbyrd.com/en/jobs/?gh_jid=4162165101) |
-| Profitap | QA Engineer | Eindhoven, Netherlands | June 4, 2023 | 🇳🇱 | [Apply](https://join.com/companies/profitap/8185659-qa-engineer) |
 | byrd | Finance Associate (f/m/x) | Berlin, Germany | June 5, 2023 | 🇩🇪 | [Apply](https://getbyrd.com/en/jobs/?gh_jid=4175864101) |
 | Rheinmetall | Junior Systems Engineer (m/f/d) | Berlin, Germany | June 3, 2023 | 🇩🇪 | [Apply](https://www.rheinmetall.com/de/job/junior_systems_engineer__m_f_d_/23947) |
 | Rheinmetall | Cloud Solution Architect (m/f/d) | Berlin, Germany | June 3, 2023 | 🇩🇪 | [Apply](https://www.rheinmetall.com/de/job/cloud_solution_architect__m_f_d_/18614) |
@@ -300,7 +307,6 @@ We encourage the community to engage, share, and support each other in the job s
 | Qualcomm | Full Stack Engineer (m/f/d) Augmented and Virtual Reality - Amsterdam | Amsterdam, Netherlands | June 2, 2023 | 🇳🇱 | [Apply](https://qualcomm.wd5.myworkdayjobs.com/External/job/Amsterdam-NLD/Full-Stack-Engineer--m-f-d--Augmented-and-Virtual-Reality---Amsterdam_3050665) |
 | Cuculus GmbH | Software Test Engineer (m/f/d) | Leipzig, Germany | May 31, 2023 | 🇩🇪 | [Apply](https://cuculus-gmbh.jobs.personio.com/job/1092745?display=en) |
 | Cuculus GmbH | Product Manager (m/f/d) | Leipzig, Germany | May 31, 2023 | 🇩🇪 | [Apply](https://cuculus-gmbh.jobs.personio.com/job/1086811?display=en) |
-| Coolblue | AWS Cloud Engineer Coolblue Energy | Utrecht, Netherlands | May 31, 2023 | 🇳🇱 | [Apply](https://www.careersatcoolblue.com/vacancies/aws-cloud-engineer-coolblue-energy/) |
 | Coolblue | Front-End Developer Coolblue Energy | Utrecht, Netherlands | May 31, 2023 | 🇳🇱 | [Apply](https://www.careersatcoolblue.com/vacancies/front-end-developer-coolblue-energy/) |
 | Coolblue | Marketing Tracking Specialist | Rotterdam, Netherlands | May 31, 2023 | 🇳🇱 | [Apply](https://www.careersatcoolblue.com/vacancies/marketing-tracking-specialist/) |
 | Coolblue | Front-End React Developer | Rotterdam, Netherlands | May 31, 2023 | 🇳🇱 | [Apply](https://www.careersatcoolblue.com/vacancies/front-end-react-developer/) |
@@ -332,11 +338,9 @@ We encourage the community to engage, share, and support each other in the job s
 | Optiver | Support Engineer | Amsterdam, Netherlands | May 23, 2023 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/5845783002/) |
 | Adyen | Linux System Engineer | Amsterdam, Netherlands | May 28, 2023 | 🇳🇱 | [Apply](https://boards.greenhouse.io/adyen/jobs/3751149) |
 | Guerrilla | Infrastructure Engineer | Amsterdam, Netherlands | May 22, 2023 | 🇳🇱 | [Apply](https://boards.greenhouse.io/guerrilla/jobs/6237608002) |
-| Fashion Cloud | Product Designer UX/UI (gn) | Amsterdam, Netherlands | May 23, 2023 | 🇳🇱 | [Apply](https://fashion.cloud/en/jobs-en/#job-1237802) |
 | Fashion Cloud | Senior Python Developer (gn) | Amsterdam, Netherlands | May 23, 2023 | 🇳🇱 | [Apply](https://fashion.cloud/en/jobs-en/#job-506438) |
 | Fashion Cloud | Cloud Security Engineer (gn) | Amsterdam, Netherlands | May 23, 2023 | 🇳🇱 | [Apply](https://fashion.cloud/en/jobs-en/#job-1220081) |
 | Fashion Cloud | Full Stack Engineer (gn) | Hamburg, Germany | May 23, 2023 | 🇩🇪 | [Apply](https://fashion.cloud/en/jobs-en/#job-775125) |
-| Guerrilla | TOOLS PROGRAMMER | Amsterdam, Netherlands | May 22, 2023 | 🇳🇱 | [Apply](https://boards.greenhouse.io/guerrilla/jobs/4426684002) |
 | Guerrilla | UI PROGRAMMER | Amsterdam, Netherlands | May 22, 2023 | 🇳🇱 | [Apply](https://boards.greenhouse.io/guerrilla/jobs/6407983002) |
 | Optiver | Executive Assistant – Technology | Amsterdam, Netherlands | May 22, 2023 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/6767755002/) |
 | EVBox | IT Product Owner - Supply Chain | Amsterdam, Netherlands | May 21, 2023 | 🇳🇱 | [Apply](https://evbox.com/en/about/careers/job?gh_jid=5412172003) |
@@ -375,7 +379,6 @@ We encourage the community to engage, share, and support each other in the job s
 | Citymapper | Senior Software Engineer - iOS | London , UK | May 1, 2023 | 🇬🇧 | [Apply](https://apply.workable.com/citymapper/j/18D32D839A/) |
 | Citymapper | Software Engineer - Transport Data | London , UK | May 1, 2023 | 🇬🇧 | [Apply](https://apply.workable.com/citymapper/j/309969CD0E/) |
 | Citymapper | Software Engineer - iOS | London , UK | May 1, 2023 | 🇬🇧 | [Apply](https://apply.workable.com/citymapper/j/6FFD7F4C65/) |
-| HousingAnywhere | Engineering Manager - Core API | Rotterdam, Netherlands | May 4, 2023 | 🇳🇱 | [Apply](https://boards.greenhouse.io/housinganywhere/jobs/5570185003) |
 | Atos | Senior SAP Consultant SD | Wrocław, Poland | May 1, 2023 | 🇵🇱 | [Apply](https://jobs.atos.net/job/Wroclaw-Senior-SAP-Consultant-SD-Pola-53-611/887594001/) |
 | Atos | Azure Cloud Architect | Barcelona, Spain | May 1, 2023 | 🇪🇸 | [Apply](https://jobs.atos.net/job/Bydgoszcz-Azure-Cloud-DevOps-Engineer-1-Bydg/642559701/) |
 | Adyen | Monitoring Operations Engineer | Amsterdam, Netherlands | May 7, 2023 | 🇳🇱 | [Apply](https://boards.greenhouse.io/adyen/jobs/4905966) |
@@ -517,6 +520,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sat Aug 17 12:35:23 UTC 2024
+Last updated: Sun Aug 18 07:46:26 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
