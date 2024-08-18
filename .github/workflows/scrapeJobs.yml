@@ -61,4 +61,5 @@ jobs:
         git add README.md
         timestamp=$(date -u)
         git commit -m "Latest jobs: ${timestamp}" || exit 0
+        git pull --rebase
         git push
