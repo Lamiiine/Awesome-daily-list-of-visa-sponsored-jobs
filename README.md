@@ -520,6 +520,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Fri Aug 30 12:40:04 UTC 2024
+Last updated: Sat Aug 31 12:37:53 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
