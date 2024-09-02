@@ -13,6 +13,13 @@ We encourage the community to engage, share, and support each other in the job s
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
 | applyai | Automate your job search with AI |  |  |  | [Apply](https://www.aiapply.co?via=lamine) |
+| FINN | Junior Backend Engineer (NodeJS/Typescript) | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/finn/4c53cdf2-5f41-4402-b14d-2abd4f025e7f) |
+| Celus | Software Engineer - Algorithm Optimization | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1687548?language=en&display=en) |
+| Celus | Product Manager (Machine Learning) | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1607371?language=en&display=en) |
+| Celus | Python API Developer | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1659103?language=en&display=en) |
+| Celus | Senior Data Engineer (Analytics) | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1598917?language=en&display=en) |
+| Celus | Middle QA Engineer | Lisbon, Portugal | September 1, 2024 | 🇵🇹 | [Apply](https://celus.jobs.personio.de/job/1317413?language=en&display=en) |
+| Celus | Electronics Engineering Team Lead | Lisbon, Portugal | September 1, 2024 | 🇵🇹 | [Apply](https://celus.jobs.personio.de/job/1673798?language=en&display=en) |
 | Profitap | QA Engineer | Eindhoven, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://join.com/companies/profitap/12126273-qa-engineer) |
 | Profitap | Front-End Software Engineer | Eindhoven, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://join.com/companies/profitap/12179586-front-end-software-engineer) |
 | Optiver | HR Data Analyst | Amsterdam, Netherlands | August 17, 2024 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7448680002/) |
@@ -520,6 +527,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Sep  1 12:38:06 UTC 2024
+Last updated: Mon Sep  2 12:41:58 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
