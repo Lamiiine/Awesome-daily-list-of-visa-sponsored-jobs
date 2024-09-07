@@ -12,7 +12,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
-| applyai | Automate your job search with AI |  |  |  | [Apply](https://www.aiapply.co?via=lamine) |
 | FINN | Junior Backend Engineer (NodeJS/Typescript) | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/finn/4c53cdf2-5f41-4402-b14d-2abd4f025e7f) |
 | Celus | Software Engineer - Algorithm Optimization | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1687548?language=en&display=en) |
 | Celus | Product Manager (Machine Learning) | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1607371?language=en&display=en) |
@@ -60,7 +59,6 @@ We encourage the community to engage, share, and support each other in the job s
 | K-tronik GmbH | Software Developer Navigation (m/f/x) | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6603/software-developer-navigation-m-f-x) |
 | K-tronik GmbH | Project Manager (m/f/x) Aerospace | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6600/project-manager-m-f-x-aerospace) |
 | K-tronik GmbH | Test Engineer - Propulsion (f/m/d)  | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6642/test-engineer-propulsion-f-m-d) |
-| applyai | Create your resume in less than 2min |  |  |  | [Apply](https://www.aiapply.co?via=lamine) |
 | K-tronik GmbH | Test Automation Engineer (m/f/d)  | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6660/test-automation-engineer-m-f-d-naval-it-systems) |
 | Kaufland.de | (Junior) PHP Engineer (all genders) | Köln, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/junior-php-engineer-all-genders/) |
 | Kaufland.de | Security Engineer (all genders) | Köln, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/security-engineer-all-genders/) |
@@ -527,6 +525,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Fri Sep  6 12:39:56 UTC 2024
+Last updated: Sat Sep  7 12:37:16 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
