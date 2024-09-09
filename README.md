@@ -12,6 +12,17 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| raisin | (Junior) Product Manager (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1646080?language=de&display=en) |
+| raisin | Backend Software Engineer (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/905677?language=de&display=en) |
+| raisin | Senior Backend Software Engineer (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1223287?language=de&display=en) |
+| raisin | Product Manager - Revenue Team (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1468281?language=de&display=en) |
+| raisin | Product Manager- Accounting & Payments (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1505796?language=de&display=en) |
+| raisin | Engineering Lead – Mobile (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1500767?language=de&display=en) |
+| raisin | (Senior) Platform Engineer (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1500800?language=de&display=en) |
+| raisin | (Senior) Frontend Engineer (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1593785?language=de&display=en) |
+| FINN | Senior Marketing Data Analyst | Munich, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/finn/6bb5bf41-378c-42d5-9e37-8e987d4a265e) |
+| FINN | (Senior) Product Manager in Growth / SaaS | Munich, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/finn/b487b647-4640-4808-82bd-c491f4cd8340) |
+| FINN | (Senior) Product Manager in Growth / E-Commerce | Munich, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/finn/936329ea-4eee-41a9-9818-4d0a949c0d3d) |
 | FINN | Junior Backend Engineer (NodeJS/Typescript) | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/finn/4c53cdf2-5f41-4402-b14d-2abd4f025e7f) |
 | Celus | Software Engineer - Algorithm Optimization | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1687548?language=en&display=en) |
 | Celus | Product Manager (Machine Learning) | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1607371?language=en&display=en) |
@@ -525,6 +536,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Sep  8 12:38:05 UTC 2024
+Last updated: Mon Sep  9 12:41:49 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
