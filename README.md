@@ -12,6 +12,19 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Oxa | Sensor Engineer | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/2A1D910781/) |
+| Oxa | Solutions Engineer | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/B37E7E1F39/) |
+| Oxa | C++ Software Engineer (Safety Path) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/D93ADC2D59/) |
+| Frontier | Experienced Technical Animator | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/156d43b0-addd-42aa-99b8-a573f80e5d1c) |
+| Oxa | Senior Data Engineer (Reasoning ML) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/6088616347/) |
+| Oxa | Senior Engineer (Controls and Vehicle Integration) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/61E2B1490F/) |
+| Oxa | Senior Software Engineer (Trajectory Planning) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/7246E60252/) |
+| Oxa | Senior Software Engineer (Safety Path) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/F019E4C1E4/) |
+| Frontier | Senior Game Designer | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/28f2b4aa-1b66-4224-92b6-6bd6f14eb9c6) |
+| Frontier | Procurement Manager | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/5e9bede6-3f9a-4acc-a800-6dc1b5bdd566) |
+| Frontier | Materials Artists | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/b3c195f4-8008-46d8-95ad-65fcb5c10f0e) |
+| Frontier | Experienced Character Artist | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/bfec2270-d2e0-4d38-8f14-44089606189c) |
+| Frontier | Principal Technical Animator | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/73844deb-8bad-43fa-bec6-69f946f383ef) |
 | raisin | (Junior) Product Manager (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1646080?language=de&display=en) |
 | raisin | Backend Software Engineer (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/905677?language=de&display=en) |
 | raisin | Senior Backend Software Engineer (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1223287?language=de&display=en) |
@@ -536,6 +549,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Thu Sep 12 12:40:54 UTC 2024
+Last updated: Fri Sep 13 12:40:28 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
