@@ -12,6 +12,8 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Lithe Consulting Ltd | .NET Developer | Macclesfield, United Kingdom | September 28, 2024 | 🇬🇧 | [Apply](https://thinklithe.zohorecruit.eu/jobs/Careers/59632000003205045/NET-Developer) |
+| Lithe Consulting Ltd | Java Developer | Macclesfield, United Kingdom | September 28, 2024 | 🇬🇧 | [Apply](https://thinklithe.zohorecruit.eu/jobs/Careers/59632000003205025/Java-Developer) |
 | Oxa | Sensor Engineer | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/2A1D910781/) |
 | Oxa | Solutions Engineer | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/B37E7E1F39/) |
 | Oxa | C++ Software Engineer (Safety Path) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/D93ADC2D59/) |
@@ -549,6 +551,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sat Sep 28 12:39:46 UTC 2024
+Last updated: Sun Sep 29 12:40:04 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
