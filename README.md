@@ -12,6 +12,10 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Keywords Studios | Lead Environment Artist- UK | Liverpool, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/keywords-intl1/j/2ABB7D35B3/) |
+| noon | Senior Software Engineer | London, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://careers.learnatnoon.com/jobs/3180190-senior-software-engineer) |
+| noon | Principal Frontend Engineer (React/React Native) | London, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://careers.learnatnoon.com/jobs/4569764-principal-frontend-engineer-react-react-native) |
+| vets4pets | Veterinary Surgeon | Oxford, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://www.vets4petscareers.com/job-vacancies/28931-veterinary-surgeon/) |
 | Lithe Consulting Ltd | .NET Developer | Macclesfield, United Kingdom | September 28, 2024 | 🇬🇧 | [Apply](https://thinklithe.zohorecruit.eu/jobs/Careers/59632000003205045/NET-Developer) |
 | Lithe Consulting Ltd | Java Developer | Macclesfield, United Kingdom | September 28, 2024 | 🇬🇧 | [Apply](https://thinklithe.zohorecruit.eu/jobs/Careers/59632000003205025/Java-Developer) |
 | Oxa | Sensor Engineer | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/2A1D910781/) |
@@ -551,6 +555,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Fri Oct 18 12:43:24 UTC 2024
+Last updated: Sat Oct 19 12:40:27 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
