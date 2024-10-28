@@ -12,6 +12,8 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Celus | Middle QA Engineer | Porto, Portugal | October 28, 2024 | 🇵🇹 | [Apply](https://celus.jobs.personio.de/job/1317413?language=en&display=en) |
+| Celus | Python Developer (Authorization) | Munich, Germany | October 28, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1747887?language=en&display=en) |
 | Keywords Studios | Lead Environment Artist- UK | Liverpool, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/keywords-intl1/j/2ABB7D35B3/) |
 | noon | Senior Software Engineer | London, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://careers.learnatnoon.com/jobs/3180190-senior-software-engineer) |
 | noon | Principal Frontend Engineer (React/React Native) | London, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://careers.learnatnoon.com/jobs/4569764-principal-frontend-engineer-react-react-native) |
@@ -555,6 +557,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Oct 27 12:40:09 UTC 2024
+Last updated: Mon Oct 28 12:46:15 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
