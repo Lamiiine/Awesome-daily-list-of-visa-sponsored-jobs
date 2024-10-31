@@ -12,6 +12,10 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| K-tronik GmbH | System Engineer (m/f/x) Aerospace | Überlingen, Germany | October 31, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6517/system-engineer-m-f-x-aerospace) |
+| Greenlyte Carbon Technologies | Senior Hardware Engineer (f/m/x) | Essen, Germany | October 31, 2024 | 🇩🇪 | [Apply](https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/job/1434412?language=en&display=en) |
+| Greenlyte Carbon Technologies | Junior Hardware Engineer (f/m/x) | Essen, Germany | October 31, 2024 | 🇩🇪 | [Apply](https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/job/1702714?language=en&display=en) |
+| Greenlyte Carbon Technologies | Quality Engineer (f/m/x) | Essen, Germany | October 31, 2024 | 🇩🇪 | [Apply](https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/job/1718957?language=en&display=en) |
 | Celus | Middle QA Engineer | Porto, Portugal | October 28, 2024 | 🇵🇹 | [Apply](https://celus.jobs.personio.de/job/1317413?language=en&display=en) |
 | Celus | Python Developer (Authorization) | Munich, Germany | October 28, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1747887?language=en&display=en) |
 | Keywords Studios | Lead Environment Artist- UK | Liverpool, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/keywords-intl1/j/2ABB7D35B3/) |
@@ -557,6 +561,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Wed Oct 30 12:45:01 UTC 2024
+Last updated: Thu Oct 31 09:09:21 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
