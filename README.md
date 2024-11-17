@@ -12,6 +12,11 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Anthropic | Research Engineer, Horizons | London, United Kingdom | November 17, 2024 | 🇬🇧 | [Apply](https://boards.greenhouse.io/anthropic/jobs/4138859008) |
+| Anthropic | Data Science and Analytics, Go to Market | San Francisco, USA | November 17, 2024 | 🇺🇸 | [Apply](https://boards.greenhouse.io/anthropic/jobs/4136408008) |
+| Anthropic | Engineering Manager, API Experience | San Francisco, USA | November 17, 2024 | 🇺🇸 | [Apply](https://boards.greenhouse.io/anthropic/jobs/4107555008) |
+| Capua | Graduate Program | London, United Kingdom | November 17, 2024 | 🇬🇧 | [Apply](https://tally.so/r/nrPk5l) |
+| Tror | Big Data Engineer | Dallas, USA | November 17, 2024 | 🇺🇸 | [Apply](https://www.dice.com/job-detail/4bba6f5c-2bde-4f8b-955c-e3d4401848bc) |
 | K-tronik GmbH | System Engineer (m/f/x) Aerospace | Überlingen, Germany | October 31, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6517/system-engineer-m-f-x-aerospace) |
 | Greenlyte Carbon Technologies | Senior Hardware Engineer (f/m/x) | Essen, Germany | October 31, 2024 | 🇩🇪 | [Apply](https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/job/1434412?language=en&display=en) |
 | Greenlyte Carbon Technologies | Junior Hardware Engineer (f/m/x) | Essen, Germany | October 31, 2024 | 🇩🇪 | [Apply](https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/job/1702714?language=en&display=en) |
@@ -561,6 +566,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sat Nov 16 12:41:25 UTC 2024
+Last updated: Sun Nov 17 12:41:17 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
