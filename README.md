@@ -12,6 +12,11 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Crytek | Senior UI Programmer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/senior-ui-programmer) |
+| Crytek | Senior Site Reliability Engineer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/senior-site-reliability-engineer) |
+| Crytek | Senior C++ Build Pipeline Programmer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/senior-c-build-pipeline-programmer) |
+| Crytek | Sandbox Lead | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/sandbox-lead) |
+| Crytek | Lead Site Reliability Engineer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/lead-site-reliability-engineer) |
 | Anthropic | Research Engineer, Horizons | London, United Kingdom | November 17, 2024 | 🇬🇧 | [Apply](https://boards.greenhouse.io/anthropic/jobs/4138859008) |
 | Anthropic | Data Science and Analytics, Go to Market | San Francisco, USA | November 17, 2024 | 🇺🇸 | [Apply](https://boards.greenhouse.io/anthropic/jobs/4136408008) |
 | Anthropic | Engineering Manager, API Experience | San Francisco, USA | November 17, 2024 | 🇺🇸 | [Apply](https://boards.greenhouse.io/anthropic/jobs/4107555008) |
@@ -566,6 +571,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Tue Nov 19 12:47:30 UTC 2024
+Last updated: Wed Nov 20 12:47:03 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
