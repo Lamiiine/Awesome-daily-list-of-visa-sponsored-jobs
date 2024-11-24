@@ -12,6 +12,9 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Birch | Senior Data Scientist | remote, Germany | November 24, 2024 | 🇩🇪 | [Apply](https://apply.workable.com/birch/j/1040EAB8B6/) |
+| Container xChange | Backend Engineer (f/m/d) | Hamburg, Germany | November 24, 2024 | 🇩🇪 | [Apply](https://xchange.recruitee.com/o/backend-engineer-fmd-2) |
+| Container xChange | (Junior) Frontend Engineer (m/f/d) | Hamburg, Germany | November 24, 2024 | 🇩🇪 | [Apply](https://xchange.recruitee.com/o/frontend-engineer-f-m-d) |
 | Crytek | Senior UI Programmer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/senior-ui-programmer) |
 | Crytek | Senior Site Reliability Engineer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/senior-site-reliability-engineer) |
 | Crytek | Senior C++ Build Pipeline Programmer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/senior-c-build-pipeline-programmer) |
@@ -571,6 +574,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Nov 24 12:42:17 UTC 2024
+Last updated: Sun Nov 24 17:33:15 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
