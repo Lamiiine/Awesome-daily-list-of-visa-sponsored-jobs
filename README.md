@@ -12,6 +12,8 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| EY | Data Analytics & AI - Manager - Data Governance | Dublin, Ireland | November 30, 2024 | 🇮🇪 | [Apply](https://careers.ey.com/ey/job/Dublin-2-Data-Analytics-&-AI-Manager-Data-Governance/1145888801/?feedId=338701&utm_source=Indeed&utm_campaign=EY_indeed) |
+| Whatu Ora | Clinical Specialist - MRI Medical Radiation Technologist | Auckland, New Zealnd | November 30, 2024 | 🇳🇿 | [Apply](https://careers.adhb.govt.nz/health-careers-job-search/details/ADHB21987?src=JB-14180) |
 | Birch | Senior Data Scientist | remote, Germany | November 24, 2024 | 🇩🇪 | [Apply](https://apply.workable.com/birch/j/1040EAB8B6/) |
 | Container xChange | Backend Engineer (f/m/d) | Hamburg, Germany | November 24, 2024 | 🇩🇪 | [Apply](https://xchange.recruitee.com/o/backend-engineer-fmd-2) |
 | Container xChange | (Junior) Frontend Engineer (m/f/d) | Hamburg, Germany | November 24, 2024 | 🇩🇪 | [Apply](https://xchange.recruitee.com/o/frontend-engineer-f-m-d) |
@@ -574,6 +576,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Tue Nov 26 12:48:23 UTC 2024
+Last updated: Sun Dec  1 12:07:48 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
