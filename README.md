@@ -12,6 +12,9 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Kikoff | Software Engineer - Mobile | San Francisco, USA | December 1, 2024 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/5174cf92-0ef6-47c4-9414-afa2d26dfc4b?utm_source=9nPK5GeBwg) |
+| My Australian Career | Head of Junior School (Years K-4) | SYDNEY, Australia | December 1, 2024 | 🇦🇺 | [Apply](https://www.seek.com.au/job/80288209) |
+| Cloud BC Labs | Sr Data Engineer | Columbus, USA | December 1, 2024 | 🇺🇸 | [Apply](https://www.ziprecruiter.com/c/Cloud-BC-Labs/Job/Sr-Data-Engineer/-in-Columbus,OH?closed_job_redirect=1&jid=789eb0e3292d9eb2) |
 | EY | Data Analytics & AI - Manager - Data Governance | Dublin, Ireland | November 30, 2024 | 🇮🇪 | [Apply](https://careers.ey.com/ey/job/Dublin-2-Data-Analytics-&-AI-Manager-Data-Governance/1145888801/?feedId=338701&utm_source=Indeed&utm_campaign=EY_indeed) |
 | Whatu Ora | Clinical Specialist - MRI Medical Radiation Technologist | Auckland, New Zealnd | November 30, 2024 | 🇳🇿 | [Apply](https://careers.adhb.govt.nz/health-careers-job-search/details/ADHB21987?src=JB-14180) |
 | Birch | Senior Data Scientist | remote, Germany | November 24, 2024 | 🇩🇪 | [Apply](https://apply.workable.com/birch/j/1040EAB8B6/) |
@@ -576,6 +579,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Dec  1 12:43:48 UTC 2024
+Last updated: Mon Dec  2 12:49:59 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
