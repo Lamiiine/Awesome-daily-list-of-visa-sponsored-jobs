@@ -12,6 +12,8 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| adjoe | Mobile Developer (f/m/d) | Hamburg, Germany | December 3, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=9d5179c1-d0b3-4792-b16a-23ada715ad1b) |
+| adjoe | Senior DevOps Engineer (f/m/d) | Hamburg, Germany | December 3, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=c5545e7e-2387-4aff-a4cf-a071f94fca70) |
 | Kikoff | Software Engineer - Mobile | San Francisco, USA | December 1, 2024 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/5174cf92-0ef6-47c4-9414-afa2d26dfc4b?utm_source=9nPK5GeBwg) |
 | My Australian Career | Head of Junior School (Years K-4) | SYDNEY, Australia | December 1, 2024 | 🇦🇺 | [Apply](https://www.seek.com.au/job/80288209) |
 | Cloud BC Labs | Sr Data Engineer | Columbus, USA | December 1, 2024 | 🇺🇸 | [Apply](https://www.ziprecruiter.com/c/Cloud-BC-Labs/Job/Sr-Data-Engineer/-in-Columbus,OH?closed_job_redirect=1&jid=789eb0e3292d9eb2) |
@@ -579,6 +581,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Tue Dec  3 12:48:27 UTC 2024
+Last updated: Wed Dec  4 12:49:05 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
