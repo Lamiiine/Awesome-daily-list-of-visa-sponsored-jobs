@@ -2,9 +2,9 @@
 
 Welcome to our repository of daily-updated, visa-sponsored job opportunities! This list is automatically refreshed every day to bring you the latest openings across various companies and locations.
 
-🌟 **Check out our main site**: [Relocate With Us](https://relocate-with-us.github.io)
+🌟 **Check out our main site**: [visajobs](https://visajobs.xyz)
 
-💬 **Join our Telegram channel**: [Relocate With Us Telegram](https://t.me/visa_sponsored_jobs)
+💬 **Join our Telegram channel**: [visajobs Telegram](https://t.me/visa_sponsored_jobs)
 
 We encourage the community to engage, share, and support each other in the job search process. If you find this resource helpful, please star the repository and spread the word!
 
@@ -12,8 +12,19 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
-| adjoe | Mobile Developer (f/m/d) | Hamburg, Germany | December 3, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=9d5179c1-d0b3-4792-b16a-23ada715ad1b) |
-| adjoe | Senior DevOps Engineer (f/m/d) | Hamburg, Germany | December 3, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=c5545e7e-2387-4aff-a4cf-a071f94fca70) |
+| Mara Talent | Senior Recruitment Consultant​/Relocate to America | New York, USA | December 8, 2024 | 🇺🇸 | [Apply](https://www.learn4good.com/jobs/nottingham/uk/hr_and_recruitment/3791554722/e/) |
+| HealthcareLink | Community-Based Occupational Therapist | Adelaide, Australia | December 8, 2024 | 🇦🇺 | [Apply](https://www.workforceaustralia.gov.au/individuals/jobs/details/2335992859) |
+| adjoe | iOS Developer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=8a9c2e39-a9e3-4fe9-9e66-a602967251ec) |
+| adjoe | DevOps Engineer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=a29fdac9-036f-4f2a-ba79-155d8f32733c) |
+| adjoe | Senior BI Analyst (Anti-Fraud) (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=38f67985-bc22-456e-9774-5fc95db90a41) |
+| adjoe | Senior BI Analyst (Anti-Fraud) (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=38f67985-bc22-456e-9774-5fc95db90a41) |
+| adjoe | Machine Learning Engineer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=feee3bff-a9c2-4d4e-86e4-12c376d44567) |
+| adjoe | Senior Frontend Developer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=6647084f-2c9d-405b-a30b-dec97a6669cb) |
+| adjoe | Senior Go Developer (Advertising Dashboard Team) (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=a52d2c9e-63c8-4554-a4d7-28982c1952b0) |
+| adjoe | Senior QA Engineer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=b068a184-15c9-438a-86fa-f291432146f8) |
+| adjoe | Senior Product Manager (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=1a08e16e-44b4-4701-99cb-b00f08aa0e59) |
+| adjoe | Mobile Developer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=9d5179c1-d0b3-4792-b16a-23ada715ad1b) |
+| adjoe | Senior DevOps Engineer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=c5545e7e-2387-4aff-a4cf-a071f94fca70) |
 | Kikoff | Software Engineer - Mobile | San Francisco, USA | December 1, 2024 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/5174cf92-0ef6-47c4-9414-afa2d26dfc4b?utm_source=9nPK5GeBwg) |
 | My Australian Career | Head of Junior School (Years K-4) | SYDNEY, Australia | December 1, 2024 | 🇦🇺 | [Apply](https://www.seek.com.au/job/80288209) |
 | Cloud BC Labs | Sr Data Engineer | Columbus, USA | December 1, 2024 | 🇺🇸 | [Apply](https://www.ziprecruiter.com/c/Cloud-BC-Labs/Job/Sr-Data-Engineer/-in-Columbus,OH?closed_job_redirect=1&jid=789eb0e3292d9eb2) |
@@ -581,6 +592,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Dec  8 12:44:47 UTC 2024
+Last updated: Mon Dec  9 09:47:47 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
