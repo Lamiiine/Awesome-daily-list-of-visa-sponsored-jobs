@@ -12,6 +12,15 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Jaywalker | Software Engineer | Luzern, Switzerland | December 10, 2024 | 🇨🇭 | [Apply](https://jaywalker.ch/jobs/software-engineer/) |
+| dashlane | Senior Product Manager - Integrations | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6306706) |
+| dashlane | Senior Software Engineer - Backend | Porto, Portugal | December 9, 2024 | 🇵🇹 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6128496) |
+| dashlane | Senior Software Engineer - Web | Porto, Portugal | December 9, 2024 | 🇵🇹 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6238136) |
+| dashlane | Engineering Manager | Porto, Portugal | December 9, 2024 | 🇵🇹 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6277385) |
+| dashlane | Senior People Partner | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6132482) |
+| dashlane | Senior Software Engineer - Web | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6300104) |
+| dashlane | Senior Software Engineer - Backend | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6440080) |
+| dashlane | Engineering Manager - Core Features | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6097098) |
 | Mara Talent | Senior Recruitment Consultant​/Relocate to America | New York, USA | December 8, 2024 | 🇺🇸 | [Apply](https://www.learn4good.com/jobs/nottingham/uk/hr_and_recruitment/3791554722/e/) |
 | HealthcareLink | Community-Based Occupational Therapist | Adelaide, Australia | December 8, 2024 | 🇦🇺 | [Apply](https://www.workforceaustralia.gov.au/individuals/jobs/details/2335992859) |
 | adjoe | iOS Developer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=8a9c2e39-a9e3-4fe9-9e66-a602967251ec) |
@@ -592,6 +601,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Mon Dec  9 12:50:27 UTC 2024
+Last updated: Tue Dec 10 12:50:06 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
