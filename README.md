@@ -12,6 +12,9 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| HomeToGo | Junior PHP Back-End Engineer (Tech Services) - Smoobu (m/f/d) | Berlin, Germany | December 12, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/hometogo/jobs/4474966101) |
+| Zalando | Junior Frontend Engineer - Inbound Frontend (all genders) | Berlin, Germany | December 12, 2024 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/2717808) |
+| Universal Quantum | Software Engineer/Architect | Haywards Heath, United Kingdom | December 12, 2024 | 🇬🇧 | [Apply](https://www.linkedin.com/jobs/view/4097081108) |
 | Jaywalker | Software Engineer | Luzern, Switzerland | December 10, 2024 | 🇨🇭 | [Apply](https://jaywalker.ch/jobs/software-engineer/) |
 | dashlane | Senior Product Manager - Integrations | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6306706) |
 | dashlane | Senior Software Engineer - Backend | Porto, Portugal | December 9, 2024 | 🇵🇹 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6128496) |
@@ -304,7 +307,6 @@ We encourage the community to engage, share, and support each other in the job s
 | Kwalee | Senior Software Engineer - Backend | Leamington Spa , UK | July 3, 2023 | 🇬🇧 | [Apply](https://jobs.jobvite.com/kwalee/job/o5hanfwD) |
 | Adjust | Senior Database Engineer - PostgreSQL | Berlin, Germany | June 30, 2023 | 🇩🇪 | [Apply](https://www.adjust.com/company/careers/jobs/apply/?jobid=6776996002) |
 | Adyen | CI/CD Engineer | Amsterdam, Netherlands | July 3, 2023 | 🇳🇱 | [Apply](https://boards.greenhouse.io/adyen/jobs/4200768) |
-| HomeToGo | Backend Developer - PHP (m/f/d) | Berlin, Germany | June 30, 2023 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3643204154&f_C=9359057&geoId=92000000&originToLandingJobPostings=3643204154%2C3586583177%2C3618987282%2C3638818410%2C3623801629%2C3617638237%2C3617688360%2C3638819146%2C3617637297) |
 | Gigs | Senior Backend Engineer (f/m/x) | Berlin, Germany | June 26, 2023 | 🇩🇪 | [Apply](https://apply.workable.com/gigs/j/763BB4884D/) |
 | Gigs | Senior Frontend Engineer (f/m/x) | Berlin, Germany | June 26, 2023 | 🇩🇪 | [Apply](https://apply.workable.com/gigs/j/259E3FB49A/) |
 | Doctolib | Senior Python Engineer (onsite/remote) | Bremen, Germany | June 30, 2023 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=3598038481&f_C=17921033&geoId=92000000&originToLandingJobPostings=3634486315%2C3605890851%2C3598038481%2C3631738527%2C3561421836%2C3631737396%2C3631735207) |
@@ -601,6 +603,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Thu Dec 12 12:49:43 UTC 2024
+Last updated: Fri Dec 13 12:48:19 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
