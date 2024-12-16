@@ -12,8 +12,20 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Zalando | Junior Business Intelligence Engineer (All Genders) | Berlin, Germany | December 15, 2024 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/2716140-Junior-Business-Intelligence-Engineer-(All-Genders) |
+| Shield AI | Mechanical Design Engineer II (R3051) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/9913cc87-5734-4aae-901b-1f7e19cdd803) |
+| Shield AI | Software Engineer, Embedded Firmware (R2524) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/471e9ee3-61bf-4cc4-8430-0e02b57805a8) |
+| Shield AI | Electrical Engineer | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/332af47f-4ec4-4e70-a1dd-4f7b323983cb) |
+| Shield AI | Senior Staff RF Engineer (R2319) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/b1737a8d-c564-4489-b6a4-4e6ecb42e292) |
+| Shield AI | Sr. RF Engineer (R2319) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/3860d2b9-4619-4350-9c7c-0918ef988db0) |
+| Shield AI | Staff Electrical Engineer, EMI (R2319) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/1db0ce2d-42f0-4be6-aa43-4753c1f4e011) |
+| Shield AI | Staff Electrical CAD Engineer (R3076) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/d15e6ed4-97b2-4dab-90bb-9d26aaa86bdd/) |
+| Health Match BC | Family Practitioner/General Practitioner | British Columbia, Canada | December 15, 2024 | 🇨🇦 | [Apply](https://applicants.healthmatchbc.org/JobsBoard/HMBC/HMBCVacancies.aspx?VacancyId=53919) |
+| Bank of Canada | Senior Cyber Security Specialist | Ottawa, Canada | December 15, 2024 | 🇨🇦 | [Apply](https://careers.bankofcanada.ca/job/Ottawa-%28Downtown%29-Senior-Cyber-Security-Specialist-ON/587635117/) |
+| TELUS Digital | Wellness Coach | Dublin, Ireland | December 15, 2024 | 🇮🇪 | [Apply](https://www.linkedin.com/jobs/view/4101310324) |
+| Multiverse Computing | Business Development Manager | SAN SEBASTIAN, Spain | December 15, 2024 | 🇪🇸 | [Apply](https://multiversecomputing.teamtailor.com/jobs/5067680-business-development-manager) |
+| Shield AI | Senior Staff Electrical Engineer | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/e672bf76-f8f5-4139-95db-6c3d1b0e1d3c) |
 | HomeToGo | Junior PHP Back-End Engineer (Tech Services) - Smoobu (m/f/d) | Berlin, Germany | December 12, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/hometogo/jobs/4474966101) |
-| Zalando | Junior Frontend Engineer - Inbound Frontend (all genders) | Berlin, Germany | December 12, 2024 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/2717808) |
 | Universal Quantum | Software Engineer/Architect | Haywards Heath, United Kingdom | December 12, 2024 | 🇬🇧 | [Apply](https://www.linkedin.com/jobs/view/4097081108) |
 | Jaywalker | Software Engineer | Luzern, Switzerland | December 10, 2024 | 🇨🇭 | [Apply](https://jaywalker.ch/jobs/software-engineer/) |
 | dashlane | Senior Product Manager - Integrations | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6306706) |
@@ -603,6 +615,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Dec 15 12:44:11 UTC 2024
+Last updated: Mon Dec 16 12:50:09 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
