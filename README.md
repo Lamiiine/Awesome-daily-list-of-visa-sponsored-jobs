@@ -12,6 +12,8 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Kikoff | Data Scientist | San Francisco, USA | December 16, 2024 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/3411be84-b1e5-4702-8ed8-312385f1b7dc) |
+| Sumup | (Senior) Backend Engineer | Berlin, Germany | December 16, 2024 | 🇩🇪 | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/senior-backend-engineer/7687337002/) |
 | Zalando | Junior Business Intelligence Engineer (All Genders) | Berlin, Germany | December 15, 2024 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/2716140-Junior-Business-Intelligence-Engineer-(All-Genders) |
 | Shield AI | Mechanical Design Engineer II (R3051) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/9913cc87-5734-4aae-901b-1f7e19cdd803) |
 | Shield AI | Software Engineer, Embedded Firmware (R2524) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/471e9ee3-61bf-4cc4-8430-0e02b57805a8) |
@@ -615,6 +617,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Mon Dec 16 12:50:09 UTC 2024
+Last updated: Tue Dec 17 12:49:34 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
