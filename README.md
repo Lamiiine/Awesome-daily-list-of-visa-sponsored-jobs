@@ -12,6 +12,8 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| DOXA PARTNERS | ​Investment Analyst | Nex Castle, United Kingdom | December 21, 2024 | 🇬🇧 | [Apply](https://www.doxa.partners/doxaregister) |
+| Marsh McLennan | IT Program Manager | Sydney, Australia | December 21, 2024 | 🇦🇺 | [Apply](https://careers.marshmclennan.com/global/en/job/R_286926/IT-Program-Manager) |
 | Kikoff | Data Scientist | San Francisco, USA | December 16, 2024 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/3411be84-b1e5-4702-8ed8-312385f1b7dc) |
 | Sumup | (Senior) Backend Engineer | Berlin, Germany | December 16, 2024 | 🇩🇪 | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/senior-backend-engineer/7687337002/) |
 | Zalando | Junior Business Intelligence Engineer (All Genders) | Berlin, Germany | December 15, 2024 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/2716140-Junior-Business-Intelligence-Engineer-(All-Genders) |
@@ -617,6 +619,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sat Dec 21 12:39:42 UTC 2024
+Last updated: Sun Dec 22 12:39:35 UTC 2024
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
