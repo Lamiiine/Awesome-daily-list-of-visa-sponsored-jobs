@@ -12,6 +12,9 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| SELIUK LTD | Senior Software Engineer (C++, C, Python) | Munich, Germany | December 31, 2024 | 🇩🇪 | [Apply](https://apply.workable.com/seliuk-ltd/j/CB14238331/) |
+| QuantCo | Software Engineer | Berlin, Germany | December 31, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/quantco-/16bbc741-38b5-498f-a871-c5ccca08e092) |
+| QuantCo | Software Engineer | Berlin, Germany | December 31, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/quantco-/16bbc741-38b5-498f-a871-c5ccca08e092) |
 | Ryanair | B2 Licensed Engineer - UK Visa Sponsorship Available | Manchester, United Kingdom | December 26, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/ryanair/j/5B0B72A042/) |
 | justDice | UI/UX Designer (f/m/d) | Hamburg, Germany | December 26, 2024 | 🇩🇪 | [Apply](https://justdice.io/jobs/?j_id=61a988f6-6a3f-4783-afc4-f2b3bbee384c) |
 | Freeletics | DevOps Engineer | Munich, Germany | December 26, 2024 | 🇩🇪 | [Apply](https://www.freeletics.com/en/corporate/jobs/7712b949-b03b-456f-b025-f7c262608082/) |
@@ -241,6 +244,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Tue Dec 31 12:42:04 UTC 2024
+Last updated: Wed Jan  1 12:41:45 UTC 2025
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
