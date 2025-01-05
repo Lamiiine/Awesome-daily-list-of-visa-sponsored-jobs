@@ -12,6 +12,9 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Coolblue | Team Lead Front-End React | Rotterdam, Netherlands | January 4, 2025 | 🇳🇱 | [Apply](https://www.careersatcoolblue.com/vacancies/team-lead-front-end-react/) |
+| Labforward | Project Engineer (m/f/d) | Berlin, Germany | January 4, 2025 | 🇩🇪 | [Apply](https://labforward.jobs.personio.de/job/1888990?language=en&display=en) |
+| Labforward | Back-End / Full Stack Java Engineer | Berlin, Germany | January 4, 2025 | 🇩🇪 | [Apply](https://labforward.jobs.personio.de/job/1889579?language=en%3Flanguage%3D&display=en) |
 | SELIUK LTD | Senior Software Engineer (C++, C, Python) | Munich, Germany | December 31, 2024 | 🇩🇪 | [Apply](https://apply.workable.com/seliuk-ltd/j/CB14238331/) |
 | QuantCo | Software Engineer | Berlin, Germany | December 31, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/quantco-/16bbc741-38b5-498f-a871-c5ccca08e092) |
 | QuantCo | Software Engineer | Berlin, Germany | December 31, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/quantco-/16bbc741-38b5-498f-a871-c5ccca08e092) |
@@ -244,6 +247,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sat Jan  4 12:40:34 UTC 2025
+Last updated: Sun Jan  5 12:40:30 UTC 2025
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
