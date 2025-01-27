@@ -12,6 +12,10 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Sunday GmbH | Forward Deployed Engineer | Hamburg, Germany | January 25, 2025 | 🇩🇪 | [Apply](https://join.com/companies/sunday/13429301-marketing-artist-f-m-d) |
+| OpenAI | Senior Software Engineer - Backend | London, United Kingdom | January 25, 2025 | 🇬🇧 | [Apply](https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488) |
+| Shapr3d | Senior Software Engineer - Backend | Budapest, Hungary | January 25, 2025 | 🇭🇺 | [Apply](https://www.shapr3d.com/company/jobs-details?gh_jid=6316008003) |
+| Qualcomm | Senior Software Engineer - Qualcomm XR labs Europe | Amsterdam, Netherlands | January 25, 2025 | 🇳🇱 | [Apply](https://careers.qualcomm.com/careers/job/446703622802?hl=en-US&domain=qualcomm.com) |
 | Mistral AI | Software Engineer, Billing | Paris, France | January 20, 2025 | 🇫🇷 | [Apply](https://jobs.lever.co/mistral/e1a37c33-fdec-41cf-bb92-35646e283fa8) |
 | Mistral AI | Software Engineer, Security | Paris, France | January 20, 2025 | 🇫🇷 | [Apply](https://jobs.lever.co/mistral/9f6e6513-fd9e-411b-b558-540bc12b2fe4) |
 | Mistral AI | Applied AI Engineer, Deployment, Europe - Paris | Paris, France | January 20, 2025 | 🇫🇷 | [Apply](https://jobs.lever.co/mistral/3e51d533-1f2d-48e3-9a2b-33fc7e8b0c0c) |
@@ -191,7 +195,6 @@ We encourage the community to engage, share, and support each other in the job s
 | Monzo | Android Engineer | London , UK | July 20, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/2578107) |
 | Monzo | Backend Engineer | London , UK | July 20, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5272421) |
 | Kolibri Games | (Senior) Game Designer (f/m/d) | Berlin, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://www.kolibrigames.com/career/position/8ab35ce3-a5f5-4be5-84ab-7adf89e2dc39/) |
-| Sunday GmbH | Marketing Artist (f/m/d) | Hamburg, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://sunday.gg/career/?j_id=f58ddda3-9533-4e92-8609-3ca9e700c438) |
 | Sunday GmbH | Media & Communication Manager (f/m/d) | Hamburg, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://sunday.gg/career/?j_id=e9dec4c4-577c-4910-b789-95af7b4222e9) |
 | Monzo | Senior Backend Engineer | London , UK | July 20, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5304204) |
 | Monzo | Senior Android Engineer | London , UK | July 20, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/3832598) |
@@ -263,6 +266,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Jan 26 12:37:57 UTC 2025
+Last updated: Mon Jan 27 12:43:22 UTC 2025
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
