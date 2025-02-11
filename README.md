@@ -12,6 +12,12 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Hapag-Lloyd AG  | Cloud Engineer  | Gdansk , Poland | February 10, 2025 | 🇵🇱 | [Apply](https://www.linkedin.com/jobs/view/4148246703) |
+| Byborg Enterprises | Content Marketing Manager | Neudorf-Weimershof, Luxembourg | February 10, 2025 | 🇱🇺 | [Apply](https://jobs.smartrecruiters.com/DoclerHolding/744000035188883-content-marketing-manager) |
+| Langham Recruitment | Senior FPGA Network Engineer | London , United Kingdom | February 10, 2025 | 🇬🇧 | [Apply](https://www.linkedin.com/jobs/view/4146351784) |
+| MODE Recruitment | Senior System Administrator | Frankfurt, Germany | February 10, 2025 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/view/4148245932) |
+| MODE Recruitment | Senior System Engineer | Frankfurt, Germany | February 10, 2025 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/view/4148245729) |
+| MODE Recruitment | Senior PHP Developer | Munich, Germany | February 10, 2025 | 🇩🇪 | [Apply](https://www.linkedin.com/jobs/view/4148246703) |
 | Sunday GmbH | Forward Deployed Engineer | Hamburg, Germany | January 25, 2025 | 🇩🇪 | [Apply](https://join.com/companies/sunday/13429301-marketing-artist-f-m-d) |
 | OpenAI | Senior Software Engineer - Backend | London, United Kingdom | January 25, 2025 | 🇬🇧 | [Apply](https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488) |
 | Shapr3d | Senior Software Engineer - Backend | Budapest, Hungary | January 25, 2025 | 🇭🇺 | [Apply](https://www.shapr3d.com/company/jobs-details?gh_jid=6316008003) |
@@ -266,6 +272,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Mon Feb 10 12:44:14 UTC 2025
+Last updated: Tue Feb 11 12:44:25 UTC 2025
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
