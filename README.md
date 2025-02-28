@@ -12,6 +12,21 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Optiver | Windows Infrastructure – Software Engineer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7475519002/) |
+| Robin AI | Staff Machine Learning Engineer | London , United Kingdom | February 28, 2025 | 🇬🇧 | [Apply](https://www.robinai.com/open-positions?ashby_jid=0c8ba130-9f6a-4a32-8d1f-08b3364f9e8c/) |
+| Robin AI | Senior Machine Learning Engineer | London , United Kingdom | February 28, 2025 | 🇬🇧 | [Apply](https://www.robinai.com/open-positions?ashby_jid=19292bff-1586-4bbd-b593-69b5a0c5263e/) |
+| Optiver | Production Engineer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7790567002/) |
+| Optiver | FPGA Engineer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7694007002/) |
+| Optiver | Systems Engineer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7746651002/) |
+| Optiver | Linux Systems Engineer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7684971002/) |
+| Optiver | Network Engineer – Low Latency | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7790593002/) |
+| Optiver | Senior Network Engineer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7790505002/) |
+| Optiver | Senior Software Engineer – Python | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7790490002/) |
+| Optiver | PowerShell Developer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7640612002/) |
+| Recharge | Senior Fullstack Engineer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://company.recharge.com/vacancies/senior-fullstack-engineer-1/?_gl=1*1p1rqzo*_up*MQ..*_ga*MjAxMjY0MjAzNi4xNzQwNzM1NTI4*_ga_83PT6B4VYV*MTc0MDczNTUyNi4xLjAuMTc0MDczNTUyNi4wLjAuMA..) |
+| Recharge | Senior Business Analyst | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://company.recharge.com/vacancies/senior-business-analyst/?_gl=1*1p1rqzo*_up*MQ..*_ga*MjAxMjY0MjAzNi4xNzQwNzM1NTI4*_ga_83PT6B4VYV*MTc0MDczNTUyNi4xLjAuMTc0MDczNTUyNi4wLjAuMA..) |
+| Recharge | Marketing Automation Engineer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://company.recharge.com/vacancies/lead-marketing-automation/?_gl=1*1p1rqzo*_up*MQ..*_ga*MjAxMjY0MjAzNi4xNzQwNzM1NTI4*_ga_83PT6B4VYV*MTc0MDczNTUyNi4xLjAuMTc0MDczNTUyNi4wLjAuMA..) |
+| Recharge | Staff Software Engineer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://company.recharge.com/vacancies/staff-software-engineer-2/?_gl=1*1w7pzb*_up*MQ..*_ga*MjAxMjY0MjAzNi4xNzQwNzM1NTI4*_ga_83PT6B4VYV*MTc0MDczNTUyNi4xLjAuMTc0MDczNTUyNi4wLjAuMA..) |
 | Hapag-Lloyd AG  | Cloud Engineer  | Gdansk , Poland | February 10, 2025 | 🇵🇱 | [Apply](https://www.linkedin.com/jobs/view/4148246703) |
 | Byborg Enterprises | Content Marketing Manager | Neudorf-Weimershof, Luxembourg | February 10, 2025 | 🇱🇺 | [Apply](https://jobs.smartrecruiters.com/DoclerHolding/744000035188883-content-marketing-manager) |
 | Langham Recruitment | Senior FPGA Network Engineer | London , United Kingdom | February 10, 2025 | 🇬🇧 | [Apply](https://www.linkedin.com/jobs/view/4146351784) |
@@ -272,6 +287,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Thu Feb 27 12:46:05 UTC 2025
+Last updated: Fri Feb 28 12:44:37 UTC 2025
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
