@@ -12,6 +12,16 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Mistral AI | AI Solution Architect, Deployment - France 🇫🇷, UK, USA 🇺🇸 | Paris 🇫🇷 / London 🇬🇧 / Palo | March 22, 2025 | Alto | [Apply](https://jobs.lever.co/mistral/df3d4b5c-4910-42c8-8fe8-5fd114b2961a) |
+| Mistral AI | Research Engineer - Paris/London | Paris 🇫🇷 / London | March 22, 2025 | 🇬🇧 | [Apply](https://jobs.lever.co/mistral/07447e1d-7900-46d4-b61b-186f2f76847f) |
+| Mistral AI | AI Scientist - Paris/London | Paris 🇫🇷 / London | March 22, 2025 | 🇬🇧 | [Apply](https://jobs.lever.co/mistral/675b7f06-a76b-4144-af0c-4dd3282ef489) |
+| Mistral AI | Software Engineer, Back-end - Palo Alto | Palo Alto, USA | March 22, 2025 | 🇺🇸 | [Apply](https://jobs.lever.co/mistral/ef2d793d-fe94-4707-9535-b662c5a8c59c) |
+| Mistral AI | Technical Program Manager, Engineering - Paris | Paris, France | March 22, 2025 | 🇫🇷 | [Apply](https://jobs.lever.co/mistral/a1854159-922e-4de7-adb6-7c1b608c147f) |
+| Mistral AI | Applied AI Engineer, Use-case - EMEA, Singapore | Paris 🇫🇷 / London 🇬🇧 / | March 22, 2025 | Singapore | [Apply](https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62) |
+| Mistral AI | Staff Software Engineer, Security - Paris | Paris, | March 22, 2025 | France | [Apply](https://jobs.lever.co/mistral/9f6e6513-fd9e-411b-b558-540bc12b2fe4) |
+| Mistral AI | Senior Software Engineer, Billing - Paris | Paris, France | March 22, 2025 | 🇫🇷 | [Apply](https://jobs.lever.co/mistral/e1a37c33-fdec-41cf-bb92-35646e283fa8) |
+| Mistral AI | Research Engineer - Palo Alto | Palo Alto, USA | March 22, 2025 | 🇺🇸 | [Apply](https://jobs.lever.co/mistral/3db45045-b1a5-4c5d-9608-0aa7fb66f2df) |
+| Mistral AI | AI Solution Architect, USA | Palo Alto, USA | March 22, 2025 | 🇺🇸 | [Apply](https://jobs.lever.co/mistral/b5b565a0-533a-43c3-b232-114138422cb0) |
 | Optiver | Windows Infrastructure – Software Engineer | Amsterdam, Netherlands | February 28, 2025 | 🇳🇱 | [Apply](https://optiver.com/working-at-optiver/career-opportunities/7475519002/) |
 | Robin AI | Staff Machine Learning Engineer | London , United Kingdom | February 28, 2025 | 🇬🇧 | [Apply](https://www.robinai.com/open-positions?ashby_jid=0c8ba130-9f6a-4a32-8d1f-08b3364f9e8c/) |
 | Robin AI | Senior Machine Learning Engineer | London , United Kingdom | February 28, 2025 | 🇬🇧 | [Apply](https://www.robinai.com/open-positions?ashby_jid=19292bff-1586-4bbd-b593-69b5a0c5263e/) |
@@ -287,6 +297,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sat Mar 22 12:41:24 UTC 2025
+Last updated: Sat Mar 22 17:25:52 UTC 2025
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
