@@ -12,6 +12,9 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Speakap | Experienced Frontend Developer | Amsterdam, Netherlands | Not specified | 🇳🇱 | [Apply](https://jobs.speakap.com/o/frontend-developer) |
+| N26 | Finance Business Partner - Investments | Berlin, Germany | Not specified | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/positions/6683900) |
+| N26 | Backend Engineer - Memberships | Berlin, Germany | Not specified | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/positions/6744192) |
 | Mistral AI | AI Solution Architect, Deployment - France 🇫🇷, UK, USA 🇺🇸 | Paris 🇫🇷 / London 🇬🇧 / Palo | March 22, 2025 | Alto | [Apply](https://jobs.lever.co/mistral/df3d4b5c-4910-42c8-8fe8-5fd114b2961a) |
 | Mistral AI | Research Engineer - Paris/London | Paris 🇫🇷 / London | March 22, 2025 | 🇬🇧 | [Apply](https://jobs.lever.co/mistral/07447e1d-7900-46d4-b61b-186f2f76847f) |
 | Mistral AI | AI Scientist - Paris/London | Paris 🇫🇷 / London | March 22, 2025 | 🇬🇧 | [Apply](https://jobs.lever.co/mistral/675b7f06-a76b-4144-af0c-4dd3282ef489) |
@@ -297,6 +300,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Thu Apr  3 12:49:29 UTC 2025
+Last updated: Fri Apr  4 12:48:27 UTC 2025
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
