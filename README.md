@@ -12,6 +12,7 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| K-tronik GmbH | Development Engineer (m/f/d) Aerospace Electronics | Lindau, Germany | August 4, 2025 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6896/development-engineer-m-f-d-aerospace-electronics) |
 | Speakap | Experienced Frontend Developer | Amsterdam, Netherlands | Not specified | 🇳🇱 | [Apply](https://jobs.speakap.com/o/frontend-developer) |
 | N26 | Finance Business Partner - Investments | Berlin, Germany | Not specified | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/positions/6683900) |
 | N26 | Backend Engineer - Memberships | Berlin, Germany | Not specified | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/positions/6744192) |
@@ -300,6 +301,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Mon Aug  4 13:00:43 UTC 2025
+Last updated: Tue Aug  5 13:01:02 UTC 2025
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
