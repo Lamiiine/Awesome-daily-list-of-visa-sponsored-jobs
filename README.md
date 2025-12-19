@@ -301,6 +301,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Thu Dec 18 12:59:51 UTC 2025
+Last updated: Fri Dec 19 12:55:50 UTC 2025
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
