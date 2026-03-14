@@ -12,76 +12,56 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
-| Stripe | Backend Engineer, Core Technology | Dublin, Ireland | March 11, 2026 | 🇮🇪 | [Apply](https://stripe.com/jobs/search?query=backend+engineer) |
-| Stripe | Backend / API Engineer, Payouts | London, United Kingdom | March 11, 2026 | 🇬🇧 | [Apply](https://stripe.com/jobs/search?query=backend+engineer) |
-| Ashby | Senior Software Engineer, Product Engineering, EU | Remote, Europe | March 11, 2026 | 🇪🇺 | [Apply](https://www.ashbyhq.com/careers) |
-| Ashby | Staff Platform Engineer, EU | Remote, Europe | March 11, 2026 | 🇪🇺 | [Apply](https://www.ashbyhq.com/careers) |
-| Snyk | Senior Software Engineer | London, United Kingdom | March 11, 2026 | 🇬🇧 | [Apply](https://snyk.io/careers/engineering/) |
-| Elastic | Senior Software Engineer, Detections and Response | Remote, Spain | March 11, 2026 | 🇪🇸 | [Apply](https://jobs.elastic.co/jobs/engineering) |
-| Elastic | Senior Software Engineer, Generative AI | Remote, Spain | March 11, 2026 | 🇪🇸 | [Apply](https://jobs.elastic.co/jobs/engineering) |
-| TravelPerk | Senior Software Engineer | Barcelona, Spain | March 11, 2026 | 🇪🇸 | [Apply](https://www.travelperk.com/careers/) |
-| Bondaval | Full Stack Engineer | London, United Kingdom | March 11, 2026 | 🇬🇧 | [Apply](https://www.bondaval.com/careers) |
-| MessageBird | Senior Software Engineer (Go) | Amsterdam, Netherlands | March 11, 2026 | 🇳🇱 | [Apply](https://www.messagebird.com/careers) |
-| Spiich Labs | Founding Fullstack Engineer | Stockholm, Sweden | March 11, 2026 | 🇸🇪 | [Apply](https://spiich.ai) |
-| Revolut | Software Engineer (Java) - Credit | Barcelona, Spain | March 10, 2026 | 🇪🇸 | [Apply](https://www.revolut.com/careers/engineering/) |
-| Revolut | Senior Software Engineer (DevOps) - Observability Platform | Krakow, Poland | March 10, 2026 | 🇵🇱 | [Apply](https://www.revolut.com/careers/engineering/) |
-| Revolut | Rev-celerator Graduate Programme 2026: iOS Software Engineer | London, United Kingdom | March 10, 2026 | 🇬🇧 | [Apply](https://www.revolut.com/en-US/graduate-programme/) |
-| NavVis | Lead Software Engineer - Developer Experience (F/M/D) | Munich, Germany | March 9, 2026 | 🇩🇪 | [Apply](https://www.navvis.com/company/careers) |
-| NavVis | Senior Software Engineer - C++ and Python (F/M/D) | Munich, Germany | March 9, 2026 | 🇩🇪 | [Apply](https://www.navvis.com/company/careers) |
-| Pleo | Senior Fullstack Engineer | Copenhagen, Denmark | March 9, 2026 | 🇩🇰 | [Apply](https://www.pleo.io/en/careers/jobs) |
-| Pleo | Software Engineer - Authentication and Authorization | Copenhagen, Denmark | March 8, 2026 | 🇩🇰 | [Apply](https://www.pleo.io/en/careers/jobs/6335256003) |
-| ABOUT YOU | Senior Backend Engineer (m/w/d) - Fulfillment Services | Hamburg, Germany | March 10, 2026 | 🇩🇪 | [Apply](https://corporate.aboutyou.de/en/career) |
-| ABOUT YOU | Senior Backend Node.js Engineer (m/f/d) - Search Engine | Hamburg, Germany | March 10, 2026 | 🇩🇪 | [Apply](https://corporate.aboutyou.de/en/career) |
-| Swisscom | Senior Big Data & Machine Learning Engineer | Rotterdam, Netherlands | March 8, 2026 | 🇳🇱 | [Apply](https://swisscom.recruitee.com/) |
-| Swisscom | Software Engineer (Java/Spring Boot) | Rotterdam, Netherlands | March 8, 2026 | 🇳🇱 | [Apply](https://swisscom.recruitee.com/) |
-| SoundCloud | Backend Engineer, Anti-Abuse | Berlin, Germany | March 7, 2026 | 🇩🇪 | [Apply](https://soundcloud.com/jobs) |
-| SoundCloud | Senior Media Streaming Backend Engineer | Berlin, Germany | March 7, 2026 | 🇩🇪 | [Apply](https://soundcloud.com/jobs) |
+| Stripe | Backend Engineer, Core Technology | Dublin, Ireland | March 11, 2026 | 🇮🇪 | [Apply](https://stripe.com/jobs/listing/backend-engineer-core-technology/6623777) |
+| Stripe | Backend / API Engineer, Payouts | London, United Kingdom | March 11, 2026 | 🇬🇧 | [Apply](https://stripe.com/jobs/listing/backend-api-engineer-payouts/7369543) |
+| Ashby | Senior Software Engineer, Product Engineering, EU | Remote, Europe | March 11, 2026 | 🇪🇺 | [Apply](https://jobs.ashbyhq.com/ashby/3b9b0141-86e7-46b2-b6b4-ed039b84cdc4) |
+| Ashby | Staff Platform Engineer, EU | Remote, Europe | March 11, 2026 | 🇪🇺 | [Apply](https://jobs.ashbyhq.com/ashby/fa001346-ea81-41b2-bfbe-2271d3faac1a) |
+| Elastic | Senior Software Engineer, Detections and Response | Remote, Spain | March 11, 2026 | 🇪🇸 | [Apply](https://jobs.elastic.co/jobs/engineering/spain/senior-software-engineer-detections-and-response-team/6698060) |
+| Elastic | Senior Software Engineer, Generative AI | Remote, Spain | March 11, 2026 | 🇪🇸 | [Apply](https://jobs.elastic.co/jobs/engineering/spain/security-analyst-experience-senior-software-engineer-generative-ai/6372233) |
+| TravelPerk | Senior Software Engineer | Barcelona, Spain | March 11, 2026 | 🇪🇸 | [Apply](https://jobs.ashbyhq.com/Perk/a2ca9eea-7169-428a-9efb-0c5ac9cd732d) |
+| Bondaval | Full Stack Engineer | London, United Kingdom | March 11, 2026 | 🇬🇧 | [Apply](https://jobs.dawncapital.com/companies/bondaval/jobs/64706017-full-stack-engineer) |
+| NavVis | Lead Software Engineer - Developer Experience (F/M/D) | Munich, Germany | March 9, 2026 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/navvis/jobs/4700625101) |
+| Pleo | Senior Fullstack Engineer | Copenhagen, Denmark | March 9, 2026 | 🇩🇰 | [Apply](https://job-boards.greenhouse.io/pleo/jobs/7538792003) |
+| Swisscom | Senior Big Data & Machine Learning Engineer | Rotterdam, Netherlands | March 8, 2026 | 🇳🇱 | [Apply](https://sdcrotterdam.swisscom.ch/o/senior-software-engineer) |
+| Swisscom | Software Engineer (Java/Spring Boot) | Rotterdam, Netherlands | March 8, 2026 | 🇳🇱 | [Apply](https://sdcrotterdam.swisscom.ch/o/devops-engineer-java-3) |
 | Miro | Graduate Software Engineer | Berlin, Germany | March 9, 2026 | 🇩🇪 | [Apply](https://miro.com/careers/vacancy/8395758002/) |
-| Miro | Senior Frontend Engineer - Smart Canvas Usability | Berlin, Germany | March 9, 2026 | 🇩🇪 | [Apply](https://miro.com/careers/) |
-| Cloudflare | Software Engineer, All Levels | London, United Kingdom | March 8, 2026 | 🇬🇧 | [Apply](https://www.cloudflare.com/careers/jobs/) |
-| Cloudflare | Senior Software Engineer - Distributed Systems | Lisbon, Portugal | March 8, 2026 | 🇵🇹 | [Apply](https://www.cloudflare.com/careers/jobs/) |
+| Cloudflare | Software Engineer, All Levels | London, United Kingdom | March 8, 2026 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/cloudflare/jobs/5934960) |
+| Cloudflare | Senior Software Engineer - Distributed Systems | Lisbon, Portugal | March 8, 2026 | 🇵🇹 | [Apply](https://job-boards.greenhouse.io/cloudflare/jobs/7294535) |
 | Databricks | Software Engineer - New Grad (2026 Start) | Amsterdam, Netherlands | March 7, 2026 | 🇳🇱 | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6866549002) |
-| N26 | Senior Full Stack Engineer | Berlin, Germany | March 10, 2026 | 🇩🇪 | [Apply](https://n26.com/en-eu/careers) |
+| N26 | Senior Full Stack Engineer | Berlin, Germany | March 10, 2026 | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/positions/7577884) |
 | N26 | Senior Product Manager - Payments Platform | Barcelona, Spain | March 10, 2026 | 🇪🇸 | [Apply](https://n26.com/en-eu/careers/positions/7140089) |
-| Payhawk | Software Engineer | Berlin, Germany | March 7, 2026 | 🇩🇪 | [Apply](https://payhawk.com/careers) |
 | awork | Senior Software Engineer - Frontend | Hamburg, Germany | March 7, 2026 | 🇩🇪 | [Apply](https://www.awork.com/jobs/senior-software-engineer-frontend) |
-| Productboard | Staff Engineer (IC4) - AI-First Platform | Prague, Czech Republic | March 7, 2026 | 🇨🇿 | [Apply](https://www.productboard.com/careers/) |
-| Zalando | Junior Frontend Software Engineer (all genders) | Berlin, Germany | February 28, 2026 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/) |
-| Zalando | Senior Machine Learning Engineer (all genders) | Berlin, Germany | February 25, 2026 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/) |
+| Productboard | Staff Engineer (IC4) - AI-First Platform | Prague, Czech Republic | March 7, 2026 | 🇨🇿 | [Apply](https://www.productboard.com/careers/open-positions/staff-senior-product-engineer-agentic-foundations/8080046002/) |
+| Zalando | Junior Frontend Software Engineer (all genders) | Berlin, Germany | February 28, 2026 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/2722824-Junior-Frontend-Software-Engineer) |
+| Zalando | Senior Machine Learning Engineer (all genders) | Berlin, Germany | February 25, 2026 | 🇩🇪 | [Apply](https://jobs.zalando.com/de/jobs/2723350-Senior-Machine-Learning-Engineer) |
 | Delivery Hero | Senior Software Engineer - Vendor Growth (all genders) | Berlin, Germany | March 4, 2026 | 🇩🇪 | [Apply](https://careers.deliveryhero.com/job/senior-software-engineer-vendor-growth-all-genders-in-berlin-germany-jid-1845) |
 | Delivery Hero | Engineer I, Android (2026 Tech Grad Program) | Berlin, Germany | March 1, 2026 | 🇩🇪 | [Apply](https://careers.deliveryhero.com/job/engineer-l-android-2026-tech-grad-program-in-berlin-germany-jid-8007) |
 | HelloFresh | Senior Data Scientist (all genders) | Berlin, Germany | February 26, 2026 | 🇩🇪 | [Apply](https://careers.hellofresh.com/global/en/germany) |
-| Grammarly | Full-Stack Software Engineer | Berlin, Germany | February 20, 2026 | 🇩🇪 | [Apply](https://www.grammarly.com/jobs/engineering) |
-| Personio | Senior Backend Engineer (m/f/d) | Munich, Germany | March 3, 2026 | 🇩🇪 | [Apply](https://www.personio.com/about-personio/careers/) |
-| Personio | Staff Frontend Engineer (m/f/d) | Munich, Germany | February 28, 2026 | 🇩🇪 | [Apply](https://www.personio.com/about-personio/careers/) |
+| Grammarly | Full-Stack Software Engineer | Berlin, Germany | February 20, 2026 | 🇩🇪 | [Apply](https://www.grammarly.com/careers/jobs/engineering/software-engineer-full-stack?gh_jid=7641282) |
+| Personio | Senior Backend Engineer (m/f/d) | Munich, Germany | March 3, 2026 | 🇩🇪 | [Apply](https://www.personio.com/careers/software-engineer-l5-time-money-525e5e22fc17/) |
+| Personio | Staff Frontend Engineer (m/f/d) | Munich, Germany | February 28, 2026 | 🇩🇪 | [Apply](https://www.personio.com/careers/lead-frontend-engineer-dfm-8d68d1f44bd6/) |
 | SAP | Senior Cloud Engineer - BTP | Walldorf, Germany | March 6, 2026 | 🇩🇪 | [Apply](https://jobs.sap.com/search/?q=cloud+engineer&locationsearch=Germany) |
 | SAP | Full-Stack Developer - AI & Machine Learning | Berlin, Germany | March 4, 2026 | 🇩🇪 | [Apply](https://jobs.sap.com/search/?q=software+engineer&locationsearch=Berlin) |
-| Siemens | Software Engineer - Industrial IoT | Munich, Germany | March 5, 2026 | 🇩🇪 | [Apply](https://jobs.siemens.com/careers?query=software%20engineer&location=Munich) |
 | BMW Group | Software Developer - Autonomous Driving | Munich, Germany | March 2, 2026 | 🇩🇪 | [Apply](https://www.bmwgroup.jobs/de/en.html) |
-| Contentful | Senior Software Engineer - Platform | Berlin, Germany | February 18, 2026 | 🇩🇪 | [Apply](https://www.contentful.com/careers/) |
+| Contentful | Senior Software Engineer - Platform | Berlin, Germany | February 18, 2026 | 🇩🇪 | [Apply](https://www.contentful.com/careers/job/7604037/) |
 | Adyen | Data Platform Engineer | Amsterdam, Netherlands | March 5, 2026 | 🇳🇱 | [Apply](https://careers.adyen.com/vacancies/7068990-data-engineer) |
 | Adyen | Machine Learning Engineer | Amsterdam, Netherlands | March 3, 2026 | 🇳🇱 | [Apply](https://careers.adyen.com/vacancies/) |
 | Adyen | Senior Data Platform Engineer | Amsterdam, Netherlands | February 28, 2026 | 🇳🇱 | [Apply](https://careers.adyen.com/vacancies/7440112-senior-data-platform-engineer) |
 | Mollie | Full Stack Engineer (WordPress) | Amsterdam, Netherlands | February 22, 2026 | 🇳🇱 | [Apply](https://jobs.mollie.com/locations/amsterdam) |
-| Booking.com | Senior Backend Developer | Amsterdam, Netherlands | March 6, 2026 | 🇳🇱 | [Apply](https://jobs.booking.com/) |
-| Booking.com | Machine Learning Scientist | Amsterdam, Netherlands | March 1, 2026 | 🇳🇱 | [Apply](https://jobs.booking.com/) |
-| Form3 | Senior Software Engineer (Go) - UK/EU Sponsorship | London, United Kingdom | March 7, 2026 | 🇬🇧 | [Apply](https://www.form3.tech/careers) |
-| Spotify | Backend Engineer - Subscriptions | London, United Kingdom | March 5, 2026 | 🇬🇧 | [Apply](https://www.lifeatspotify.com/jobs) |
-| Spotify | Backend Engineer - Core Infrastructure | London, United Kingdom | March 2, 2026 | 🇬🇧 | [Apply](https://www.lifeatspotify.com/jobs) |
-| Spotify | Backend Engineer - Learning Infrastructure | Stockholm, Sweden | March 4, 2026 | 🇸🇪 | [Apply](https://www.lifeatspotify.com/jobs) |
-| Klarna | Senior Software Engineer - Payments | Stockholm, Sweden | March 3, 2026 | 🇸🇪 | [Apply](https://www.klarna.com/careers/) |
-| Infineon Technologies | Senior Design Engineer - Power Electronics | Cork, Ireland | March 7, 2026 | 🇮🇪 | [Apply](https://www.infineon.com/cms/en/careers/) |
-| Infineon Technologies | Embedded Systems Engineer - Automotive | Cork, Ireland | March 7, 2026 | 🇮🇪 | [Apply](https://www.infineon.com/cms/en/careers/) |
-| Infineon Technologies | Verification Engineer - Chip Design | Cork, Ireland | March 6, 2026 | 🇮🇪 | [Apply](https://www.infineon.com/cms/en/careers/) |
+| Booking.com | Senior Backend Developer | Amsterdam, Netherlands | March 6, 2026 | 🇳🇱 | [Apply](https://jobs.booking.com/booking/jobs/27853?lang=en-us) |
+| Booking.com | Machine Learning Scientist | Amsterdam, Netherlands | March 1, 2026 | 🇳🇱 | [Apply](https://jobs.booking.com/booking/jobs/28205?lang=en-us) |
+| Form3 | Senior Software Engineer (Go) - UK/EU Sponsorship | London, United Kingdom | March 7, 2026 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/form3/jobs/6212418002) |
+| Spotify | Backend Engineer - Subscriptions | London, United Kingdom | March 5, 2026 | 🇬🇧 | [Apply](https://www.lifeatspotify.com/jobs/backend-engineer-subscriptions) |
+| Spotify | Backend Engineer - Core Infrastructure | London, United Kingdom | March 2, 2026 | 🇬🇧 | [Apply](https://www.lifeatspotify.com/jobs/backend-engineer-core-infrastructure) |
+| Spotify | Backend Engineer - Learning Infrastructure | Stockholm, Sweden | March 4, 2026 | 🇸🇪 | [Apply](https://www.lifeatspotify.com/jobs/backend-engineer-learning-infrastructure) |
+| Infineon Technologies | Verification Engineer - Chip Design | Cork, Ireland | March 6, 2026 | 🇮🇪 | [Apply](https://jobs.infineon.com/careers/job/563808961484399-senior-verification-engineer-munich-germany-) |
 | Datadog | Senior Software Engineer - Observability/SRE | Paris, France | March 6, 2026 | 🇫🇷 | [Apply](https://careers.datadoghq.com/detail/7588866/?gh_jid=7588866) |
 | Wise | Senior Software Engineer I - Europe Money Movement | Tallinn, Estonia | March 5, 2026 | 🇪🇪 | [Apply](https://wise.jobs/job/senior-software-engineer-i-europe-money-movement-in-tallinn-jid-2753) |
 | Wise | Software Engineer - Treasury Money Movements | Tallinn, Estonia | February 28, 2026 | 🇪🇪 | [Apply](https://wise.jobs/job/software-engineer-treasury-money-movements-in-tallinn-jid-2570) |
 | Bolt | Senior Backend Engineer | Tallinn, Estonia | March 6, 2026 | 🇪🇪 | [Apply](https://bolt.eu/en/careers/positions/6832106002/) |
-| Bolt | Senior Frontend Engineer | Tallinn, Estonia | March 1, 2026 | 🇪🇪 | [Apply](https://bolt.eu/en/careers/teams/engineering/) |
-| Wolt | Senior Software Engineer - Kotlin | Tallinn, Estonia | February 25, 2026 | 🇪🇪 | [Apply](https://careers.wolt.com/) |
+| Wolt | Senior Software Engineer - Kotlin | Tallinn, Estonia | February 25, 2026 | 🇪🇪 | [Apply](https://careers.wolt.com/en/jobs/3092045) |
 | Mollie | Full Stack Engineer (Relocation within EU) | Lisbon, Portugal | February 20, 2026 | 🇵🇹 | [Apply](https://jobs.mollie.com/locations/) |
 | K-tronik GmbH | Development Engineer (m/f/d) Aerospace Electronics | Lindau, Germany | August 4, 2025 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6896/development-engineer-m-f-d-aerospace-electronics) |
-| Mistral AI | AI Solution Architect, Deployment - France 🇫🇷, UK, USA 🇺🇸 | Paris 🇫🇷 / London 🇬🇧 / Palo | March 22, 2025 | Alto | [Apply](https://jobs.lever.co/mistral/df3d4b5c-4910-42c8-8fe8-5fd114b2961a) |
 | Mistral AI | Research Engineer - Paris/London | Paris 🇫🇷 / London | March 22, 2025 | 🇬🇧 | [Apply](https://jobs.lever.co/mistral/07447e1d-7900-46d4-b61b-186f2f76847f) |
 | Mistral AI | AI Scientist - Paris/London | Paris 🇫🇷 / London | March 22, 2025 | 🇬🇧 | [Apply](https://jobs.lever.co/mistral/675b7f06-a76b-4144-af0c-4dd3282ef489) |
 | Mistral AI | Technical Program Manager, Engineering - Paris | Paris, France | March 22, 2025 | 🇫🇷 | [Apply](https://jobs.lever.co/mistral/a1854159-922e-4de7-adb6-7c1b608c147f) |
@@ -132,28 +112,13 @@ We encourage the community to engage, share, and support each other in the job s
 | justDice | UI/UX Designer (f/m/d) | Hamburg, Germany | December 26, 2024 | 🇩🇪 | [Apply](https://justdice.io/jobs/?j_id=61a988f6-6a3f-4783-afc4-f2b3bbee384c) |
 | Freeletics | DevOps Engineer | Munich, Germany | December 26, 2024 | 🇩🇪 | [Apply](https://www.freeletics.com/en/corporate/jobs/7712b949-b03b-456f-b025-f7c262608082/) |
 | Applike Group GmbH | Senior Agile Coach (f/m/d) | Hamburg, Germany | December 26, 2024 | 🇩🇪 | [Apply](https://join.com/companies/applike-group/13189902-senior-agile-coach-f-m-d) |
-| Shiftmove | Senior Software Engineer - Backend (Java) (f/m/x) | Berlin, Germany | December 26, 2024 | 🇩🇪 | [Apply](https://www.shiftmove.com/careers/job-opening?id=3f763e48-0809-4037-9c0f-1ab9551f6093) |
 | justDice | Tech Lead – Backend Services (Go) (f/m/d) | Hamburg, Germany | December 26, 2024 | 🇩🇪 | [Apply](https://justdice.io/jobs/?j_id=341d7353-3e3a-4e85-8911-43bcbfa6ac42) |
-| DOXA PARTNERS | ​Investment Analyst | Nex Castle, United Kingdom | December 21, 2024 | 🇬🇧 | [Apply](https://www.doxa.partners/doxaregister) |
-| Marsh McLennan | IT Program Manager | Sydney, Australia | December 21, 2024 | 🇦🇺 | [Apply](https://careers.marshmclennan.com/global/en/job/R_286926/IT-Program-Manager) |
 | Kikoff | Data Scientist | San Francisco, USA | December 16, 2024 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/3411be84-b1e5-4702-8ed8-312385f1b7dc) |
-| Sumup | (Senior) Backend Engineer | Berlin, Germany | December 16, 2024 | 🇩🇪 | [Apply](https://www.sumup.com/careers/positions/berlin-germany/engineering/senior-backend-engineer/7687337002/) |
-| Zalando | Junior Business Intelligence Engineer (All Genders) | Berlin, Germany | December 15, 2024 | 🇩🇪 | [Apply](https://jobs.zalando.com/en/jobs/2716140-Junior-Business-Intelligence-Engineer-(All-Genders) |
-| Shield AI | Mechanical Design Engineer II (R3051) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/9913cc87-5734-4aae-901b-1f7e19cdd803) |
-| Shield AI | Software Engineer, Embedded Firmware (R2524) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/471e9ee3-61bf-4cc4-8430-0e02b57805a8) |
-| Shield AI | Electrical Engineer | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/332af47f-4ec4-4e70-a1dd-4f7b323983cb) |
-| Shield AI | Senior Staff RF Engineer (R2319) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/b1737a8d-c564-4489-b6a4-4e6ecb42e292) |
-| Shield AI | Sr. RF Engineer (R2319) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/3860d2b9-4619-4350-9c7c-0918ef988db0) |
-| Shield AI | Staff Electrical Engineer, EMI (R2319) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/1db0ce2d-42f0-4be6-aa43-4753c1f4e011) |
-| Shield AI | Staff Electrical CAD Engineer (R3076) | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/d15e6ed4-97b2-4dab-90bb-9d26aaa86bdd/) |
 | Health Match BC | Family Practitioner/General Practitioner | British Columbia, Canada | December 15, 2024 | 🇨🇦 | [Apply](https://applicants.healthmatchbc.org/JobsBoard/HMBC/HMBCVacancies.aspx?VacancyId=53919) |
 | Bank of Canada | Senior Cyber Security Specialist | Ottawa, Canada | December 15, 2024 | 🇨🇦 | [Apply](https://careers.bankofcanada.ca/job/Ottawa-%28Downtown%29-Senior-Cyber-Security-Specialist-ON/587635117/) |
 | TELUS Digital | Wellness Coach | Dublin, Ireland | December 15, 2024 | 🇮🇪 | [Apply](https://www.linkedin.com/jobs/view/4101310324) |
 | Multiverse Computing | Business Development Manager | SAN SEBASTIAN, Spain | December 15, 2024 | 🇪🇸 | [Apply](https://multiversecomputing.teamtailor.com/jobs/5067680-business-development-manager) |
-| Shield AI | Senior Staff Electrical Engineer | San Diego, USA | December 15, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/e672bf76-f8f5-4139-95db-6c3d1b0e1d3c) |
-| HomeToGo | Junior PHP Back-End Engineer (Tech Services) - Smoobu (m/f/d) | Berlin, Germany | December 12, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/hometogo/jobs/4474966101) |
 | Universal Quantum | Software Engineer/Architect | Haywards Heath, United Kingdom | December 12, 2024 | 🇬🇧 | [Apply](https://www.linkedin.com/jobs/view/4097081108) |
-| Jaywalker | Software Engineer | Luzern, Switzerland | December 10, 2024 | 🇨🇭 | [Apply](https://jaywalker.ch/jobs/software-engineer/) |
 | dashlane | Senior Product Manager - Integrations | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6306706) |
 | dashlane | Senior Software Engineer - Backend | Porto, Portugal | December 9, 2024 | 🇵🇹 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6128496) |
 | dashlane | Senior Software Engineer - Web | Porto, Portugal | December 9, 2024 | 🇵🇹 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6238136) |
@@ -162,7 +127,6 @@ We encourage the community to engage, share, and support each other in the job s
 | dashlane | Senior Software Engineer - Web | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6300104) |
 | dashlane | Senior Software Engineer - Backend | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6440080) |
 | dashlane | Engineering Manager - Core Features | Paris, France | December 9, 2024 | 🇫🇷 | [Apply](https://job-boards.greenhouse.io/dashlane/jobs/6097098) |
-| Mara Talent | Senior Recruitment Consultant​/Relocate to America | New York, USA | December 8, 2024 | 🇺🇸 | [Apply](https://www.learn4good.com/jobs/nottingham/uk/hr_and_recruitment/3791554722/e/) |
 | HealthcareLink | Community-Based Occupational Therapist | Adelaide, Australia | December 8, 2024 | 🇦🇺 | [Apply](https://www.workforceaustralia.gov.au/individuals/jobs/details/2335992859) |
 | adjoe | iOS Developer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=8a9c2e39-a9e3-4fe9-9e66-a602967251ec) |
 | adjoe | DevOps Engineer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=a29fdac9-036f-4f2a-ba79-155d8f32733c) |
@@ -176,23 +140,13 @@ We encourage the community to engage, share, and support each other in the job s
 | adjoe | Mobile Developer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=9d5179c1-d0b3-4792-b16a-23ada715ad1b) |
 | adjoe | Senior DevOps Engineer (f/m/d) | Hamburg, Germany | December 8, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=c5545e7e-2387-4aff-a4cf-a071f94fca70) |
 | Kikoff | Software Engineer - Mobile | San Francisco, USA | December 1, 2024 | 🇺🇸 | [Apply](https://jobs.ashbyhq.com/kikoff/5174cf92-0ef6-47c4-9414-afa2d26dfc4b?utm_source=9nPK5GeBwg) |
-| My Australian Career | Head of Junior School (Years K-4) | SYDNEY, Australia | December 1, 2024 | 🇦🇺 | [Apply](https://www.seek.com.au/job/80288209) |
-| Cloud BC Labs | Sr Data Engineer | Columbus, USA | December 1, 2024 | 🇺🇸 | [Apply](https://www.ziprecruiter.com/c/Cloud-BC-Labs/Job/Sr-Data-Engineer/-in-Columbus,OH?closed_job_redirect=1&jid=789eb0e3292d9eb2) |
 | EY | Data Analytics & AI - Manager - Data Governance | Dublin, Ireland | November 30, 2024 | 🇮🇪 | [Apply](https://careers.ey.com/ey/job/Dublin-2-Data-Analytics-&-AI-Manager-Data-Governance/1145888801/?feedId=338701&utm_source=Indeed&utm_campaign=EY_indeed) |
 | Whatu Ora | Clinical Specialist - MRI Medical Radiation Technologist | Auckland, New Zealnd | November 30, 2024 | 🇳🇿 | [Apply](https://careers.adhb.govt.nz/health-careers-job-search/details/ADHB21987?src=JB-14180) |
 | Birch | Senior Data Scientist | remote, Germany | November 24, 2024 | 🇩🇪 | [Apply](https://apply.workable.com/birch/j/1040EAB8B6/) |
-| Container xChange | Backend Engineer (f/m/d) | Hamburg, Germany | November 24, 2024 | 🇩🇪 | [Apply](https://xchange.recruitee.com/o/backend-engineer-fmd-2) |
-| Container xChange | (Junior) Frontend Engineer (m/f/d) | Hamburg, Germany | November 24, 2024 | 🇩🇪 | [Apply](https://xchange.recruitee.com/o/frontend-engineer-f-m-d) |
-| Crytek | Senior UI Programmer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/senior-ui-programmer) |
-| Crytek | Senior Site Reliability Engineer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/senior-site-reliability-engineer) |
-| Crytek | Senior C++ Build Pipeline Programmer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/senior-c-build-pipeline-programmer) |
-| Crytek | Sandbox Lead | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/sandbox-lead) |
-| Crytek | Lead Site Reliability Engineer | Frankfurt, Germany | November 19, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/programming-engineering/lead-site-reliability-engineer) |
 | Anthropic | Research Engineer, Horizons | London, United Kingdom | November 17, 2024 | 🇬🇧 | [Apply](https://boards.greenhouse.io/anthropic/jobs/4138859008) |
 | Anthropic | Data Science and Analytics, Go to Market | San Francisco, USA | November 17, 2024 | 🇺🇸 | [Apply](https://boards.greenhouse.io/anthropic/jobs/4136408008) |
 | Anthropic | Engineering Manager, API Experience | San Francisco, USA | November 17, 2024 | 🇺🇸 | [Apply](https://boards.greenhouse.io/anthropic/jobs/4107555008) |
 | Capua | Graduate Program | London, United Kingdom | November 17, 2024 | 🇬🇧 | [Apply](https://tally.so/r/nrPk5l) |
-| Tror | Big Data Engineer | Dallas, USA | November 17, 2024 | 🇺🇸 | [Apply](https://www.dice.com/job-detail/4bba6f5c-2bde-4f8b-955c-e3d4401848bc) |
 | K-tronik GmbH | System Engineer (m/f/x) Aerospace | Überlingen, Germany | October 31, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6517/system-engineer-m-f-x-aerospace) |
 | Greenlyte Carbon Technologies | Senior Hardware Engineer (f/m/x) | Essen, Germany | October 31, 2024 | 🇩🇪 | [Apply](https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/job/1434412?language=en&display=en) |
 | Greenlyte Carbon Technologies | Junior Hardware Engineer (f/m/x) | Essen, Germany | October 31, 2024 | 🇩🇪 | [Apply](https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/job/1702714?language=en&display=en) |
@@ -202,22 +156,15 @@ We encourage the community to engage, share, and support each other in the job s
 | Keywords Studios | Lead Environment Artist- UK | Liverpool, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/keywords-intl1/j/2ABB7D35B3/) |
 | noon | Senior Software Engineer | London, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://careers.learnatnoon.com/jobs/3180190-senior-software-engineer) |
 | noon | Principal Frontend Engineer (React/React Native) | London, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://careers.learnatnoon.com/jobs/4569764-principal-frontend-engineer-react-react-native) |
-| vets4pets | Veterinary Surgeon | Oxford, United Kingdom | October 19, 2024 | 🇬🇧 | [Apply](https://www.vets4petscareers.com/job-vacancies/28931-veterinary-surgeon/) |
 | Lithe Consulting Ltd | .NET Developer | Macclesfield, United Kingdom | September 28, 2024 | 🇬🇧 | [Apply](https://thinklithe.zohorecruit.eu/jobs/Careers/59632000003205045/NET-Developer) |
 | Lithe Consulting Ltd | Java Developer | Macclesfield, United Kingdom | September 28, 2024 | 🇬🇧 | [Apply](https://thinklithe.zohorecruit.eu/jobs/Careers/59632000003205025/Java-Developer) |
 | Oxa | Sensor Engineer | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/2A1D910781/) |
 | Oxa | Solutions Engineer | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/B37E7E1F39/) |
 | Oxa | C++ Software Engineer (Safety Path) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/D93ADC2D59/) |
-| Frontier | Experienced Technical Animator | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/156d43b0-addd-42aa-99b8-a573f80e5d1c) |
 | Oxa | Senior Data Engineer (Reasoning ML) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/6088616347/) |
 | Oxa | Senior Engineer (Controls and Vehicle Integration) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/61E2B1490F/) |
 | Oxa | Senior Software Engineer (Trajectory Planning) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/7246E60252/) |
 | Oxa | Senior Software Engineer (Safety Path) | Oxford, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://apply.workable.com/oxa/j/F019E4C1E4/) |
-| Frontier | Senior Game Designer | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/28f2b4aa-1b66-4224-92b6-6bd6f14eb9c6) |
-| Frontier | Procurement Manager | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/5e9bede6-3f9a-4acc-a800-6dc1b5bdd566) |
-| Frontier | Materials Artists | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/b3c195f4-8008-46d8-95ad-65fcb5c10f0e) |
-| Frontier | Experienced Character Artist | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/bfec2270-d2e0-4d38-8f14-44089606189c) |
-| Frontier | Principal Technical Animator | Cambridge, United Kingdom | September 12, 2024 | 🇬🇧 | [Apply](https://jobs.eu.lever.co/frontier/73844deb-8bad-43fa-bec6-69f946f383ef) |
 | raisin | (Junior) Product Manager (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1646080?language=de&display=en) |
 | raisin | Backend Software Engineer (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/905677?language=de&display=en) |
 | raisin | Senior Backend Software Engineer (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1223287?language=de&display=en) |
@@ -226,10 +173,6 @@ We encourage the community to engage, share, and support each other in the job s
 | raisin | Engineering Lead – Mobile (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1500767?language=de&display=en) |
 | raisin | (Senior) Platform Engineer (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1500800?language=de&display=en) |
 | raisin | (Senior) Frontend Engineer (m/f/d) | Berlin, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1593785?language=de&display=en) |
-| FINN | Senior Marketing Data Analyst | Munich, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/finn/6bb5bf41-378c-42d5-9e37-8e987d4a265e) |
-| FINN | (Senior) Product Manager in Growth / SaaS | Munich, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/finn/b487b647-4640-4808-82bd-c491f4cd8340) |
-| FINN | (Senior) Product Manager in Growth / E-Commerce | Munich, Germany | September 8, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/finn/936329ea-4eee-41a9-9818-4d0a949c0d3d) |
-| FINN | Junior Backend Engineer (NodeJS/Typescript) | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/finn/4c53cdf2-5f41-4402-b14d-2abd4f025e7f) |
 | Celus | Software Engineer - Algorithm Optimization | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1687548?language=en&display=en) |
 | Celus | Product Manager (Machine Learning) | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1607371?language=en&display=en) |
 | Celus | Python API Developer | Munich, Germany | September 1, 2024 | 🇩🇪 | [Apply](https://celus.jobs.personio.de/job/1659103?language=en&display=en) |
@@ -253,13 +196,6 @@ We encourage the community to engage, share, and support each other in the job s
 | enmacc | Product Marketing Manager (m/f/d) | Munich, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://job-boards.eu.greenhouse.io/enmacc/jobs/4332828101) |
 | justDice | Senior BI Analyst (f/m/d) | Hamburg, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://justdice.io/jobs/?j_id=05ceb489-50c0-4b0b-b700-3d4394303321) |
 | justDice | Tech Lead – Devops and Backend Services (f/m/d) | Hamburg, Germany | August 16, 2024 | 🇩🇪 | [Apply](https://justdice.io/jobs/?j_id=341d7353-3e3a-4e85-8911-43bcbfa6ac42) |
-| Picnic Technologies | Junior Java Developer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/Jrnacorr/technology_engineering/junior-java-developer/amsterdam/north/holland/netherlands) |
-| Picnic Technologies | Network Engineer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JAJSIGXV/technology_engineering/network-engineer/amsterdam/north/holland/netherlands) |
-| Picnic Technologies | Java Developer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JY064KFR/technology_engineering/java-developer/amsterdam/north/holland/netherlands) |
-| Picnic Technologies | Machine Learning Engineer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JTKEGV2W/technology_engineering/machine-learning-engineer/amsterdam/north/holland/netherlands) |
-| Picnic Technologies | Senior Machine Learning Engineer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JTAF4DWR/technology_engineering/senior-machine-learning-engineer/amsterdam/north/holland/netherlands) |
-| Picnic Technologies | Senior Java Developer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/JYMPNN6M/technology_engineering/senior-java-developer/amsterdam/north/holland/netherlands) |
-| Picnic Technologies | Senior DevOps Engineer | Amsterdam, Netherlands | August 12, 2024 | 🇳🇱 | [Apply](https://jobs.picnic.app/en/vacancies/J79HBUUG/technology_engineering/senior-devops-engineer/amsterdam/north/holland/netherlands) |
 | Statista | Quality Assurance Engineer (m/f/d) | Hamburg, Germany | August 11, 2024 | 🇩🇪 | [Apply](https://statista.jobs.personio.de/job/1668855?language=de&display=en) |
 | Statista | Fullstack Software Engineer – OpenSearch (m/f/d) | Hamburg, Germany | August 11, 2024 | 🇩🇪 | [Apply](https://statista.jobs.personio.de/job/1669262?language=de&display=en) |
 | Statista | Business Development Manager - Global Hospital Ratings | Hamburg, Germany | August 11, 2024 | 🇩🇪 | [Apply](https://statista.jobs.personio.de/job/1583142?language=de&display=en) |
@@ -277,11 +213,6 @@ We encourage the community to engage, share, and support each other in the job s
 | K-tronik GmbH | Project Manager (m/f/x) Aerospace | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6600/project-manager-m-f-x-aerospace) |
 | K-tronik GmbH | Test Engineer - Propulsion (f/m/d)  | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6642/test-engineer-propulsion-f-m-d) |
 | K-tronik GmbH | Test Automation Engineer (m/f/d)  | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6660/test-automation-engineer-m-f-d-naval-it-systems) |
-| Kaufland.de | (Junior) PHP Engineer (all genders) | Köln, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/junior-php-engineer-all-genders/) |
-| Kaufland.de | Security Engineer (all genders) | Köln, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/security-engineer-all-genders/) |
-| Kaufland.de | Software Engineer (all genders) - Site Reliability Engineering | Köln, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/software-engineer-all-genders-site-reliability-engineering/) |
-| Kaufland.de | Senior Frontend Engineer (all genders) | Köln, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/senior-frontend-engineer-all-genders/) |
-| Kaufland.de | Senior Platform Engineer (all genders) - Persist | Köln, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://kaufland-ecommerce.com/en/job/senior-platform-engineer-all-genders-persist/) |
 | Monzo | Android Engineer | London , UK | July 20, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/2578107) |
 | Monzo | Backend Engineer | London , UK | July 20, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5272421) |
 | Kolibri Games | (Senior) Game Designer (f/m/d) | Berlin, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://www.kolibrigames.com/career/position/8ab35ce3-a5f5-4be5-84ab-7adf89e2dc39/) |
@@ -293,12 +224,8 @@ We encourage the community to engage, share, and support each other in the job s
 | Monzo | Senior Decision Scientist | London , UK | June 21, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6053295) |
 | Monzo | Senior iOS Engineer | London , UK | June 21, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/3838039) |
 | Monzo | Director of Engineering, Security | London , UK | June 21, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6049538) |
-| QuantCo | Data Scientist (Causal Inference/Machine Learning) | Berlin, Germany | June 8, 2024 | 🇩🇪 | [Apply](https://jobs.lever.co/quantco-/7cf84f8c-eb21-4af5-97e2-6331b350a40b) |
-| Sendcloud | Senior API Engineer | Eindhoven, Netherlands | June 2, 2024 | 🇳🇱 | [Apply](https://jobs.sendcloud.com/jobs/7469374002?gh_jid=7469374002) |
-| Sendcloud | Lead Engineer (people manager) | Eindhoven, Netherlands | June 2, 2024 | 🇳🇱 | [Apply](https://jobs.sendcloud.com/jobs/6617544002?gh_jid=6617544002) |
 | Multiverse Computing | Data Scientist | SAN SEBASTIAN, Spain | June 2, 2024 | 🇪🇸 | [Apply](https://multiversecomputing.teamtailor.com/jobs/4499908-data-scientist?utm_campaign=jobs-widget&utm_source=multiversecomputing.teamtailor.com&utm_content=jobs&utm_medium=web) |
 | Multiverse Computing | Machine Learning Engineer | SAN SEBASTIAN, Spain | June 2, 2024 | 🇪🇸 | [Apply](https://multiversecomputing.teamtailor.com/jobs/4469972-machine-learning-engineer?utm_campaign=jobs-widget&utm_source=multiversecomputing.teamtailor.com&utm_content=jobs&utm_medium=web) |
-| Catawiki | Senior UX Designer | Amsterdam, Netherlands | June 2, 2024 | 🇳🇱 | [Apply](https://catawiki.careers/vacancies/senior-ux-designer-1069172-5376253) |
 | adjoe | QA Engineer (Anti-Fraud Team) f/m/d | Hamburg, Germany | May 7, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=955cab4d-0422-4762-9073-0cf888c9210d) |
 | adjoe | Business Intelligence Analyst (f/m/d) | Hamburg, Germany | May 7, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=44642da4-2428-4f5d-9fe7-462f5bd572ba) |
 | adjoe | Backend Development Tech Lead (f/m/d) | Hamburg, Germany | May 7, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=a594c0d0-e2b8-47ce-b883-38ec42ea63fb) |
@@ -310,29 +237,17 @@ We encourage the community to engage, share, and support each other in the job s
 | adjoe | Senior Data Engineer (f/m/d) | Hamburg, Germany | May 7, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=c52bb5b5-60d9-4f0f-8a1a-e8654f9e9be2) |
 | adjoe | Senior QA Engineer (Manual Testing) (f/m/d) | Hamburg, Germany | May 7, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=20614756-f7db-479f-9b2b-d689b8ab1cc3) |
 | adjoe | Senior DevOps Engineer (f/m/d) | Hamburg, Germany | May 7, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=b4ec2e96-c3ef-47c7-b53c-79e20321dc4e) |
-| Robust Intelligence | Senior Machine Learning Engineer, AI Security | San Francisco Bay Area, USA | April 27, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/cd0fcaa4-a98c-4b3a-8141-6135c00b2e41) |
-| Robust Intelligence | Senior Software Engineer, Cloud | San Francisco Bay Area, USA | April 27, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/073ea6ee-6c26-425f-aa3e-35ccfcdac655) |
 | adjoe | Senior Data Scientist (Recommendation Systems Expert) (f/m/d) | Hamburg, Germany | May 7, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=df13e38d-9c0e-4f24-b005-a175ab347fa8) |
 | adjoe | Senior Go Backend Developer (Anti-Fraud) (f/m/d) | Hamburg, Germany | May 7, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=f6ad6765-0c06-47d4-8255-6c6c69e61574) |
-| Fishlabs GmbH | QA Tester (Games) (m/f/d) | Hamburg, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://jobs.eu.lever.co/dsfishlabs/736bc4de-e91e-4559-9da9-7107d094d697) |
 | adjoe | Senior Data Scientist (f/m/d) | Hamburg, Germany | May 7, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=19c85586-f71d-4ede-aff4-bd4097628a00) |
-| Fishlabs GmbH | Build Engineer (m/f/d) | Hamburg, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://jobs.eu.lever.co/dsfishlabs/b642228b-d82c-4d35-bd96-6de7c6583b89) |
-| Robust Intelligence | Software Engineering Director | San Francisco Bay Area, USA | April 27, 2024 | 🇺🇸 | [Apply](https://jobs.lever.co/robustintelligence/5de2b666-98f7-4a09-9086-785dbf386912) |
-| Fishlabs GmbH | Senior QA Tester (Games) (m/f/d) | Hamburg, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://jobs.eu.lever.co/dsfishlabs/d2a96b95-bc3a-43b6-94cc-855b4a93a732) |
-| Fishlabs GmbH | (Regular/Senior) UI/UX Designer (m/f/d) | Hamburg, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://jobs.eu.lever.co/dsfishlabs/dfb7d5f1-3006-46ba-b58f-fd493e9e73c8) |
 | K-tronik GmbH | Test Engineer (m/f/x) Battery Systems | Dresden, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6582/test-engineer-m-f-x-battery-systems) |
-| Crytek | QA Tester | Frankfurt, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-onsite-/qa-customer-support/qa-tester) |
-| Crytek | Marketing Lead | Frankfurt, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-remote/marketing-pr-biz-dev/marketing-lead) |
-| Crytek | QA Automation Engineer - Online | Frankfurt, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-onsite-/qa-customer-support/qa-automation-engineer---online) |
 | K-tronik GmbH | Hardware Developer (m/f/x) Aerospace | Dresden, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6581/hardware-developer-m-f-x-aerospace) |
-| Crytek | C++ Buildpipeline Programmer | Frankfurt, Germany | April 27, 2024 | 🇩🇪 | [Apply](https://www.crytek.com/career/offers/overview/frankfurt-onsite-/programming-engineering/c-buildpipeline-programmer) |
 | Monzo | Data Science Manager | London , UK | March 28, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5758065) |
 | Factor Eleven | Senior Backend Engineer - Node.JS | Zagreb, Croatia | March 28, 2024 | 🇭🇷 | [Apply](https://apply.workable.com/factor-eleven/j/F1D53550F9/) |
 | raisin | Data Engineer (m/f/d) | Berlin, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1483265?language=en&display=en) |
 | Factor Eleven | Senior Cloud Engineer | Frankfurt, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://apply.workable.com/factor-eleven/j/13B5290CF0/) |
 | Factor Eleven | Senior Cloud Engineer | Bucharest, Romania | March 28, 2024 | 🇷🇴 | [Apply](https://apply.workable.com/factor-eleven/j/FA160D14E5/) |
 | raisin | Senior Backend Software Engineer (m/f/d) | Berlin, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1223287?language=en&display=en) |
-| qwist | Senior Sales Manager | Frankfurt, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://qwist.jobs.personio.com/job/1452832?language=en%3Flanguage%3D&display=en) |
 | raisin | SOC Analyst (m/f/d) | Berlin, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1357512?language=en&display=en) |
 | Enzo | Mobile App Engineer | Heidelberg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://join.com/companies/heyenzo/10631844-mobile-app-engineer-intern-fte?widgetv2=true&pid=d73d1a20e99ab4ced633) |
 | raisin | Security Operations Center (SOC) Lead (m/f/d) | Berlin, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1357534?language=en&display=en) |
@@ -341,21 +256,16 @@ We encourage the community to engage, share, and support each other in the job s
 | raisin | (Senior) Software Engineer (Frontend) (m/f/d) | Berlin, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/740495?language=en&display=en) |
 | raisin | Engineering Lead – Growth (m/f/d) | Berlin, Germany | March 28, 2024 | 🇩🇪 | [Apply](https://raisin.jobs.personio.de/job/1429879?language=en&display=en) |
 | JUCR | Senior Front end Engineer | Berlin, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://jucr-gmbh.jobs.personio.de/job/1365981?language=en&display=en) |
-| Bigpoint GmbH | Junior Unity Developer (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1345752?language=en&display=en) |
-| Bigpoint GmbH | Associate PHP Developer (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1356656?language=en&display=en) |
 | adjoe | Business Intelligence Analyst (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=44642da4-2428-4f5d-9fe7-462f5bd572ba) |
 | adjoe | Senior Go Backend Developer (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=39dc22c0-b3d3-4095-bd20-e858fce8ec49) |
 | adjoe | Senior Android Mobile Developer (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=b54fe079-b5f9-41a7-b01d-5d78d3ee6644) |
 | adjoe | Senior Frontend Developer (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=be4b2a59-cc6a-4bac-8182-1b8728dda53a) |
 | adjoe | Senior Data Scientist (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=19c85586-f71d-4ede-aff4-bd4097628a00) |
 | adjoe | QA Engineer (f/m/d) | Hamburg, Germany | February 28, 2024 | 🇩🇪 | [Apply](https://adjoe.io/company/careers/?j_id=f46b07a1-4a9d-4f09-a076-56c74c3de460) |
-| Bigpoint GmbH | Senior Game Developer (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1358226?language=en&display=en) |
-| Bigpoint GmbH | Senior Full Stack Developer (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1244370?language=en&display=en) |
-| Bigpoint GmbH | Lead QA Tester (m/f/d) | Hamburg, Germany | February 13, 2024 | 🇩🇪 | [Apply](https://bigpoint.jobs.personio.de/job/1395283?language=en&display=en) |
 | justtrack | QA Engineer (f/m/d) | Hamburg, Germany | February 4, 2024 | 🇩🇪 | [Apply](https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e) |
 
 ---
 
-Last updated: Fri Mar 13 13:15:46 UTC 2026
+Last updated: Sat Mar 14 13:08:12 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
