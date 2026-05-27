@@ -12,6 +12,18 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Revolut | Senior Software Engineer (Backend - Java) | London, United Kingdom | May 26, 2026 | 🇬🇧 | [Apply](https://careers.revolut.com/positions) |
+| Wise | Senior Full-Stack Engineer - Transfer Experience | Tallinn, Estonia | May 26, 2026 | 🇪🇪 | [Apply](https://www.wise.jobs/) |
+| Miro | Staff Frontend Engineer - Collaboration Suite | Amsterdam, Netherlands | May 26, 2026 | 🇳🇱 | [Apply](https://miro.com/careers/) |
+| TravelPerk | Senior React Engineer - Booking Platforms | Barcelona, Spain | May 25, 2026 | 🇪🇸 | [Apply](https://www.travelperk.com/careers/) |
+| Snyk | Senior Software Engineer (Go & Kubernetes) | London, United Kingdom | May 25, 2026 | 🇬🇧 | [Apply](https://snyk.io/careers/) |
+| OpenAI | Research Engineer - Alignment | London, United Kingdom | May 25, 2026 | 🇬🇧 | [Apply](https://openai.com/careers) |
+| Trivago | Senior Backend Engineer - Search & Metadata | Düsseldorf, Germany | May 25, 2026 | 🇩🇪 | [Apply](https://careers.trivago.com/) |
+| Canva | Senior Frontend Engineer - Design Systems | London, United Kingdom | May 25, 2026 | 🇬🇧 | [Apply](https://www.canva.com/careers/) |
+| SAP | Senior Cloud Platform Developer | Walldorf, Germany | May 24, 2026 | 🇩🇪 | [Apply](https://jobs.sap.com/) |
+| BlaBlaCar | Senior Java Backend Engineer | Paris, France | May 24, 2026 | 🇫🇷 | [Apply](https://www.blablacar.com/about-us/careers) |
+| Dynatrace | Senior Software Engineer - Agent Core | Linz, Austria | May 24, 2026 | 🇦🇹 | [Apply](https://jobs.dynatrace.com/) |
+| Wise | Senior Android Engineer - Payments | London, United Kingdom | May 24, 2026 | 🇬🇧 | [Apply](https://www.wise.jobs/) |
 | Stripe | Senior Software Engineer, Payments Core | Dublin, Ireland | May 23, 2026 | 🇮🇪 | [Apply](https://stripe.com/jobs/search?query=payments+core) |
 | Stripe | Backend Engineer, Connect Platform | London, United Kingdom | May 23, 2026 | 🇬🇧 | [Apply](https://stripe.com/jobs/search?query=connect) |
 | Spotify | Senior Backend Engineer - Content Platform | Stockholm, Sweden | May 22, 2026 | 🇸🇪 | [Apply](https://www.lifeatspotify.com/jobs) |
@@ -316,6 +328,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Tue May 26 15:57:54 UTC 2026
+Last updated: Wed May 27 16:01:32 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
