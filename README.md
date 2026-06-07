@@ -12,6 +12,26 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Spotify | Senior Frontend Engineer - Web Player | Stockholm, Sweden | June 6, 2026 | 🇸🇪 | [Apply](https://www.spotifyjobs.com/jobs/senior-frontend-engineer-web-player) |
+| DeepMind | Staff Machine Learning Engineer - Reinforcement Learning | London, UK | June 6, 2026 | 🇬🇧 | [Apply](https://deepmind.google/careers/) |
+| N26 | Senior Backend Engineer - Core Banking | Berlin, Germany | June 6, 2026 | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/) |
+| Adyen | Staff Software Engineer - Payments Infrastructure | Amsterdam, Netherlands | June 6, 2026 | 🇳🇱 | [Apply](https://www.adyen.com/careers/jobs) |
+| Revolut | Senior Data Engineer - Financial Crime | Vilnius, Lithuania | June 6, 2026 | 🇱🇹 | [Apply](https://www.revolut.com/careers/) |
+| Booking.com | Senior QA Engineer - Accommodation Search | Manchester, UK | June 6, 2026 | 🇬🇧 | [Apply](https://careers.booking.com/) |
+| ainavio GmbH | Senior Product Owner / Manager - AI / SaaS - native German(m/f/d) |  | June 5, 2026 | Kamp-Lintfort | [Apply](https://www.arbeitnow.com/jobs/companies/ainavio-gmbh/senior-product-owner-product-manager-ai-saas-kamp-lintfort-330033) |
+| ainavio GmbH | Senior Product Owner / Manager - AI / SaaS - native German (m/f/d) |  | June 5, 2026 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/ainavio-gmbh/senior-product-owner-product-manager-ai-saas-berlin-19854) |
+| Revolut | Senior Backend Engineer - Distributed Systems | London, | June 5, 2026 | 🇬🇧 | [Apply](https://jobs.revolut.com/departments/engineering/senior-backend-engineer-distributed-systems) |
+| Spotify | Staff Machine Learning Engineer - Recommendation Systems | Stockholm, | June 5, 2026 | 🇸🇪 | [Apply](https://spotify.wd1.myworkdayjobs.com/External/job/Stockholm/Staff-Machine-Learning-Engineer--Recommendation-Systems_JOBID) |
+| N26 | Frontend Engineer - Web Platform | Berlin, | June 5, 2026 | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/jobs/frontend-engineer-web-platform) |
+| Adyen | Senior DevOps Engineer - Cloud Infrastructure | Amsterdam, | June 5, 2026 | 🇳🇱 | [Apply](https://www.adyen.com/careers/job/senior-devops-engineer-cloud-infrastructure) |
+| Booking.com | Staff iOS Engineer - Core Experience | Amsterdam, | June 5, 2026 | 🇳🇱 | [Apply](https://careers.booking.com/jobs/staff-ios-engineer-core-experience-12345) |
+| Wise | Data Analyst - Product Analytics | Tallinn, | June 5, 2026 | 🇪🇪 | [Apply](https://wise.com/careers/job-openings/data-analyst-product-analytics) |
+| Zalando | Senior QA Automation Engineer - E-commerce Platform | Berlin, | June 5, 2026 | 🇩🇪 | [Apply](https://jobs.zalando.com/tech/jobs/senior-qa-automation-engineer-e-commerce-platform-123) |
+| Monzo | Android Engineer - New Features | London, | June 5, 2026 | 🇬🇧 | [Apply](https://monzo.com/careers/jobs/android-engineer-new-features) |
+| ainavio GmbH | Senior Product Owner / Product Manager - AI / SaaS (m/f/d) |  | June 4, 2026 | Cologne | [Apply](https://www.arbeitnow.com/jobs/companies/ainavio-gmbh/senior-product-owner-product-manager-ai-saas-cologne-154881) |
+| Optiver | Head | Amsterdam,  
+               Noordholland,  
+               | June 5, 2026 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/a00ac7a947f648b4870ec28a31b8e800/Head) |
 | Catawiki | Senior Product Manager - Shipping |  | June 4, 2026 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-product-manager-shipping-10229) |
 | Catawiki | Senior Backend Software Engineer |  | June 4, 2026 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-backend-software-engineer-9677) |
 | Catawiki | Security Engineer |  | June 4, 2026 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/catawiki/security-engineer-10249) |
@@ -414,6 +434,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sat Jun  6 13:59:16 UTC 2026
+Last updated: Sun Jun  7 14:09:26 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
