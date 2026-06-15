@@ -12,6 +12,9 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Juniper Aged Care | Registered Nurse (Visa Sponsorship Available) - Kimberley Region | Broome,  
+               Western australia,  
+               | 2026-06-15 | Australia | [Apply](https://visasponsor.jobs/api/jobs/9d93a6166d534b33b2522cc760223f36/Registered-Nurse-(Visa-Sponsorship-Available)-Kimberley-Region) |
 | BAH Partners | C++ Developers – Top-Tier Buyside Trading Firms (Open to Non-Finance | Visa Sponsorship Available) |  | 2026-06-13 | Singapore | [Apply](https://visasponsor.jobs/api/jobs/57bdd4d3920041ef8b581b80acab5498/C++-Developers-–-Top-Tier-Buyside-Trading-Firms-(Open-to-Non-Finance-Visa-Sponsorship-Available)) |
 | N26 | Staff Android Engineer - Mobile Banking | Berlin, Germany | June 7, 2026 | 🇩🇪 | [Apply](https://n26.careers/jobs/staff-android-engineer-mobile-banking) |
 | Wise | Mid-level Full Stack Engineer - Transfers | London, UK | June 7, 2026 | 🇬🇧 | [Apply](https://wise.com/careers/job-details/full-stack-engineer-transfers) |
@@ -445,6 +448,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Jun 14 14:19:26 UTC 2026
+Last updated: Mon Jun 15 17:23:19 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
