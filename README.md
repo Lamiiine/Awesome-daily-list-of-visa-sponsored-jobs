@@ -12,6 +12,10 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| N26 | Strategy &amp; Operations Manager - Acquire | Berlin,  
+               | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/bed1b51e6b7740f8be922806b80fd9d4/Strategy-&amp;-Operations-Manager-Acquire) |
+| N26 | Senior Site Reliability Engineer - Software Logistics | Berlin,  
+               | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/14ef5250220e4463be5cec0213416e2e/Senior-Site-Reliability-Engineer-Software-Logistics) |
 | Juniper Aged Care | Registered Nurse (Visa Sponsorship Available) - Kimberley Region | Broome,  
                Western australia,  
                | 2026-06-15 | Australia | [Apply](https://visasponsor.jobs/api/jobs/9d93a6166d534b33b2522cc760223f36/Registered-Nurse-(Visa-Sponsorship-Available)-Kimberley-Region) |
@@ -448,6 +452,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Mon Jun 15 17:23:19 UTC 2026
+Last updated: Tue Jun 16 17:10:08 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
