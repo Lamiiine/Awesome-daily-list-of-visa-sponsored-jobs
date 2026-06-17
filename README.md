@@ -12,6 +12,7 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Greenstaff Medical US International | Physical Therapist (PT) - TN Visa &amp; Green Card Sponsorship Available |  | 2026-06-17 | Canada | [Apply](https://visasponsor.jobs/api/jobs/4b79190fec3c49c4bf2537a7810c0eb5/Physical-Therapist-(PT)-TN-Visa-&amp;-Green-Card-Sponsorship-Available) |
 | N26 | Strategy &amp; Operations Manager - Acquire | Berlin,  
                | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/bed1b51e6b7740f8be922806b80fd9d4/Strategy-&amp;-Operations-Manager-Acquire) |
 | N26 | Senior Site Reliability Engineer - Software Logistics | Berlin,  
@@ -452,6 +453,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Tue Jun 16 17:10:08 UTC 2026
+Last updated: Wed Jun 17 15:53:10 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
