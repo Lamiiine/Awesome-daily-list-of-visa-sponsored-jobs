@@ -12,6 +12,19 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| SumUp | Senior Analytics Engineer - Risk Analytics | Berlin, | 2026-06-18 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/senior-analytics-engineer-risk-analytics-berlin-301309) |
+| PayPay | Automation QA Engineer |  | 2026-06-18 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/automation-qa-engineer-10105) |
+| Picnic | Software Engineer - Consumer Products |  | 2026-06-18 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/picnic/software-engineer-consumer-products-10256) |
+| Multiverse Computing | Senior MLOps Engineer (Training & Inference Optimization) |  | 2026-06-18 | Spain | [Apply](https://relocate.me/spain/san-sebastian/multiverse-computing/senior-mlops-engineer-training-inference-optimization-10243) |
+| PayPay Card | Platform Engineer |  | 2026-06-17 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay-card/platform-engineer-10181) |
+| Marble | Co-Founder, CTO (Construction Robotics) | Noordholland,  
+               | 2026-06-17 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/898d38248ed4452282afc4dc497f5619/Co-Founder-CTO-(Construction-Robotics)) |
+| Workforce Australia | SOUS CHEF - THE WHARF | VISA SPONSORSHIP AVAILABLE | Sydney,  
+               New south wales,  
+               | 2026-06-17 | Australia | [Apply](https://visasponsor.jobs/api/jobs/8e8f3755037a4f0cba8f4230f65a79c3/SOUS-CHEF-THE-WHARF-VISA-SPONSORSHIP-AVAILABLE) |
+| Murrumbidgee Local Health District | Youth Mental Health Clinician | Charles sturt university,  
+               New south wales,  
+               | 2026-06-17 | Australia | [Apply](https://visasponsor.jobs/api/jobs/7609966e09794193ad349aa272e6d1b5/Youth-Mental-Health-Clinician) |
 | Greenstaff Medical US International | Physical Therapist (PT) - TN Visa &amp; Green Card Sponsorship Available |  | 2026-06-17 | Canada | [Apply](https://visasponsor.jobs/api/jobs/4b79190fec3c49c4bf2537a7810c0eb5/Physical-Therapist-(PT)-TN-Visa-&amp;-Green-Card-Sponsorship-Available) |
 | N26 | Strategy &amp; Operations Manager - Acquire | Berlin,  
                | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/bed1b51e6b7740f8be922806b80fd9d4/Strategy-&amp;-Operations-Manager-Acquire) |
@@ -453,6 +466,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Wed Jun 17 15:53:10 UTC 2026
+Last updated: Thu Jun 18 15:42:24 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
