@@ -9,44 +9,37 @@ Welcome to our repository of daily-updated, visa-sponsored job opportunities! Th
 We encourage the community to engage, share, and support each other in the job search process. If you find this resource helpful, please star the repository and spread the word!
 
 
-
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| PayPay Card | Backend Engineer |  | 2026-06-24 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay-card/backend-engineer-10180) |
+| PayPay | Senior Product Manager |  | 2026-06-23 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/senior-product-manager-10236) |
+| Catawiki | Engineering Manager - Shipping |  | 2026-06-23 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/engineering-manager-shipping-10269) |
+| Medical Jobs Australia | Cardiac Cath Lab Nurses - Permanent Role QLD - Sponsorship Available! | Launceston, Tasmania, | 2026-06-22 | Australia | [Apply](https://visasponsor.jobs/api/jobs/53047c9129354ebb9daa26caaaeef0db/Cardiac-Cath-Lab-Nurses-Permanent-Role-QLD-Sponsorship-Available!) |
+| Halter | Software Engineering Manager | New | 2026-06-21 | Zealand | [Apply](https://relocate.me/new-zealand/auckland/halter/software-engineering-manager-10239) |
+| Welltech | Staff Security Engineer |  | 2026-06-21 | Cyprus | [Apply](https://relocate.me/cyprus/limassol/welltech/staff-security-engineer-10265) |
+| N26 | ESG Analyst | Berlin, | 2026-06-21 | Germany | [Apply](https://visasponsor.jobs/api/jobs/4bc6a04053ae4a06b4c596a6ad2be3b3/ESG-Analyst) |
 | Welltech | Head of Product, Payments |  | 2026-06-19 | Cyprus | [Apply](https://relocate.me/cyprus/limassol/welltech/head-of-product-payments-10266) |
 | Hevy | Lead React Native Engineer |  | 2026-06-19 | Spain | [Apply](https://relocate.me/spain/barcelona/hevy/lead-react-native-engineer-10255) |
 | PayPay | Backend Engineer |  | 2026-06-19 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/backend-engineer-10205) |
-| N26 | Team Lead Risk - ICAAP / ILAAP (Pillar 1) | Berlin,  
-               | 2026-06-19 | Germany | [Apply](https://visasponsor.jobs/api/jobs/68c9be1341234dd1a9606ff12549caee/Team-Lead-Risk-ICAAP-ILAAP-(Pillar-1)) |
-| N26 | Information Security Controls Manager - Cloud &amp; AI Governance | Berlin,  
-               | 2026-06-19 | Germany | [Apply](https://visasponsor.jobs/api/jobs/46389234377e4e13bb3b556c8217ed7c/Information-Security-Controls-Manager-Cloud-&amp;-AI-Governance) |
+| N26 | Team Lead Risk - ICAAP / ILAAP (Pillar 1) | Berlin, | 2026-06-19 | Germany | [Apply](https://visasponsor.jobs/api/jobs/68c9be1341234dd1a9606ff12549caee/Team-Lead-Risk-ICAAP-ILAAP-(Pillar-1)) |
+| N26 | Information Security Controls Manager - Cloud &amp; AI Governance | Berlin, | 2026-06-19 | Germany | [Apply](https://visasponsor.jobs/api/jobs/46389234377e4e13bb3b556c8217ed7c/Information-Security-Controls-Manager-Cloud-&amp;-AI-Governance) |
 | SumUp | Senior Analytics Engineer - Risk Analytics | Berlin, | 2026-06-18 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/senior-analytics-engineer-risk-analytics-berlin-301309) |
 | PayPay | Automation QA Engineer |  | 2026-06-18 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/automation-qa-engineer-10105) |
 | Picnic | Software Engineer - Consumer Products |  | 2026-06-18 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/picnic/software-engineer-consumer-products-10256) |
 | Multiverse Computing | Senior MLOps Engineer (Training & Inference Optimization) |  | 2026-06-18 | Spain | [Apply](https://relocate.me/spain/san-sebastian/multiverse-computing/senior-mlops-engineer-training-inference-optimization-10243) |
 | PayPay Card | Platform Engineer |  | 2026-06-17 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay-card/platform-engineer-10181) |
-| Marble | Co-Founder, CTO (Construction Robotics) | Noordholland,  
-               | 2026-06-17 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/898d38248ed4452282afc4dc497f5619/Co-Founder-CTO-(Construction-Robotics)) |
-| Workforce Australia | SOUS CHEF - THE WHARF | VISA SPONSORSHIP AVAILABLE | Sydney,  
-               New south wales,  
-               | 2026-06-17 | Australia | [Apply](https://visasponsor.jobs/api/jobs/8e8f3755037a4f0cba8f4230f65a79c3/SOUS-CHEF-THE-WHARF-VISA-SPONSORSHIP-AVAILABLE) |
-| Murrumbidgee Local Health District | Youth Mental Health Clinician | Charles sturt university,  
-               New south wales,  
-               | 2026-06-17 | Australia | [Apply](https://visasponsor.jobs/api/jobs/7609966e09794193ad349aa272e6d1b5/Youth-Mental-Health-Clinician) |
+| Marble | Co-Founder, CTO (Construction Robotics) | Noordholland, | 2026-06-17 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/898d38248ed4452282afc4dc497f5619/Co-Founder-CTO-(Construction-Robotics)) |
+| Workforce Australia | SOUS CHEF - THE WHARF - VISA SPONSORSHIP AVAILABLE | Sydney, New south wales, | 2026-06-17 | Australia | [Apply](https://visasponsor.jobs/api/jobs/8e8f3755037a4f0cba8f4230f65a79c3/SOUS-CHEF-THE-WHARF-VISA-SPONSORSHIP-AVAILABLE) |
+| Murrumbidgee Local Health District | Youth Mental Health Clinician | Charles sturt university, New south wales, | 2026-06-17 | Australia | [Apply](https://visasponsor.jobs/api/jobs/7609966e09794193ad349aa272e6d1b5/Youth-Mental-Health-Clinician) |
 | Greenstaff Medical US International | Physical Therapist (PT) - TN Visa &amp; Green Card Sponsorship Available |  | 2026-06-17 | Canada | [Apply](https://visasponsor.jobs/api/jobs/4b79190fec3c49c4bf2537a7810c0eb5/Physical-Therapist-(PT)-TN-Visa-&amp;-Green-Card-Sponsorship-Available) |
-| N26 | Strategy &amp; Operations Manager - Acquire | Berlin,  
-               | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/bed1b51e6b7740f8be922806b80fd9d4/Strategy-&amp;-Operations-Manager-Acquire) |
-| N26 | Senior Site Reliability Engineer - Software Logistics | Berlin,  
-               | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/14ef5250220e4463be5cec0213416e2e/Senior-Site-Reliability-Engineer-Software-Logistics) |
-| Juniper Aged Care | Registered Nurse (Visa Sponsorship Available) - Kimberley Region | Broome,  
-               Western australia,  
-               | 2026-06-15 | Australia | [Apply](https://visasponsor.jobs/api/jobs/9d93a6166d534b33b2522cc760223f36/Registered-Nurse-(Visa-Sponsorship-Available)-Kimberley-Region) |
-| BAH Partners | C++ Developers – Top-Tier Buyside Trading Firms (Open to Non-Finance | Visa Sponsorship Available) |  | 2026-06-13 | Singapore | [Apply](https://visasponsor.jobs/api/jobs/57bdd4d3920041ef8b581b80acab5498/C++-Developers-–-Top-Tier-Buyside-Trading-Firms-(Open-to-Non-Finance-Visa-Sponsorship-Available)) |
+| N26 | Strategy &amp; Operations Manager - Acquire | Berlin, | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/bed1b51e6b7740f8be922806b80fd9d4/Strategy-&amp;-Operations-Manager-Acquire) |
+| N26 | Senior Site Reliability Engineer - Software Logistics | Berlin, | 2026-06-16 | Germany | [Apply](https://visasponsor.jobs/api/jobs/14ef5250220e4463be5cec0213416e2e/Senior-Site-Reliability-Engineer-Software-Logistics) |
+| Juniper Aged Care | Registered Nurse (Visa Sponsorship Available) - Kimberley Region | Broome, Western australia, | 2026-06-15 | Australia | [Apply](https://visasponsor.jobs/api/jobs/9d93a6166d534b33b2522cc760223f36/Registered-Nurse-(Visa-Sponsorship-Available)-Kimberley-Region) |
+| BAH Partners | C++ Developers – Top-Tier Buyside Trading Firms (Open to Non-Finance - Visa Sponsorship Available) |  | 2026-06-13 | Singapore | [Apply](https://visasponsor.jobs/api/jobs/57bdd4d3920041ef8b581b80acab5498/C++-Developers-–-Top-Tier-Buyside-Trading-Firms-(Open-to-Non-Finance-Visa-Sponsorship-Available)) |
 | WSP | Chinese Speaking Graduate Role (With Visa Sponsor) | United | 2026-06-07 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/2c81d6975e5e4fdea03e89690c248537/Chinese-Speaking-Graduate-Role-(With-Visa-Sponsor)) |
 | Spotify | Staff Machine Learning Engineer - Recommendation Systems | Stockholm, | June 5, 2026 | 🇸🇪 | [Apply](https://spotify.wd1.myworkdayjobs.com/External/job/Stockholm/Staff-Machine-Learning-Engineer--Recommendation-Systems_JOBID) |
 | N26 | Frontend Engineer - Web Platform | Berlin, | June 5, 2026 | 🇩🇪 | [Apply](https://n26.com/en-eu/careers/jobs/frontend-engineer-web-platform) |
-| Optiver | Head | Amsterdam,  
-               Noordholland,  
-               | June 5, 2026 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/a00ac7a947f648b4870ec28a31b8e800/Head) |
+| Optiver | Head | Amsterdam, Noordholland, | June 5, 2026 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/a00ac7a947f648b4870ec28a31b8e800/Head) |
 | Catawiki | Senior Product Manager - Shipping |  | June 4, 2026 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-product-manager-shipping-10229) |
 | Catawiki | Senior Backend Software Engineer |  | June 4, 2026 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-backend-software-engineer-9677) |
 | Catawiki | Security Engineer |  | June 4, 2026 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/catawiki/security-engineer-10249) |
@@ -271,8 +264,8 @@ We encourage the community to engage, share, and support each other in the job s
 | K-tronik GmbH | Cloud Developer (m/f/x) - Backend | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6607/cloud-developer-m-f-x-backend) |
 | K-tronik GmbH | C/C++ Software Developer (m/f/x) | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6605/c-c-software-developer-m-f-x-for-linux-in-the-area-of-connectivity) |
 | K-tronik GmbH | Software Developer Navigation (m/f/x) | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6603/software-developer-navigation-m-f-x) |
-| K-tronik GmbH | Test Engineer - Propulsion (f/m/d)  | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6642/test-engineer-propulsion-f-m-d) |
-| K-tronik GmbH | Test Automation Engineer (m/f/d)  | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6660/test-automation-engineer-m-f-d-naval-it-systems) |
+| K-tronik GmbH | Test Engineer - Propulsion (f/m/d) | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6642/test-engineer-propulsion-f-m-d) |
+| K-tronik GmbH | Test Automation Engineer (m/f/d) | Kiel, Germany | August 2, 2024 | 🇩🇪 | [Apply](https://bewerbung.k-tronik.de/en/6660/test-automation-engineer-m-f-d-naval-it-systems) |
 | Monzo | Android Engineer | London , UK | July 20, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/2578107) |
 | Monzo | Backend Engineer | London , UK | July 20, 2024 | 🇬🇧 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/5272421) |
 | Kolibri Games | (Senior) Game Designer (f/m/d) | Berlin, Germany | July 20, 2024 | 🇩🇪 | [Apply](https://www.kolibrigames.com/career/position/8ab35ce3-a5f5-4be5-84ab-7adf89e2dc39/) |
@@ -323,6 +316,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Thu Jun 25 14:46:15 UTC 2026
+Last updated: Fri Jun 26 07:35:08 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
