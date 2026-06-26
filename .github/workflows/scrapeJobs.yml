@@ -11,18 +11,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
     - name: Fetch latest data
       run: |-
-        curl https://visajobs.xyz/db.json | jq . > jobList.json
+        curl -sf https://visajobs.xyz/db.json | jq . > jobList.json
     - name: Parse jobList.json into table
       id: parse-json
       run: |
-        cat << EOF > README.md
-        # Daily List of Visa-Sponsored Job Opportunities
-
+        cat << 'HEADER' > README.md
         Welcome to our repository of daily-updated, visa-sponsored job opportunities! This list is automatically refreshed every day to bring you the latest openings across various companies and locations.
 
         🌟 **Check out our main site**: [visajobs](https://visajobs.xyz)
@@ -31,34 +29,41 @@ jobs:
 
         We encourage the community to engage, share, and support each other in the job search process. If you find this resource helpful, please star the repository and spread the word!
 
-    
+        HEADER
 
-        EOF
-
+        echo "" >> README.md
         echo "| Company | Job Title | Location | Added | Flag | Link |" >> README.md
         echo "| --- | --- | --- | --- | --- | --- |" >> README.md
-        jq -r '.[] | 
-          "| " + .company + 
-          " | " + .position + 
-          " | " + (.location | split(" ")[:-1] | join(" ")) + 
-          " | " + .post_date + 
-          " | " + (.location | split(" ")[-1]) + 
-          " | " + "[Apply](" + .description + ")" + 
+
+        # Sanitize fields: collapse newlines/whitespace, escape pipe chars
+        jq -r '.[] |
+          def sanitize: gsub("[\\n\\r\\t]+"; " ") | gsub("\\s+"; " ") | gsub("\\|"; "\\\\|") | ltrimstr(" ") | rtrimstr(" ");
+          def flag: (.location // "") | split(" ") | last // "";
+          def loc: (.location // "") | split(" ") | .[:-1] | join(" ") | sanitize;
+          "| " + ((.company // "") | sanitize) +
+          " | " + ((.position // "") | sanitize) +
+          " | " + loc +
+          " | " + ((.post_date // "") | sanitize) +
+          " | " + flag +
+          " | " + "[Apply](" + ((.description // "") | sanitize) + ")" +
           " |"' jobList.json >> README.md
 
-        cat << EOF >> README.md
+        cat << 'FOOTER' >> README.md
 
         ---
 
-        Last updated: $(date -u)
+        Last updated: TIMESTAMP_PLACEHOLDER
 
         *Note: This list is automatically updated daily. Check back often for new opportunities!*
-        EOF
+        FOOTER
+
+        # Replace the placeholder with the actual timestamp
+        sed -i "s/TIMESTAMP_PLACEHOLDER/$(date -u)/" README.md
     - name: Commit and push if it changed
       run: |
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git add README.md
+        git add README.md jobList.json
         timestamp=$(date -u)
         git commit -m "Latest jobs: ${timestamp}" || exit 0
         git stash
