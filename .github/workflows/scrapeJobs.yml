@@ -1,7 +1,6 @@
 name: Scrape latest jobs
 
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron: '6 12 * * *'
@@ -48,25 +47,21 @@ jobs:
           " | " + "[Apply](" + ((.description // "") | sanitize) + ")" +
           " |"' jobList.json >> README.md
 
-        cat << 'FOOTER' >> README.md
+        TIMESTAMP=$(date -u)
+        cat << FOOTER >> README.md
 
         ---
 
-        Last updated: TIMESTAMP_PLACEHOLDER
+        Last updated: ${TIMESTAMP}
 
         *Note: This list is automatically updated daily. Check back often for new opportunities!*
         FOOTER
-
-        # Replace the placeholder with the actual timestamp
-        sed -i "s/TIMESTAMP_PLACEHOLDER/$(date -u)/" README.md
     - name: Commit and push if it changed
       run: |
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add README.md jobList.json
         timestamp=$(date -u)
-        git commit -m "Latest jobs: ${timestamp}" || exit 0
-        git stash
-        git pull --rebase
-        git stash pop
+        git diff --staged --quiet && echo "No changes to commit" && exit 0
+        git commit -m "Latest jobs: ${timestamp}"
         git push
