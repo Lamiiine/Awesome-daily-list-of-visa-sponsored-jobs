@@ -1,5 +1,115 @@
 [
   {
+    "company": "Intelligent Health Care Australia",
+    "position": "Full-Time Podiatrist - Sponsorship available",
+    "location": "Port macquarie,  \n               New south wales,  \n               Australia",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-06-30",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://visasponsor.jobs/api/jobs/14b8d7c3b0364145aed34b70d1341253/Full-Time-Podiatrist-Sponsorship-available"
+  },
+  {
+    "company": "Halter",
+    "position": "Senior Engineer - Go-to-Market",
+    "location": "New Zealand",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-06-29",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://relocate.me/new-zealand/auckland/halter/senior-engineer-go-to-market-10267"
+  },
+  {
+    "company": "Revolut",
+    "position": "Internship Programme 2027: Information Security Engineer (Operations)",
+    "location": "Porto,  \n               Porto,  \n               Portugal",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-06-29",
+    "logo": "/media/revolut_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/b6cb09a3d9b3438db4c0391a0c0513db/Internship-Programme-2027:-Information-Security-Engineer-(Operations)"
+  },
+  {
+    "company": "N26",
+    "position": "Senior Product Manager - Payment Processing &amp; Settlement",
+    "location": "Berlin,  \n               Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-06-29",
+    "logo": "/media/n26_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/f9785614076c4b0bb5b6e88521d9a2df/Senior-Product-Manager-Payment-Processing-&amp;-Settlement"
+  },
+  {
+    "company": "N26",
+    "position": "Site Reliability Engineer - Access Team",
+    "location": "Berlin,  \n               Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-06-28",
+    "logo": "/media/n26_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/b8f0d78746d04d8ca1a28594e891013b/Site-Reliability-Engineer-Access-Team"
+  },
+  {
+    "company": "N26",
+    "position": "Regulatory Operations Analyst",
+    "location": "Berlin,  \n               Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-06-28",
+    "logo": "/media/n26_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/560c0df1fcd24383afedc4f54449220b/Regulatory-Operations-Analyst"
+  },
+  {
+    "company": "SumUp",
+    "position": "Senior Backend Engineer - Golang",
+    "location": "Berlin, Berlin, Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-06-26",
+    "logo": "/media/sumup_logo.jpg",
+    "description": "https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-berlin-101948"
+  },
+  {
+    "company": "Multiverse Computing",
+    "position": "Research AI Director",
+    "location": "Spain",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-06-27",
+    "logo": "/media/multiversecomputing_logo.jpg",
+    "description": "https://relocate.me/spain/san-sebastian/multiverse-computing/research-ai-director-10268"
+  },
+  {
+    "company": "Revolut",
+    "position": "Internship Programme 2027: Information Security Engineer (Appsec)",
+    "location": "Porto,  \n               Porto,  \n               Portugal",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-06-27",
+    "logo": "/media/revolut_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/fae41eb5d32749aa990109efa16b629f/Internship-Programme-2027:-Information-Security-Engineer-(Appsec)"
+  },
+  {
+    "company": "SumUp",
+    "position": "Mid Data Analyst - Finance",
+    "location": "Berlin, Berlin, Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-06-25",
+    "logo": "/media/sumup_logo.jpg",
+    "description": "https://www.arbeitnow.com/jobs/companies/sumup/mid-data-analyst-finance-berlin-462914"
+  },
+  {
     "company": "PayPay Card",
     "position": "Backend Engineer",
     "location": "Japan",

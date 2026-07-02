@@ -11,6 +11,16 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Intelligent Health Care Australia | Full-Time Podiatrist - Sponsorship available | Port macquarie, New south wales, | 2026-06-30 | Australia | [Apply](https://visasponsor.jobs/api/jobs/14b8d7c3b0364145aed34b70d1341253/Full-Time-Podiatrist-Sponsorship-available) |
+| Halter | Senior Engineer - Go-to-Market | New | 2026-06-29 | Zealand | [Apply](https://relocate.me/new-zealand/auckland/halter/senior-engineer-go-to-market-10267) |
+| Revolut | Internship Programme 2027: Information Security Engineer (Operations) | Porto, Porto, | 2026-06-29 | Portugal | [Apply](https://visasponsor.jobs/api/jobs/b6cb09a3d9b3438db4c0391a0c0513db/Internship-Programme-2027:-Information-Security-Engineer-(Operations)) |
+| N26 | Senior Product Manager - Payment Processing &amp; Settlement | Berlin, | 2026-06-29 | Germany | [Apply](https://visasponsor.jobs/api/jobs/f9785614076c4b0bb5b6e88521d9a2df/Senior-Product-Manager-Payment-Processing-&amp;-Settlement) |
+| N26 | Site Reliability Engineer - Access Team | Berlin, | 2026-06-28 | Germany | [Apply](https://visasponsor.jobs/api/jobs/b8f0d78746d04d8ca1a28594e891013b/Site-Reliability-Engineer-Access-Team) |
+| N26 | Regulatory Operations Analyst | Berlin, | 2026-06-28 | Germany | [Apply](https://visasponsor.jobs/api/jobs/560c0df1fcd24383afedc4f54449220b/Regulatory-Operations-Analyst) |
+| SumUp | Senior Backend Engineer - Golang | Berlin, Berlin, | 2026-06-26 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-golang-berlin-101948) |
+| Multiverse Computing | Research AI Director |  | 2026-06-27 | Spain | [Apply](https://relocate.me/spain/san-sebastian/multiverse-computing/research-ai-director-10268) |
+| Revolut | Internship Programme 2027: Information Security Engineer (Appsec) | Porto, Porto, | 2026-06-27 | Portugal | [Apply](https://visasponsor.jobs/api/jobs/fae41eb5d32749aa990109efa16b629f/Internship-Programme-2027:-Information-Security-Engineer-(Appsec)) |
+| SumUp | Mid Data Analyst - Finance | Berlin, Berlin, | 2026-06-25 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/mid-data-analyst-finance-berlin-462914) |
 | PayPay Card | Backend Engineer |  | 2026-06-24 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay-card/backend-engineer-10180) |
 | PayPay | Senior Product Manager |  | 2026-06-23 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/senior-product-manager-10236) |
 | Catawiki | Engineering Manager - Shipping |  | 2026-06-23 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/engineering-manager-shipping-10269) |
@@ -316,6 +326,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Wed Jul  1 14:50:35 UTC 2026
+Last updated: Thu Jul  2 14:19:58 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
