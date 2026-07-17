@@ -1,5 +1,247 @@
 [
   {
+    "company": "Picnic",
+    "position": "Senior Software Engineer - Warehouse Systems",
+    "location": "Netherlands",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-16",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://relocate.me/netherlands/amsterdam/picnic/senior-software-engineer-warehouse-systems-10262"
+  },
+  {
+    "company": "TheInnCollectionGroup3",
+    "position": "Head Chef - Live In",
+    "location": "Wolverhampton,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-16",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://visasponsor.jobs/api/jobs/8b9fce356ce04aab91bd5bf331a562b9/Head-Chef-Live-In"
+  },
+  {
+    "company": "Bright Leaf Recruitment",
+    "position": "Small Animal night Vet hospital",
+    "location": "Liverpool,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-16",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://visasponsor.jobs/api/jobs/cb74cb5ac26e4b4d96d037bc9bca4618/Small-Animal-night-Vet-hospital"
+  },
+  {
+    "company": "Plaistow Business Consultants Ltd",
+    "position": "Global Orthopedic Surgeon",
+    "location": "London,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-16",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://visasponsor.jobs/api/jobs/22f5a408356d4c11be9cecedf12e8b16/Global-Orthopedic-Surgeon"
+  },
+  {
+    "company": "ALG  Talent Specialists",
+    "position": "Aircraft Painter",
+    "location": "Singapore",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-16",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://visasponsor.jobs/api/jobs/b794c2cb97574a0ca3222b8b4465fb84/Aircraft-Painter"
+  },
+  {
+    "company": "SimScale GmbH",
+    "position": "Principal Governance, Risk and Compliance (GRC) Architect",
+    "location": "Munich",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-14",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://www.arbeitnow.com/jobs/companies/simscale-gmbh/principal-governance-risk-and-compliance-grc-architect-munich-313642"
+  },
+  {
+    "company": "Optiver",
+    "position": "C# Software Engineer",
+    "location": "Sydney,  \n               New south wales,  \n               Australia",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-15",
+    "logo": "/media/optiver_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/24f623a5ab464621919b87d4fe72f570/C%23-Software-Engineer"
+  },
+  {
+    "company": "Monzo",
+    "position": "Remote Senior Backend Engineer",
+    "location": "Salford,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-13",
+    "logo": "/media/monzo_bank_logo.jpeg",
+    "description": "https://visasponsor.jobs/api/jobs/1f424ca047354861a5049fd459cac0cf/Remote-Senior-Backend-Engineer"
+  },
+  {
+    "company": "Optiver",
+    "position": "Category Manager",
+    "location": "Amsterdam,  \n               Noordholland,  \n               Netherlands",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-13",
+    "logo": "/media/optiver_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/8726d282e7a640ddb3ef917aceeca750/Category-Manager"
+  },
+  {
+    "company": "Workforce Australia",
+    "position": "Mental Health Nursing jobs in SE Sydney (visa sponsorship available)",
+    "location": "Sydney,  \n               New south wales,  \n               Australia",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-13",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://visasponsor.jobs/api/jobs/a4c0fc7f21ae4acd91f38d7c8ddc1948/Mental-Health-Nursing-jobs-in-SE-Sydney-(visa-sponsorship-available)"
+  },
+  {
+    "company": "University of the West Scotland",
+    "position": "Lecturer",
+    "location": "United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-12",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://visasponsor.jobs/api/jobs/9404809a7f1c49b9826841508c7b0c11/Lecturer"
+  },
+  {
+    "company": "Zalando",
+    "position": "Financial Analyst (all genders)",
+    "location": "Ansbach,  \n               Bavaria,  \n               Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-12",
+    "logo": "/media/zalando_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/4cf9358fecab43d8bd5a043b42f641b7/Financial-Analyst-(all-genders)"
+  },
+  {
+    "company": "N26",
+    "position": "Senior Manager Risk Controlling - ICAAP / ILAAP (Pillar 1)",
+    "location": "Berlin,  \n               Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-09",
+    "logo": "/media/n26_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/9e3686772f2c4d84a936fb02ffe2c052/Senior-Manager-Risk-Controlling-ICAAP-ILAAP-(Pillar-1)"
+  },
+  {
+    "company": "Playson",
+    "position": "System Administrator/Service Desk",
+    "location": "Slovakia",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-08",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://relocate.me/slovakia/bratislava/playson/system-administrator-service-desk-10271"
+  },
+  {
+    "company": "SumUp",
+    "position": "Senior Machine Learning Engineer I",
+    "location": "Berlin, Berlin, Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-06",
+    "logo": "/media/sumup_logo.jpg",
+    "description": "https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-i-berlin-493840"
+  },
+  {
+    "company": "Healthcarelink",
+    "position": "Community-Based Occupational Therapist - Visa Sponsorship Available",
+    "location": "Adelaide,  \n               South australia,  \n               Australia",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-06",
+    "logo": "/media/healthcarelink_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/b9393acf64ef45a0bbff26547ade8f11/Community-Based-Occupational-Therapist-Visa-Sponsorship-Available"
+  },
+  {
+    "company": "C Teleport",
+    "position": "Lead Software Engineer (Team Lead) - Billing Squad",
+    "location": "Netherlands",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-05",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://relocate.me/netherlands/rotterdam/c-teleport/lead-software-engineer-team-lead-billing-squad-10270"
+  },
+  {
+    "company": "PayPay Card",
+    "position": "Automation QA Engineer",
+    "location": "Japan",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-05",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://relocate.me/japan/tokyo/paypay-card/automation-qa-engineer-10182"
+  },
+  {
+    "company": "Optiver",
+    "position": "Global Mobility Manager",
+    "location": "Amsterdam,  \n               Noordholland,  \n               Netherlands",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-04",
+    "logo": "/media/optiver_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/0402ad8f4d3946d89f9cf1da796f821a/Global-Mobility-Manager"
+  },
+  {
+    "company": "Optiver",
+    "position": "Senior End User Computing - Virtual Desktop Engineer (EUC - VDI)",
+    "location": "Sydney,  \n               New south wales,  \n               Australia",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-03",
+    "logo": "/media/optiver_logo.jpg",
+    "description": "https://visasponsor.jobs/api/jobs/50f1f7a2f40a4a659756709b31152445/Senior-End-User-Computing-Virtual-Desktop-Engineer-(EUC-VDI)"
+  },
+  {
+    "company": "SumUp",
+    "position": "Talent Acquisition Partner",
+    "location": "Berlin, Berlin, Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-02",
+    "logo": "/media/sumup_logo.jpg",
+    "description": "https://www.arbeitnow.com/jobs/companies/sumup/talent-acquisition-partner-berlin-49251"
+  },
+  {
+    "company": "The Global Move",
+    "position": "1000+ Curated Visa Sponsorship and Remote Tech Jobs (Paid Option)",
+    "location": "Remote",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-02",
+    "logo": "/favicon/android-chrome-192x192.png",
+    "description": "https://relocate.me/remote/remote/the-global-move/1000-curated-visa-sponsorship-and-remote-tech-jobs-paid-option-10080"
+  },
+  {
     "company": "Intelligent Health Care Australia",
     "position": "Full-Time Podiatrist - Sponsorship available",
     "location": "Port macquarie,  \n               New south wales,  \n               Australia",
@@ -97,17 +339,6 @@
     "post_date": "2026-06-27",
     "logo": "/media/revolut_logo.jpg",
     "description": "https://visasponsor.jobs/api/jobs/fae41eb5d32749aa990109efa16b629f/Internship-Programme-2027:-Information-Security-Engineer-(Appsec)"
-  },
-  {
-    "company": "SumUp",
-    "position": "Mid Data Analyst - Finance",
-    "location": "Berlin, Berlin, Germany",
-    "contract": "Full Time",
-    "reloc": "Relocation Assistance",
-    "visa": "Visa Sponsorship",
-    "post_date": "2026-06-25",
-    "logo": "/media/sumup_logo.jpg",
-    "description": "https://www.arbeitnow.com/jobs/companies/sumup/mid-data-analyst-finance-berlin-462914"
   },
   {
     "company": "PayPay Card",
@@ -240,17 +471,6 @@
     "post_date": "2026-06-19",
     "logo": "/media/n26_logo.jpg",
     "description": "https://visasponsor.jobs/api/jobs/46389234377e4e13bb3b556c8217ed7c/Information-Security-Controls-Manager-Cloud-&amp;-AI-Governance"
-  },
-  {
-    "company": "SumUp",
-    "position": "Senior Analytics Engineer - Risk Analytics",
-    "location": "Berlin, Germany",
-    "contract": "Full Time",
-    "reloc": "Relocation Assistance",
-    "visa": "Visa Sponsorship",
-    "post_date": "2026-06-18",
-    "logo": "/media/sumup_logo.jpg",
-    "description": "https://www.arbeitnow.com/jobs/companies/sumup/senior-analytics-engineer-risk-analytics-berlin-301309"
   },
   {
     "company": "PayPay",
