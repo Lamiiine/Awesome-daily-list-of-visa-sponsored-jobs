@@ -11,6 +11,41 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Hydrosat | Platform Engineer |  | 2026-07-19 | Luxembourg | [Apply](https://careers.hydrosat.com/o/platform-engineer) |
+| LGG Advisors | AI Engineer | Porto, | 2026-07-19 | Portugal | [Apply](https://lggadvisors.zohorecruit.com/jobs/Careers/552115000006353011/AI-Engineer) |
+| DualEntry | Site Reliability Engineer (SRE) | Remote (NYC | 2026-07-19 | HQ) | [Apply](https://jobs.ashbyhq.com/dualentry/3a238aad-ae17-452e-b528-9933bffdfc46) |
+| JustPlay GmbH | Developer Experience Engineer | Berlin, | 2026-07-19 | Germany | [Apply](https://jobs.ashbyhq.com/justplay-gmbh/a738403a-6f44-41ca-b2c2-6c05b293bab6) |
+| AllSides | 3D Machine Learning Engineer | Bressanone, | 2026-07-19 | Italy | [Apply](https://allsides.onboard.org/jobs/6GQ7dRmv) |
+| Wypoon Technologies | AI Agent Engineer |  | 2026-07-19 | Netherlands | [Apply](https://jobs.eu.lever.co/wypoon/136cfee2-28f2-46b0-b634-99a563b9b059) |
+| Arva AI | Forward Deployed Engineer | London, United | 2026-07-19 | Kingdom | [Apply](https://www.ycombinator.com/companies/arva-ai/jobs/VWRDWCW-forward-deployed-engineer) |
+| Senvo | Founding Head of Engineering | Berlin, | 2026-07-19 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/senvo-gmbh/founding-head-of-engineering-berlin-71649) |
+| Urban Sports Club | Senior Backend Engineer (Golang) | Berlin, | 2026-07-18 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/urban-sports-club/senior-backend-engineer-all-genders-golang-berlin-211662) |
+| Distribusion Technologies | Senior Engineering Manager - Supply Domain | Berlin, | 2026-07-18 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/distribusion-technologies/senior-engineering-manager-supply-domain-all-genders-berlin-309048) |
+| Distribusion Technologies | Engineering Manager - Search Engine | Berlin, | 2026-07-18 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/distribusion-technologies/engineering-manager-search-engine-all-genders-berlin-247347) |
+| Halter | Senior Engineers - Product & Engineering | Auckland, New | 2026-07-19 | Zealand | [Apply](https://relocate.me/new-zealand/auckland/halter/senior-engineers-product-engineering-10258) |
+| Catawiki | Engineering Manager - Shipping | Lisbon, | 2026-07-19 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/engineering-manager-shipping-10269) |
+| Playson | System Administrator / Service Desk | Bratislava, | 2026-07-19 | Slovakia | [Apply](https://relocate.me/slovakia/bratislava/playson/system-administrator-service-desk-10271) |
+| Multiverse Computing | Senior MLOps Engineer (Training & Inference) | San Sebastian, | 2026-07-19 | Spain | [Apply](https://relocate.me/spain/san-sebastian/multiverse-computing/senior-mlops-engineer-training-inference-optimization-10243) |
+| PayPay | Backend Engineer | Tokyo, | 2026-07-19 | Japan | [Apply](https://relocate.me/japan/tokyo/paypay/backend-engineer-10205) |
+| HENNGE | Senior Frontend Engineer | Tokyo, | 2026-07-19 | Japan | [Apply](https://relocate.me/japan/tokyo/hennge/senior-frontend-engineer-10264) |
+| ACS International Schools | Social Studies and Business &amp; Enterprise Teacher | Liverpool, England, United | 2026-07-19 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/2d5b9f3353704fb78602a02a7f805083/Social-Studies-and-Business-&amp;-Enterprise-Teacher) |
+| EasyInfoBlog.com LLC | Consultant in Obstetrics &amp; Gynaecology | Wolverhampton, England, United | 2026-07-19 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/fa92ef3d7b934e18b3ec0afda3d0a6ec/Consultant-in-Obstetrics-&amp;-Gynaecology) |
+| Revolut | Graduate Programme 2027: Software Engineer (Android) | London, England, United | 2026-07-19 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/bafcda2e2e55450090be3e2fb31182de/Graduate-Programme-2027:-Software-Engineer-(Android)) |
+| Revolut | Graduate Programme 2027: Software Engineer (Java) | London, England, United | 2026-07-19 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/2b64eb3d8dd44cd9b2ee5fb32ec86c1a/Graduate-Programme-2027:-Software-Engineer-(Java)) |
+| Movemeon | Senior Interim Talent Consultant — Strategic Placements | Sheffield, England, United | 2026-07-19 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/7ac2b52b2db74b6ab7a07a9634757837/Senior-Interim-Talent-Consultant-%E2%80%94-Strategic-Placements) |
+| ASVSH ACCOUNTANCY SERVICES LTD | Accountant | London, England, United | 2026-07-19 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/dacea17d4f8046febe95f071b05efcd1/Accountant) |
+| Victoria Ventures LTD | Chef | Auckland, Auckland, New | 2026-07-19 | Zealand | [Apply](https://visasponsor.jobs/api/jobs/6b48186966e942b1bac9b07f3b9c556c/Chef) |
+| ITCO Solutions Corporation | Data Architect Wealth Management | Naperville, Illinois, United | 2026-07-19 | States | [Apply](https://visasponsor.jobs/api/jobs/a7ba0fbf4dcd48749d458182d4dc1c1d/Data-Architect-Wealth-Management) |
+| RecruitWell | Rogers, Arkansas, Gastroenterology Opening | Rogers, Arkansas, United | 2026-07-18 | States | [Apply](https://visasponsor.jobs/api/jobs/af368f4ad3154cd7919f0d9bb6cf7ac2/Rogers-Arkansas-Gastroenterology-Opening) |
+| PH CONSULTATION UK LTD | Client Services Manager | United | 2026-07-18 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/c888ef64fc464f32be901ca604ba8d7c/Client-Services-Manager) |
+| BAS Healthcare | 1xThoracic Surgery - Cardio Thoracic Surgery Mercy Hospital Northwest Arkansas (AR) | Rogers, Arkansas, United | 2026-07-18 | States | [Apply](https://visasponsor.jobs/api/jobs/6802db9f7d0442b7a55f3d6af87c9f61/1xThoracic-Surgery-Cardio-Thoracic-Surgery-Mercy-Hospital-Northwest-Arkansas-(AR)) |
+| Todd Mudie Group | Experienced &amp; Intermediate Painters | Timaru, Canterbury, New | 2026-07-18 | Zealand | [Apply](https://visasponsor.jobs/api/jobs/1f40a585270f4d07bea22b6cac8af567/Experienced-&amp;-Intermediate-Painters) |
+| Optiver | Institutional Trader | Amsterdam, Noordholland, | 2026-07-18 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/0ad8c4da6a1c4ea88088e931e3f1392c/Institutional-Trader) |
+| Sails Restaurant | Seasonal Cook | Naples, Florida, United | 2026-07-18 | States | [Apply](https://visasponsor.jobs/api/jobs/0eb72c5103c342f2a8f12dd532878c54/Seasonal-Cook) |
+| Voice AI Space | Design Engineer | United | 2026-07-17 | States | [Apply](https://visasponsor.jobs/api/jobs/c6d4acf228e94866a6a543f54a48af64/Design-Engineer) |
+| Task Impetus Inc. | Data Analysts #69606 | New york, New york, United | 2026-07-17 | States | [Apply](https://visasponsor.jobs/api/jobs/5eff221d68db4ce0b09682930e2d6e73/Data-Analysts-%2369606) |
+| purovets | Veterinary Surgeon | Rotherham, England, United | 2026-07-17 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/f9e523b70e244183bcbe274490878e61/Veterinary-Surgeon) |
+| Meeveem Limited | Consultant in GA Psychiatry - EIP &amp; South LMHT + Golden | Nottingham, England, United | 2026-07-17 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/140b9baa4dce461591cdd8142184a867/Consultant-in-GA-Psychiatry-EIP-&amp;-South-LMHT-+-Golden) |
 | Picnic | Senior Software Engineer - Warehouse Systems |  | 2026-07-16 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/picnic/senior-software-engineer-warehouse-systems-10262) |
 | TheInnCollectionGroup3 | Head Chef - Live In | Wolverhampton, England, United | 2026-07-16 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/8b9fce356ce04aab91bd5bf331a562b9/Head-Chef-Live-In) |
 | Bright Leaf Recruitment | Small Animal night Vet hospital | Liverpool, England, United | 2026-07-16 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/cb74cb5ac26e4b4d96d037bc9bca4618/Small-Animal-night-Vet-hospital) |
@@ -346,6 +381,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Jul 19 13:39:20 UTC 2026
+Last updated: Mon Jul 20 14:22:53 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
