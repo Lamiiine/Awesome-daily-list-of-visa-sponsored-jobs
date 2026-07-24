@@ -1,5 +1,269 @@
 [
   {
+    "company": "Costello Medical, Inc.",
+    "position": "Project Coordinator - Evidence Development",
+    "location": "Bristol,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-23",
+    "logo": "https://ui-avatars.com/api/?name=Costello%20Medical%2C%20Inc.&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/908e778c670a44b68d740ffbf55005ff/Project-Coordinator-Evidence-Development"
+  },
+  {
+    "company": "George Migration",
+    "position": "Head Chef",
+    "location": "Tewantin,  \n               Queensland,  \n               Australia",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-23",
+    "logo": "https://ui-avatars.com/api/?name=George%20Migration&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/7465a45b49eb447bb40bd92821a603a8/Head-Chef"
+  },
+  {
+    "company": "Raas Infotek",
+    "position": "Business Intelligence Developer",
+    "location": "Miami,  \n               Florida,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-23",
+    "logo": "https://ui-avatars.com/api/?name=Raas%20Infotek&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/24d2433b2b7b4e0a9ca7010ea98e0402/Business-Intelligence-Developer"
+  },
+  {
+    "company": "Wave Group",
+    "position": "Senior Data Scientist (Pricing)",
+    "location": "London,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-23",
+    "logo": "https://ui-avatars.com/api/?name=Wave%20Group&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/a6353653bff9483e8a9619286c4e0fa0/Senior-Data-Scientist-(Pricing)"
+  },
+  {
+    "company": "Transformationunitgm",
+    "position": "Educational Prog. Dir. Pharmacist Foundation Trainee Pharmacists",
+    "location": "Oxford,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-23",
+    "logo": "https://ui-avatars.com/api/?name=Transformationunitgm&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/af8bf9a48e994136b4018b095f0f21aa/Educational-Prog-Dir-Pharmacist-Foundation-Trainee-Pharmacists"
+  },
+  {
+    "company": "Albertsons",
+    "position": "Float Pharmacist",
+    "location": "Denton,  \n               Texas,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-23",
+    "logo": "https://ui-avatars.com/api/?name=Albertsons&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/90947428141748eeafad9207e3ee75b3/Float-Pharmacist"
+  },
+  {
+    "company": "Suntek Corporations Inc",
+    "position": "Internal Medicine Physician - Outpatient",
+    "location": "Great falls,  \n               Montana,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-23",
+    "logo": "https://ui-avatars.com/api/?name=Suntek%20Corporations%20Inc&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/6ea83ae15258462d9256d3bf4263f3de/Internal-Medicine-Physician-Outpatient"
+  },
+  {
+    "company": "QUANTUM TECHNOLOGIES LLC",
+    "position": "SR GEN AI Engineer",
+    "location": "Dallas,  \n               Texas,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-23",
+    "logo": "https://ui-avatars.com/api/?name=QUANTUM%20TECHNOLOGIES%20LLC&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/d55848e7f480409386fcbf893c275270/SR-GEN-AI-Engineer"
+  },
+  {
+    "company": "iPeople Infosystems LLC",
+    "position": "Kafka Developer",
+    "location": "New york,  \n               New york,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-23",
+    "logo": "https://ui-avatars.com/api/?name=iPeople%20Infosystems%20LLC&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/e51cb1fd15c44faea222491af01e96bc/Kafka-Developer"
+  },
+  {
+    "company": "JobExpress.ai AI职达",
+    "position": "财务与合规助理",
+    "location": "London,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-23",
+    "logo": "https://ui-avatars.com/api/?name=JobExpress.ai%20AI%E8%81%8C%E8%BE%BE&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/d0fd983de9a14011918b9c6bda13605d/%E8%B4%A2%E5%8A%A1%E4%B8%8E%E5%90%88%E8%A7%84%E5%8A%A9%E7%90%86"
+  },
+  {
+    "company": "Barchester Healthcare",
+    "position": "Clinical Development Nurse",
+    "location": "Hailey,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-22",
+    "logo": "https://ui-avatars.com/api/?name=Barchester%20Healthcare&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/a8293b5e6ece4f8abc7c4b546f6e16fa/Clinical-Development-Nurse"
+  },
+  {
+    "company": "Bits",
+    "position": "Commercial Finance Analyst – Fintech, Hybrid Impact",
+    "location": "Wolverhampton,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-22",
+    "logo": "https://ui-avatars.com/api/?name=Bits&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/cfb783cbc3804ccca042d3146e86acec/Commercial-Finance-Analyst-Fintech-Hybrid-Impact"
+  },
+  {
+    "company": "Product Pulse",
+    "position": "Founding People &amp; Talent Lead",
+    "location": "Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-22",
+    "logo": "https://ui-avatars.com/api/?name=Product%20Pulse&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/22f0dfe133ac47a292c291a20933f01b/Founding-People-&amp;-Talent-Lead"
+  },
+  {
+    "company": "Source Medical, LLC.",
+    "position": "IT Cardiology Opening in Ashland, KY",
+    "location": "Ashland,  \n               Kentucky,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-22",
+    "logo": "https://ui-avatars.com/api/?name=Source%20Medical%2C%20LLC.&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/b20daddf22fa4fecac35c03d274732e1/IT-Cardiology-Opening-in-Ashland-KY"
+  },
+  {
+    "company": "The Black Caucus of SRCD",
+    "position": "Pediatric Emergency Medicine in Seattle",
+    "location": "Seattle,  \n               Washington,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-22",
+    "logo": "https://ui-avatars.com/api/?name=The%20Black%20Caucus%20of%20SRCD&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/3151265238244d1fb9b9934f9ec87ce3/Pediatric-Emergency-Medicine-in-Seattle"
+  },
+  {
+    "company": "Kayes &amp; Associates",
+    "position": "Associate Attorney (Part-Time to Full-Time) – Corporate, Business &amp; Immigration Law",
+    "location": "Diamond bar,  \n               California,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-22",
+    "logo": "https://ui-avatars.com/api/?name=Kayes%20%26amp%3B%20Associates&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/5df862ab33944ddb9d1159e653e9058d/Associate-Attorney-(Part-Time-to-Full-Time)-Corporate-Business-&amp;-Immigration-Law"
+  },
+  {
+    "company": "Allina Health System",
+    "position": "General Outpatient Neurologist",
+    "location": "Saint paul,  \n               Minnesota,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-22",
+    "logo": "https://ui-avatars.com/api/?name=Allina%20Health%20System&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/5556c174a09e44868bc218bbc7e03116/General-Outpatient-Neurologist"
+  },
+  {
+    "company": "SumUp",
+    "position": "Android Engineer - Engagement Mission",
+    "location": "Berlin, Berlin, Germany",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-21",
+    "logo": "/media/sumup_logo.jpg",
+    "description": "https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-engagement-mission-berlin-49378"
+  },
+  {
+    "company": "Honeybee Hires",
+    "position": "South Jordan, UT | Speech Language Pathologist (SLP) | Pediatric Clinic",
+    "location": "South jordan,  \n               Utah,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-21",
+    "logo": "https://ui-avatars.com/api/?name=Honeybee%20Hires&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/ee11551cae494bf39ae496ad715197bc/South-Jordan-UT-Speech-Language-Pathologist-(SLP)-Pediatric-Clinic"
+  },
+  {
+    "company": "Nutritious Lifestyles",
+    "position": "Registered Dietitian/LDN/RD2Be",
+    "location": "Saint augustine,  \n               Florida,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-21",
+    "logo": "https://ui-avatars.com/api/?name=Nutritious%20Lifestyles&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/e92ff4f0e08a4481b6f5a1388185cd32/Registered-Dietitian-LDN-RD2Be"
+  },
+  {
+    "company": "Ascension",
+    "position": "Internal Medicine / Family Medicine Hospitalist",
+    "location": "Oshkosh,  \n               Wisconsin,  \n               United States",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-21",
+    "logo": "https://ui-avatars.com/api/?name=Ascension&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/75090e0eef984085aeefd95b9550e800/Internal-Medicine-Family-Medicine-Hospitalist"
+  },
+  {
+    "company": "Medical Staff Talent",
+    "position": "Yacht Concierge Physician Elite VIP Patron",
+    "location": "Coventry,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-21",
+    "logo": "https://ui-avatars.com/api/?name=Medical%20Staff%20Talent&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/eb818cddacac4a48b741b6104763be73/Yacht-Concierge-Physician-Elite-VIP-Patron"
+  },
+  {
+    "company": "Medical Staff Talent",
+    "position": "Voyage Doctor: Tax- Luxury Superyacht",
+    "location": "Wolverhampton,  \n               England,  \n               United Kingdom",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-21",
+    "logo": "https://ui-avatars.com/api/?name=Medical%20Staff%20Talent&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://visasponsor.jobs/api/jobs/551667cec9174bf38a4dc28f0a755307/Voyage-Doctor:-Tax-Luxury-Superyacht"
+  },
+  {
+    "company": "Welltech",
+    "position": "Head of Growth - Paid Social",
+    "location": "Cyprus",
+    "contract": "Full Time",
+    "reloc": "Relocation Assistance",
+    "visa": "Visa Sponsorship",
+    "post_date": "2026-07-20",
+    "logo": "https://ui-avatars.com/api/?name=Welltech&background=random&color=fff&font-size=0.4&rounded=true&size=128",
+    "description": "https://relocate.me/cyprus/limassol/welltech/head-of-growth-paid-social-10274"
+  },
+  {
     "company": "Hydrosat",
     "position": "Platform Engineer",
     "location": "Luxembourg",
@@ -7,7 +271,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Hydrosat&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://careers.hydrosat.com/o/platform-engineer"
   },
   {
@@ -18,7 +282,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=LGG%20Advisors&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://lggadvisors.zohorecruit.com/jobs/Careers/552115000006353011/AI-Engineer"
   },
   {
@@ -29,7 +293,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=DualEntry&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://jobs.ashbyhq.com/dualentry/3a238aad-ae17-452e-b528-9933bffdfc46"
   },
   {
@@ -40,7 +304,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=JustPlay%20GmbH&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://jobs.ashbyhq.com/justplay-gmbh/a738403a-6f44-41ca-b2c2-6c05b293bab6"
   },
   {
@@ -51,7 +315,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=AllSides&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://allsides.onboard.org/jobs/6GQ7dRmv"
   },
   {
@@ -62,19 +326,8 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Wypoon%20Technologies&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://jobs.eu.lever.co/wypoon/136cfee2-28f2-46b0-b634-99a563b9b059"
-  },
-  {
-    "company": "Arva AI",
-    "position": "Forward Deployed Engineer",
-    "location": "London, United Kingdom",
-    "contract": "Full Time",
-    "reloc": "Relocation Assistance",
-    "visa": "Visa Sponsorship",
-    "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
-    "description": "https://www.ycombinator.com/companies/arva-ai/jobs/VWRDWCW-forward-deployed-engineer"
   },
   {
     "company": "Senvo",
@@ -84,7 +337,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Senvo&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://www.arbeitnow.com/jobs/companies/senvo-gmbh/founding-head-of-engineering-berlin-71649"
   },
   {
@@ -95,7 +348,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-18",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Urban%20Sports%20Club&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://www.arbeitnow.com/jobs/companies/urban-sports-club/senior-backend-engineer-all-genders-golang-berlin-211662"
   },
   {
@@ -106,7 +359,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-18",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Distribusion%20Technologies&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/senior-engineering-manager-supply-domain-all-genders-berlin-309048"
   },
   {
@@ -117,7 +370,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-18",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Distribusion%20Technologies&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/engineering-manager-search-engine-all-genders-berlin-247347"
   },
   {
@@ -128,7 +381,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Halter&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/new-zealand/auckland/halter/senior-engineers-product-engineering-10258"
   },
   {
@@ -150,7 +403,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Playson&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/slovakia/bratislava/playson/system-administrator-service-desk-10271"
   },
   {
@@ -172,7 +425,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=PayPay&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/japan/tokyo/paypay/backend-engineer-10205"
   },
   {
@@ -194,7 +447,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=ACS%20International%20Schools&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/2d5b9f3353704fb78602a02a7f805083/Social-Studies-and-Business-&amp;-Enterprise-Teacher"
   },
   {
@@ -205,7 +458,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=EasyInfoBlog.com%20LLC&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/fa92ef3d7b934e18b3ec0afda3d0a6ec/Consultant-in-Obstetrics-&amp;-Gynaecology"
   },
   {
@@ -238,7 +491,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Movemeon&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/7ac2b52b2db74b6ab7a07a9634757837/Senior-Interim-Talent-Consultant-%E2%80%94-Strategic-Placements"
   },
   {
@@ -249,7 +502,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=ASVSH%20ACCOUNTANCY%20SERVICES%20LTD&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/dacea17d4f8046febe95f071b05efcd1/Accountant"
   },
   {
@@ -260,7 +513,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Victoria%20Ventures%20LTD&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/6b48186966e942b1bac9b07f3b9c556c/Chef"
   },
   {
@@ -271,7 +524,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=ITCO%20Solutions%20Corporation&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/a7ba0fbf4dcd48749d458182d4dc1c1d/Data-Architect-Wealth-Management"
   },
   {
@@ -282,7 +535,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-18",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=RecruitWell&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/af368f4ad3154cd7919f0d9bb6cf7ac2/Rogers-Arkansas-Gastroenterology-Opening"
   },
   {
@@ -293,7 +546,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-18",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=PH%20CONSULTATION%20UK%20LTD&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/c888ef64fc464f32be901ca604ba8d7c/Client-Services-Manager"
   },
   {
@@ -304,7 +557,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-18",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=BAS%20Healthcare&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/6802db9f7d0442b7a55f3d6af87c9f61/1xThoracic-Surgery-Cardio-Thoracic-Surgery-Mercy-Hospital-Northwest-Arkansas-(AR)"
   },
   {
@@ -315,7 +568,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-18",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Todd%20Mudie%20Group&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/1f40a585270f4d07bea22b6cac8af567/Experienced-&amp;-Intermediate-Painters"
   },
   {
@@ -337,7 +590,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-18",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Sails%20Restaurant&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/0eb72c5103c342f2a8f12dd532878c54/Seasonal-Cook"
   },
   {
@@ -348,7 +601,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-17",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Voice%20AI%20Space&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/c6d4acf228e94866a6a543f54a48af64/Design-Engineer"
   },
   {
@@ -359,7 +612,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-17",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Task%20Impetus%20Inc.&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/5eff221d68db4ce0b09682930e2d6e73/Data-Analysts-%2369606"
   },
   {
@@ -370,7 +623,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-17",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=purovets&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/f9e523b70e244183bcbe274490878e61/Veterinary-Surgeon"
   },
   {
@@ -381,7 +634,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-17",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Meeveem%20Limited&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/140b9baa4dce461591cdd8142184a867/Consultant-in-GA-Psychiatry-EIP-&amp;-South-LMHT-+-Golden"
   },
   {
@@ -392,7 +645,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-16",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Picnic&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/netherlands/amsterdam/picnic/senior-software-engineer-warehouse-systems-10262"
   },
   {
@@ -403,7 +656,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-16",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=TheInnCollectionGroup3&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/8b9fce356ce04aab91bd5bf331a562b9/Head-Chef-Live-In"
   },
   {
@@ -414,7 +667,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-16",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Bright%20Leaf%20Recruitment&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/cb74cb5ac26e4b4d96d037bc9bca4618/Small-Animal-night-Vet-hospital"
   },
   {
@@ -425,7 +678,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-16",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Plaistow%20Business%20Consultants%20Ltd&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/22f5a408356d4c11be9cecedf12e8b16/Global-Orthopedic-Surgeon"
   },
   {
@@ -436,7 +689,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-16",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=ALG%20%20Talent%20Specialists&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/b794c2cb97574a0ca3222b8b4465fb84/Aircraft-Painter"
   },
   {
@@ -447,7 +700,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-14",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=SimScale%20GmbH&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://www.arbeitnow.com/jobs/companies/simscale-gmbh/principal-governance-risk-and-compliance-grc-architect-munich-313642"
   },
   {
@@ -491,7 +744,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-13",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Workforce%20Australia&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/a4c0fc7f21ae4acd91f38d7c8ddc1948/Mental-Health-Nursing-jobs-in-SE-Sydney-(visa-sponsorship-available)"
   },
   {
@@ -502,7 +755,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-12",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=University%20of%20the%20West%20Scotland&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/9404809a7f1c49b9826841508c7b0c11/Lecturer"
   },
   {
@@ -526,17 +779,6 @@
     "post_date": "2026-07-09",
     "logo": "/media/n26_logo.jpg",
     "description": "https://visasponsor.jobs/api/jobs/9e3686772f2c4d84a936fb02ffe2c052/Senior-Manager-Risk-Controlling-ICAAP-ILAAP-(Pillar-1)"
-  },
-  {
-    "company": "Playson",
-    "position": "System Administrator/Service Desk",
-    "location": "Slovakia",
-    "contract": "Full Time",
-    "reloc": "Relocation Assistance",
-    "visa": "Visa Sponsorship",
-    "post_date": "2026-07-08",
-    "logo": "/favicon/android-chrome-192x192.png",
-    "description": "https://relocate.me/slovakia/bratislava/playson/system-administrator-service-desk-10271"
   },
   {
     "company": "SumUp",
@@ -568,7 +810,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-05",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=C%20Teleport&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/netherlands/rotterdam/c-teleport/lead-software-engineer-team-lead-billing-squad-10270"
   },
   {
@@ -579,7 +821,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-05",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=PayPay%20Card&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/japan/tokyo/paypay-card/automation-qa-engineer-10182"
   },
   {
@@ -605,17 +847,6 @@
     "description": "https://visasponsor.jobs/api/jobs/50f1f7a2f40a4a659756709b31152445/Senior-End-User-Computing-Virtual-Desktop-Engineer-(EUC-VDI)"
   },
   {
-    "company": "SumUp",
-    "position": "Talent Acquisition Partner",
-    "location": "Berlin, Berlin, Germany",
-    "contract": "Full Time",
-    "reloc": "Relocation Assistance",
-    "visa": "Visa Sponsorship",
-    "post_date": "2026-07-02",
-    "logo": "/media/sumup_logo.jpg",
-    "description": "https://www.arbeitnow.com/jobs/companies/sumup/talent-acquisition-partner-berlin-49251"
-  },
-  {
     "company": "The Global Move",
     "position": "1000+ Curated Visa Sponsorship and Remote Tech Jobs (Paid Option)",
     "location": "Remote",
@@ -623,7 +854,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-07-02",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=The%20Global%20Move&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/remote/remote/the-global-move/1000-curated-visa-sponsorship-and-remote-tech-jobs-paid-option-10080"
   },
   {
@@ -634,7 +865,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-30",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Intelligent%20Health%20Care%20Australia&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/14b8d7c3b0364145aed34b70d1341253/Full-Time-Podiatrist-Sponsorship-available"
   },
   {
@@ -645,7 +876,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-29",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Halter&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/new-zealand/auckland/halter/senior-engineer-go-to-market-10267"
   },
   {
@@ -733,7 +964,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-24",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=PayPay%20Card&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/japan/tokyo/paypay-card/backend-engineer-10180"
   },
   {
@@ -744,19 +975,8 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-23",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=PayPay&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/japan/tokyo/paypay/senior-product-manager-10236"
-  },
-  {
-    "company": "Catawiki",
-    "position": "Engineering Manager - Shipping",
-    "location": "Portugal",
-    "contract": "Full Time",
-    "reloc": "Relocation Assistance",
-    "visa": "Visa Sponsorship",
-    "post_date": "2026-06-23",
-    "logo": "/media/catawiki_logo.jpg",
-    "description": "https://relocate.me/portugal/lisbon/catawiki/engineering-manager-shipping-10269"
   },
   {
     "company": "Medical Jobs Australia",
@@ -766,7 +986,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-22",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Medical%20Jobs%20Australia&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/53047c9129354ebb9daa26caaaeef0db/Cardiac-Cath-Lab-Nurses-Permanent-Role-QLD-Sponsorship-Available!"
   },
   {
@@ -777,7 +997,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-21",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Halter&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/new-zealand/auckland/halter/software-engineering-manager-10239"
   },
   {
@@ -788,7 +1008,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-21",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Welltech&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/cyprus/limassol/welltech/staff-security-engineer-10265"
   },
   {
@@ -810,7 +1030,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Welltech&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/cyprus/limassol/welltech/head-of-product-payments-10266"
   },
   {
@@ -821,19 +1041,8 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-19",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Hevy&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/spain/barcelona/hevy/lead-react-native-engineer-10255"
-  },
-  {
-    "company": "PayPay",
-    "position": "Backend Engineer",
-    "location": "Japan",
-    "contract": "Full Time",
-    "reloc": "Relocation Assistance",
-    "visa": "Visa Sponsorship",
-    "post_date": "2026-06-19",
-    "logo": "/favicon/android-chrome-192x192.png",
-    "description": "https://relocate.me/japan/tokyo/paypay/backend-engineer-10205"
   },
   {
     "company": "N26",
@@ -865,7 +1074,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-18",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=PayPay&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/japan/tokyo/paypay/automation-qa-engineer-10105"
   },
   {
@@ -876,19 +1085,8 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-18",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Picnic&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/netherlands/amsterdam/picnic/software-engineer-consumer-products-10256"
-  },
-  {
-    "company": "Multiverse Computing",
-    "position": "Senior MLOps Engineer (Training & Inference Optimization)",
-    "location": "Spain",
-    "contract": "Full Time",
-    "reloc": "Relocation Assistance",
-    "visa": "Visa Sponsorship",
-    "post_date": "2026-06-18",
-    "logo": "/media/multiversecomputing_logo.jpg",
-    "description": "https://relocate.me/spain/san-sebastian/multiverse-computing/senior-mlops-engineer-training-inference-optimization-10243"
   },
   {
     "company": "PayPay Card",
@@ -898,7 +1096,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-17",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=PayPay%20Card&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://relocate.me/japan/tokyo/paypay-card/platform-engineer-10181"
   },
   {
@@ -909,7 +1107,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-17",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Marble&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/898d38248ed4452282afc4dc497f5619/Co-Founder-CTO-(Construction-Robotics)"
   },
   {
@@ -920,7 +1118,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-17",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Workforce%20Australia&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/8e8f3755037a4f0cba8f4230f65a79c3/SOUS-CHEF-THE-WHARF-VISA-SPONSORSHIP-AVAILABLE"
   },
   {
@@ -931,7 +1129,7 @@
     "reloc": "Relocation Assistance",
     "visa": "Visa Sponsorship",
     "post_date": "2026-06-17",
-    "logo": "/favicon/android-chrome-192x192.png",
+    "logo": "https://ui-avatars.com/api/?name=Murrumbidgee%20Local%20Health%20District&background=random&color=fff&font-size=0.4&rounded=true&size=128",
     "description": "https://visasponsor.jobs/api/jobs/7609966e09794193ad349aa272e6d1b5/Youth-Mental-Health-Clinician"
   },
   {
@@ -1098,17 +1296,6 @@
     "post_date": "June 4, 2026",
     "logo": "/media/paypay_card_logo.jpg",
     "description": "https://relocate.me/japan/tokyo/paypay-card/senior-frontend-engineer-10263"
-  },
-  {
-    "company": "HENNGE",
-    "position": "Senior Frontend Engineer",
-    "location": "Japan",
-    "contract": "Full Time",
-    "reloc": "Relocation Assistance",
-    "visa": "Visa Sponsorship",
-    "post_date": "June 4, 2026",
-    "logo": "/media/hennge_logo.jpg",
-    "description": "https://relocate.me/japan/tokyo/hennge/senior-frontend-engineer-10264"
   },
   {
     "company": "PayPay",
