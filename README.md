@@ -11,6 +11,50 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Datadog | Partner Solutions Architect (Pan-EMEA GSI) | Lisbon, | 2026-07-31 | Portugal | [Apply](https://www.arbeitnow.co.uk/jobs/companies/datadog/partner-solutions-architect-pan-emea-gsi-lisbon-portugal-192493) |
+| AML RightSource | Experienced AML Investigator - Financial Crimes (Hybrid) | Highland, California, United | 2026-08-01 | States | [Apply](https://visasponsor.jobs/api/jobs/e63151b3818e4e53ad9f6ca309205a02/Experienced-AML-Investigator-Financial-Crimes-(Hybrid)) |
+| hellofresh | Senior Lifecycle Marketing Manager (all genders) |  | 2026-07-30 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-lifecycle-marketing-manager-all-genders-berlin-252615) |
+| Stripe | Account Executive, Bridge |  | 2026-07-31 | London | [Apply](https://www.arbeitnow.co.uk/jobs/companies/stripe/account-executive-bridge-london-209229) |
+| Naija UK Connect Limited | Nursery Assistant Visa Sponsorship Available | Kingston upon hull, England, United | 2026-07-31 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/6ba3573031fb44c0b63c342858f2f5d0/Nursery-Assistant-Visa-Sponsorship-Available) |
+| sumup | Senior Talent Acquisition Partner |  | 2026-07-30 | London | [Apply](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-talent-acquisition-partner-london-397641) |
+| Spotify | Fullstack Engineer - Subscriptions |  | 2026-07-29 | London | [Apply](https://www.arbeitnow.co.uk/jobs/companies/spotify/fullstack-engineer-subscriptions-london-229822) |
+| N26 | Site Reliability Engineer - Observability | Berlin, | 2026-07-30 | Germany | [Apply](https://visasponsor.jobs/api/jobs/00200bc5f6134c239cb4447e1f1bf40c/Site-Reliability-Engineer-Observability) |
+| SumUp | iOS Engineer - Mobile Platform | Cologne, North Rhine-Westphalia, | 2026-07-28 | Germany | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/ios-engineer-mobile-platform-cologne-75181) |
+| sumup | Senior Backend Engineer - Commercial Systems and Intelligence |  | 2026-07-28 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/sumup/senior-backend-engineer-commercial-systems-and-intelligence-berlin-204665) |
+| Catawiki | Senior Data Scientist - Machine Learning |  | 2026-07-29 | Portugal | [Apply](https://relocate.me/portugal/lisbon/catawiki/senior-data-scientist-machine-learning-10277) |
+| Catawiki | Senior Product Manager - Demand |  | 2026-07-29 | Netherlands | [Apply](https://relocate.me/netherlands/amsterdam/catawiki/senior-product-manager-demand-10278) |
+| sumup | Senior Backend Engineer (Golang) | Vilnius, | 2026-07-28 | Lithuania | [Apply](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-backend-engineer-golang-vilnius-lithuania-443469) |
+| sumup | Senior Backend Engineer- Global Bank | Sofia, | 2026-07-28 | Bulgaria | [Apply](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-backend-engineer-global-bank-sofia-bulgaria-138769) |
+| sumup | Senior Backend Engineer - Cards | Berlin, | 2026-07-28 | Germany | [Apply](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-backend-engineer-cards-berlin-germany-217561) |
+| Wispr Flow | Platform Engineer, Billing Systems | San francisco, California, United | 2026-07-28 | States | [Apply](https://visasponsor.jobs/api/jobs/6e18af7b8a4f47918a5ccded4e793992/Platform-Engineer-Billing-Systems) |
+| hellofresh | Senior Manager, Global Price & Discount Strategy |  | 2026-07-25 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-manager-global-price-discount-strategy-berlin-376787) |
+| hellofresh | Senior GRC Analyst (m,f,x) |  | 2026-07-22 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-grc-analyst-mfx-berlin-180017) |
+| English 1 | Teach English : Entry-Level ESL Teacher | Leicester, England, United | 2026-07-27 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/cf5f38073aa542eeb2976a90fa4ecd91/Teach-English-:-Entry-Level-ESL-Teacher) |
+| N26 | Team Lead Non-Financial Risk and Internal Controls | Berlin, | 2026-07-27 | Germany | [Apply](https://visasponsor.jobs/api/jobs/dca837de411c412892ff6cfb4346da6c/Team-Lead-Non-Financial-Risk-and-Internal-Controls) |
+| HealthcareLink Support | Community-Based Speech Pathologist - Visa Sponsorship Available | Adelaide, South australia, | 2026-07-27 | Australia | [Apply](https://visasponsor.jobs/api/jobs/5aabefa602e94522bc06ef2dd8983a8f/Community-Based-Speech-Pathologist-Visa-Sponsorship-Available) |
+| Workforce Australia | Registered Nurse - Emergency Department (ED) \\| Visa Sponsorship Available | Sydney, New south wales, | 2026-07-27 | Australia | [Apply](https://visasponsor.jobs/api/jobs/71add359130e4c06912086755d746b0d/Registered-Nurse-Emergency-Department-(ED)-Visa-Sponsorship-Available) |
+| American Society of Neuroradiology | Interventional Radiologist – Austin, TX \\| Top-Tier Practice \\| Work-Life Balance + Growth | Austin, Texas, United | 2026-07-26 | States | [Apply](https://visasponsor.jobs/api/jobs/291d21704b674340af2c3707cde18425/Interventional-Radiologist-Austin-TX-Top-Tier-Practice-Work-Life-Balance-+-Growth) |
+| Civil Science | Civil Engineer - Public Works (PE) | Salt lake city, Utah, United | 2026-07-26 | States | [Apply](https://visasponsor.jobs/api/jobs/1996d930a01b41c5b1a91e6b78b5bbbe/Civil-Engineer-Public-Works-(PE)) |
+| Rehab Alliance | Certified Occupational Therapy Assistant - Per Diem | Oakland, California, United | 2026-07-26 | States | [Apply](https://visasponsor.jobs/api/jobs/5b52ea07808841088329db35e32c9d80/Certified-Occupational-Therapy-Assistant-Per-Diem) |
+| All Med Search | Dialysis Registered Nurses \\| Relocate to the USA \\| TN Visa Support | Calgary, Alberta, | 2026-07-26 | Canada | [Apply](https://visasponsor.jobs/api/jobs/66adc5cb72294f3aa16446a1df008350/Dialysis-Registered-Nurses-Relocate-to-the-USA-TN-Visa-Support) |
+| University of Washington | Assistant Professor without tenure, Department of Pediatrics, Division of General Pediatrics | Seattle, Washington, United | 2026-07-26 | States | [Apply](https://visasponsor.jobs/api/jobs/0cb4b569591a4b84b8e96c4f1b4b3041/Assistant-Professor-without-tenure-Department-of-Pediatrics-Division-of-General-Pediatrics) |
+| Wave Group | Senior Data Scientist (Forecasting) | London, England, United | 2026-07-26 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/fd7005a7b932426f8921a7f451e8db18/Senior-Data-Scientist-(Forecasting)) |
+| Richard Yu | Client Success Coach (CSM) |  | 2026-07-25 | Remote | [Apply](https://relocate.me/remote/remote/richard-yu/client-success-coach-csm-10272) |
+| Numotion | Clinic Liaison | Yadkinville, North carolina, United | 2026-07-25 | States | [Apply](https://visasponsor.jobs/api/jobs/7302e689314a464a9bac8bc7e21d0921/Clinic-Liaison) |
+| Barchester Healthcare | Deputy General Manager Clinical | Llanelli, Wales, United | 2026-07-25 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/b4a6a6f12a484183a915ed5e486d46b1/Deputy-General-Manager-Clinical) |
+| HQ Migration Solutions | Panel Beaters | Mornington, Victoria, | 2026-07-25 | Australia | [Apply](https://visasponsor.jobs/api/jobs/bbd5cfc227b14047a5aa2a54e2b87e12/Panel-Beaters) |
+| LEONGATHA HEALTH PTY LTD | Full Time Pharmacist | Leongatha, Victoria, | 2026-07-25 | Australia | [Apply](https://visasponsor.jobs/api/jobs/76fb8b1a6ef64f76ab8f67f552774854/Full-Time-Pharmacist) |
+| Onemedical Group | Lead GP: Primary Care Leadership &amp; Service Innovation | Derby, England, United | 2026-07-25 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/bd328713aca44d64a5b8e09d6409fee7/Lead-GP:-Primary-Care-Leadership-&amp;-Service-Innovation) |
+| JustPlay | Lead UX/UI Designer (all genders) | Berlin, | 2026-07-25 | Germany | [Apply](https://visasponsor.jobs/api/jobs/17008de90dae4e9c8b32d66a943101dc/Lead-UX-UI-Designer-(all-genders)) |
+| METANLYTICS LLC | SAP QM (Quality Management) Lead Consultant | Tulsa, Oklahoma, United | 2026-07-25 | States | [Apply](https://visasponsor.jobs/api/jobs/2810581a6b264aeb9bfe06e483dc99ea/SAP-QM-(Quality-Management)-Lead-Consultant) |
+| Tech Tandem Inc | AI Product Owner with P&amp;C insurance experience | Warren, New jersey, United | 2026-07-25 | States | [Apply](https://visasponsor.jobs/api/jobs/ecb00fee50e74a2d9981ab86f9989a27/AI-Product-Owner-with-P&amp;C-insurance-experience) |
+| Optiver | HR Business Partner | Amsterdam, Noordholland, | 2026-07-25 | Netherlands | [Apply](https://visasponsor.jobs/api/jobs/fa1951726dbe4ef9bb3d9916f67ad316/HR-Business-Partner) |
+| Sails Restaurant | Seasonal Restaurant Manager | Naples, Florida, United | 2026-07-25 | States | [Apply](https://visasponsor.jobs/api/jobs/6dc70ef84be34724a007bf1c97a55b54/Seasonal-Restaurant-Manager) |
+| University of Washington | Open Rank without tenure (WOT) - Vascular Neurologist (Neurology) | Seattle, Washington, United | 2026-07-24 | States | [Apply](https://visasponsor.jobs/api/jobs/60ae58e3d0114d9a85603e21a30bd3be/Open-Rank-without-tenure-(WOT)-Vascular-Neurologist-(Neurology)) |
+| University of Washington | Associate Division Head for Clinical Affairs (Associate or full Professor WOT) | Seattle, Washington, United | 2026-07-24 | States | [Apply](https://visasponsor.jobs/api/jobs/adc0bdacf6244699b7f027ed26c49663/Associate-Division-Head-for-Clinical-Affairs-(Associate-or-full-Professor-WOT)) |
+| Starmerx International | Senior Warehouse Manager - Chicago - Mandarin Required | Chicago, Illinois, United | 2026-07-24 | States | [Apply](https://visasponsor.jobs/api/jobs/961956b5fb98490ab4eb4c5c73efd8e6/Senior-Warehouse-Manager-Chicago-Mandarin-Required) |
+| Medical Staff Talent | Luxury Yacht Physician: Tax Mediterranean | Manchester, England, United | 2026-07-24 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/8f8722fe7cc54b1cacb96aa75b021c0a/Luxury-Yacht-Physician:-Tax-Mediterranean) |
+| CCS Group (AU) Pty Ltd | Experienced Diamond Drilling &amp; Sawing Operative RELOCATION TO PERTH, WA | Perth, Western australia, | 2026-07-24 | Australia | [Apply](https://visasponsor.jobs/api/jobs/e17c9a3858ea473b83e01ee049580b49/Experienced-Diamond-Drilling-&amp;-Sawing-Operative-RELOCATION-TO-PERTH-WA) |
 | Costello Medical, Inc. | Project Coordinator - Evidence Development | Bristol, England, United | 2026-07-23 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/908e778c670a44b68d740ffbf55005ff/Project-Coordinator-Evidence-Development) |
 | George Migration | Head Chef | Tewantin, Queensland, | 2026-07-23 | Australia | [Apply](https://visasponsor.jobs/api/jobs/7465a45b49eb447bb40bd92821a603a8/Head-Chef) |
 | Raas Infotek | Business Intelligence Developer | Miami, Florida, United | 2026-07-23 | States | [Apply](https://visasponsor.jobs/api/jobs/24d2433b2b7b4e0a9ca7010ea98e0402/Business-Intelligence-Developer) |
@@ -398,6 +442,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Sun Aug  2 13:42:34 UTC 2026
+Last updated: Mon Aug  3 14:55:06 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
