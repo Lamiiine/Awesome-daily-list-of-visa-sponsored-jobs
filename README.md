@@ -4,7 +4,7 @@ Welcome to our repository of daily-updated, visa-sponsored job opportunities! Th
 
 🌟 **Check out our main site**: [visajobs](https://visajobs.xyz)
 
-💬 **Join our Telegram channel**: [visajobs Telegram](https://t.me/visa_sponsored_jobs)
+💬 **Join our Telegram channel**: [visajobs Telegram](https://t.me/visa_sponsored_jobss)
 
 We encourage the community to engage, share, and support each other in the job search process. If you find this resource helpful, please star the repository and spread the word!
 
@@ -442,6 +442,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Mon Aug 10 13:23:28 UTC 2026
+Last updated: Mon Aug 10 19:53:15 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
