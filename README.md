@@ -31,6 +31,11 @@ We encourage the community to engage, share, and support each other in the job s
 
 | Company | Job Title | Location | Added | Flag | Link |
 | --- | --- | --- | --- | --- | --- |
+| Artie Technologies | Product Engineer | San Francisco, California, United | 2026-08-11 | States | [Apply](https://jobs.ashbyhq.com/artie/02414b41-4bd5-4ace-9f26-d0d087861155) |
+| Artie Technologies | Senior Software Engineer | San Francisco, California, United | 2026-08-11 | States | [Apply](https://jobs.ashbyhq.com/artie/9a743ac5-2228-4522-895f-139dac5426a2) |
+| Artie Technologies | Senior Business Development Representative - Enterprise | San Francisco, California, United | 2026-08-11 | States | [Apply](https://jobs.ashbyhq.com/artie/328d888f-3b88-4c1a-a874-12e7b56c288d) |
+| Artie Technologies | Technical Enterprise AE | San Francisco, California, United | 2026-08-11 | States | [Apply](https://jobs.ashbyhq.com/artie/e87b84d2-78b3-41a3-937a-47e83643cdf1) |
+| Medical Jobs Australia | Registered Nurse (Emergency &amp; Acute) - Permanent Contract - North East Tasmania - Visa Sponsorship Available! | Launceston, Tasmania, | 2026-08-11 | Australia | [Apply](https://visasponsor.jobs/api/jobs/e5e108d2b4a446a090ebe4136928f27c/Registered-Nurse-(Emergency-&amp;-Acute)-Permanent-Contract-North-East-Tasmania-Visa-Sponsorship-Available!) |
 | Clera | Account Executive |  | 2026-08-08 | Munich | [Apply](https://www.arbeitnow.com/jobs/companies/clera/account-executive-munich-336717) |
 | hellofresh | Senior Product Designer, New Ventures (f/m/x) | Berlin, | 2026-08-08 | Berlin | [Apply](https://www.arbeitnow.com/jobs/companies/hellofresh/senior-product-designer-new-ventures-berlin-berlin-382449) |
 | HelloFresh | Growth Operations &amp; Campaigns Manager (Junior | Kingston upon hull, England, United | 2026-08-08 | Kingdom | [Apply](https://visasponsor.jobs/api/jobs/c0d0e369b8a04c2999ee3473b97ca6dc/Growth-Operations-&amp;-Campaigns-Manager-(Junior) |
@@ -489,6 +494,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Tue Aug 11 13:20:01 UTC 2026
+Last updated: Wed Aug 12 13:24:19 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
